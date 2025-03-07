@@ -413,7 +413,7 @@
 <h2 id="sosmedandacademicrecords" align="center">♻️ My Community</h2>
 <div id="community" align="center">
   <a align="center" href="https://www.instagram.com/robotics.upnjatim/" target="_blank"><img width="100" height="50" alt="Robotics UPN Community" src="Assets/Community/logo_robotics_upn.png"></a>
-  <a align="center" href="https://digitalent.kominfo.go.id/" target="_blank"><img width="100" height="50" alt="DTS PROA Alumnus" src="Assets/Community/logo_digitalent.png"></a>
+  <a align="center" href="https://digitalent.komdigi.go.id/" target="_blank"><img width="100" height="50" alt="DTS PROA Alumnus" src="Assets/Community/logo_digitalent.png"></a>
   <a align="center" href="https://edspert.id/" target="_blank"><img width="100" height="50" alt="Edspert Community" src="Assets/Community/logo_edspert.id.png"></a>
   <a align="center" href="https://www.dicoding.com/" target="_blank"><img width="100" height="50" alt="Dicoding Community" src="Assets/Community/logo_dicoding.png"></a>
   <a align="center" href="https://nusabot.id/" target="_blank"><img width="100" height="50" alt="Nusabot Community" src="Assets/Community/logo_nusabot.png"></a>
@@ -423,9 +423,9 @@
   <br>
   <a align="center" href="https://indobot.co.id/" target="_blank"><img width="100" height="50" alt="Indobot Community" src="Assets/Community/logo_indobot.png"></a>
   <a align="center" href="https://progate.com/" target="_blank"><img width="100" height="50" alt="Progate Community" src="Assets/Community/logo_progate.png"></a>
-  <a align="center" href="https://www.ics-cademy.com/" target="_blank"><img width="100" height="50" alt="ICS Community" src="Assets/Community/logo_ics.png"></a>
   <a align="center" href="https://kelasiot.id/" target="_blank"><img width="100" height="50" alt="ICS Community" src="Assets/Community/logo_kelas_iot.png"></a>
   <a align="center" href="https://edutic.id/" target="_blank"><img width="100" height="50" alt="Edutic Community" src="Assets/Community/logo_edutic.id.png"></a>
+  <a align="center" href="https://www.ics-cademy.com/" target="_blank"><img width="100" height="50" alt="ICS Community" src="Assets/Community/logo_ics.png"></a>
 </div><br><br><br>
 
 <div class="container" id="githubstats" align="center">
