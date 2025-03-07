@@ -419,10 +419,10 @@
   <a align="center" href="https://nusabot.id/" target="_blank"><img width="100" height="50" alt="Nusabot Community" src="Assets/Community/logo_nusabot.png"></a>
   <br>
   <a align="center" href="https://www.youtube.com/channel/UCkTp-v7MD7C6rYnjsU0bBWg" target="_blank"><img width="100" height="50" alt="Ardumeka Community" src="Assets/Community/logo_ardumeka.png"></a>
+  <br>
   <a align="center" href="https://indobot.co.id/" target="_blank"><img width="100" height="50" alt="Indobot Community" src="Assets/Community/logo_indobot.png"></a>
   <a align="center" href="https://progate.com/" target="_blank"><img width="100" height="50" alt="Progate Community" src="Assets/Community/logo_progate.png"></a>
   <a align="center" href="https://www.ics-cademy.com/" target="_blank"><img width="100" height="50" alt="ICS Community" src="Assets/Community/logo_ics.png"></a>
-  <br>
   <a align="center" href="https://kelasiot.id/" target="_blank"><img width="100" height="50" alt="ICS Community" src="Assets/Community/logo_kelas_iot.png"></a>
   <a align="center" href="https://edutic.id/" target="_blank"><img width="100" height="50" alt="Edutic Community" src="Assets/Community/logo_edutic.id.png"></a>
 </div><br><br><br>
