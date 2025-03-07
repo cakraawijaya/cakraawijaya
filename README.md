@@ -419,6 +419,7 @@
   <a align="center" href="https://nusabot.id/" target="_blank"><img width="100" height="50" alt="Nusabot Community" src="Assets/Community/logo_nusabot.png"></a>
   <br>
   <a align="center" href="https://t.me/ardumeka" target="_blank"><img width="100" height="50" alt="Ardumeka Community" src="Assets/Community/logo_ardumeka.png"></a>
+  <a align="center" href="https://t.me/kelasrobotgrup" target="_blank"><img width="100" height="50" alt="Kelas Robot Community" src="Assets/Community/logo_kelas_robot.png"></a>
   <br>
   <a align="center" href="https://indobot.co.id/" target="_blank"><img width="100" height="50" alt="Indobot Community" src="Assets/Community/logo_indobot.png"></a>
   <a align="center" href="https://progate.com/" target="_blank"><img width="100" height="50" alt="Progate Community" src="Assets/Community/logo_progate.png"></a>
