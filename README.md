@@ -117,18 +117,24 @@
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
+                <img src="Assets/Platform-Tools-Support/influxdb.png" width="48" height="48" alt="influxdb">
+            </a><br>
+            <p>InfluxDB</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/composer.png" width="48" height="48" alt="composer">
             </a><br>
             <p>Composer</p>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/ngrok.png" width="48" height="48" alt="ngrok">
             </a><br>
             <p>Ngrok</p>
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/xampp.png" width="48" height="48" alt="xampp">
@@ -171,14 +177,14 @@
             </a><br>
             <p>Tailwind</p>
         </td>
+    </tr>
+    <tr>      
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/fontawesome.png" width="48" height="48" alt="fontawesome">
             </a><br>
             <p>Font Awesome</p>
         </td>
-    </tr>
-    <tr>      
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/codeigniter.png" width="48" height="48" alt="codeigniter">
@@ -221,14 +227,14 @@
             </a><br>
             <p>Botman</p>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/platformio.png" width="48" height="48" alt="platformio">
             </a><br>
             <p>PlatformIO</p>
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/kodular.png" width="48" height="48" alt="kodular">
@@ -271,14 +277,14 @@
             </a><br>
             <p>Blynk IoT</p>
         </td>
+    </tr>
+    <tr>     
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/shiftrio.png" width="48" height="48" alt="shiftrio">
             </a><br>
             <p>Shiftr.io</p>
         </td>
-    </tr>
-    <tr>     
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/thingsboard.png" width="48" height="48" alt="thingsboard">
@@ -321,14 +327,14 @@
             </a><br>
             <p>Node Red</p>
         </td>  
+    </tr>
+    <tr>     
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/emqx.png" width="48" height="48" alt="emqx">
             </a><br>
             <p>EMQX</p>
         </td>  
-    </tr>
-    <tr>     
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/hivemq.png" width="48" height="48" alt="hivemq">
@@ -340,6 +346,12 @@
                 <img src="Assets/Platform-Tools-Support/thingerio.png" width="48" height="48" alt="thingerio">
             </a><br>
             <p>Thinger.io</p>
+        </td>  
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Platform-Tools-Support/grafana.png" width="48" height="48" alt="grafana">
+            </a><br>
+            <p>Grafana</p>
         </td>  
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
@@ -365,6 +377,8 @@
             </a><br>
             <p>STM</p>
         </td>
+    </tr>
+    <tr>      
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/raspberry.png" width="48" height="48" alt="raspberry">
@@ -377,8 +391,6 @@
             </a><br>
             <p>Autodesk Eagle</p>
         </td>
-    </tr>
-    <tr>      
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Platform-Tools-Support/easyeda.png" width="48" height="48" alt="easyeda">
