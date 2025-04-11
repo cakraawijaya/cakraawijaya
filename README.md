@@ -15,7 +15,7 @@
 
 <br><br>
 
-<h2 id="about" align="center">👤 About me</h2>
+<h2></h2><h2 id="about" align="center">👤 About me</h2>
 <div align="center">
     
 <img src="Assets/About/wave.gif" height="18px"> Hi everyone... &nbsp; You can call me <strong>``` Devan / Cakra ```</strong>, welcome to my Github.<br><br>I'm a <strong>``` Bachelor of Computer Science (S.Kom) ```</strong> from <strong>``` UPN Veteran Jatim ```</strong>.<br><br>I'm adaptable, like to learn new things, can work in a team or individually, & can solve problems.<br><br>My expertise: ``` Robotics & Embedded System ```, ``` Internet of Things ```, ``` Software Engineering ```.
@@ -24,7 +24,7 @@
 
 <br><br>
 
-<h2 id="basicknowledge" align="center">💻 Basic Knowledge Skills</h2>
+<h2></h2><h2 id="basicknowledge" align="center">💻 Basic Knowledge Skills</h2>
 <div align="center">
 <details><summary>Some of the Programming Languages, Development Tools, and other things I've used for work.</summary><br>
     
@@ -422,7 +422,7 @@
 
 <br><br>
 
-<h2 id="sosmedandacademicrecords" align="center">♻️ My Community</h2>
+<h2></h2><h2 id="sosmedandacademicrecords" align="center">♻️ My Community</h2>
 <div id="community" align="center">
   <a align="center" href="https://www.instagram.com/robotics.upnjatim/" target="_blank"><img width="100" height="50" alt="Robotics UPN Community" src="Assets/Community/logo_robotics_upn.png"></a>
   <a align="center" href="https://digitalent.komdigi.go.id/" target="_blank"><img width="100" height="50" alt="DTS PROA Alumnus" src="Assets/Community/logo_digitalent.png"></a>
