@@ -13,8 +13,6 @@
 
 <img width="1920" height="170" src="Assets/Banner/Welcome.gif" alt="Banner IoT Engineer by Devan C.M.W">
 
-<br><br>
-
 <h2></h2><h2 id="about" align="center">👤 About me</h2>
 <div align="center">
     
@@ -423,6 +421,9 @@
 <br><br>
 
 <h2></h2><h2 id="sosmedandacademicrecords" align="center">♻️ My Community</h2>
+
+<br>
+
 <div id="community" align="center">
   <a align="center" href="https://www.instagram.com/robotics.upnjatim/" target="_blank"><img width="100" height="50" alt="Robotics UPN Community" src="Assets/Community/logo_robotics_upn.png"></a>
   <a align="center" href="https://digitalent.komdigi.go.id/" target="_blank"><img width="100" height="50" alt="DTS PROA Alumnus" src="Assets/Community/logo_digitalent.png"></a>
