@@ -442,7 +442,7 @@
 </div><br><br><br>
 
 <div class="container" id="githubstats" align="center">
-  <img align="center" alt="Devan Github Streak Stats" src="https://streak-stats.demolab.com/?user=cakraawijaya&show_icons=true&hide_border=true&mode=weekly&layout=compact&theme=algolia">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Devan Github Streak Stats" src="https://streak-stats.demolab.com/?user=cakraawijaya&show_icons=true&hide_border=true&layout=compact&theme=algolia">&nbsp;&nbsp;&nbsp;&nbsp;
       
   <img align="center" alt="Devan Github Readme Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cakraawijaya&show_icons=true&hide=scss&hide_border=true&count_private=true&include_all_commits=true&layout=compact&theme=algolia">
 </div>
