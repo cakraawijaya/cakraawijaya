@@ -98,7 +98,9 @@
             </a><br/>
             <p>TypeScript</p>
         </td>
-    </tr><br/><br/>
+    </tr>
+</table><br/>
+<table align="center">
     <p><strong>Frontend</strong></p>
     <tr>
         <td align="center" width="96" height="96">
@@ -143,7 +145,9 @@
             </a><br/>
             <p>Framer Motion</p>
         </td>
-    </tr><br/><br/>
+    </tr>
+</table><br/>
+<table align="center">
     <p><strong>Database and Backend</strong></p>
     <tr>
         <td align="center" width="96" height="96">
@@ -220,7 +224,9 @@
             </a><br/>
             <p>Composer</p>
         </td>
-    </tr><br/><br/>
+    </tr>
+</table><br/>
+<table align="center">
     <p><strong>Embedded Systems and IoT</strong></p>
     <tr>
         <td align="center" width="96" height="96">
@@ -365,7 +371,9 @@
             </a><br/>
             <p>WebSocket</p>
         </td>
-    </tr><br/><br/>
+    </tr>
+</table><br/>
+<table align="center">
     <p><strong>Others</strong></p>
     <tr>      
         <td align="center" width="96" height="96">
@@ -487,11 +495,11 @@
 
 <br/><br/>
 
-<h2></h2><h2 id="sosmedandacademicrecords" align="center">♻️ My Community</h2>
+<h2></h2><h2 id="community" align="center">♻️ My Community</h2>
 
 <br/>
 
-<div id="community" align="center">
+<div align="center">
   <a align="center" href="https://www.instagram.com/robotics.upnjatim/" target="_blank"><img width="100" height="50" alt="Robotics UPN Community" src="Assets/Community/logo_robotics_upn.png"></a>
   <a align="center" href="https://digitalent.komdigi.go.id/" target="_blank"><img width="100" height="50" alt="DTS PROA Alumnus" src="Assets/Community/logo_digitalent.png"></a>
   <a align="center" href="https://edspert.id/" target="_blank"><img width="100" height="50" alt="Edspert Community" src="Assets/Community/logo_edspert.id.png"></a>
