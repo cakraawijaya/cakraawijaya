@@ -1,7 +1,7 @@
 <div align="center">
     <a align="center" href="https://github.com/cakraawijaya" target="_blank"><img src="https://views.igorkowalczyk.dev/api/badge/cakraawijaya?logo=gmail&label=Visitors&labelColor=6f00ff&color=8b008b&style=flat&format=short"></a>
     <a align="center" href="https://scholar.google.co.id/citations?user=g3gskSsAAAAJ&hl=id/" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/G-%2DScholar-lightgrey?logo=google-scholar&style=flat-square&logoColor=white&color=004ad0"></a>
-    <a align="center" href="mailto:devancakra6@gmail.com" target="_blank"><img alt="Gmail" src="http://img.shields.io/badge/G-%2DMail-light?logo=gmail&style=flat-square&logoColor=white&color=a10c0c"></a><br>
+    <a align="center" href="mailto:devancakra6@gmail.com" target="_blank"><img alt="Gmail" src="http://img.shields.io/badge/G-%2DMail-light?logo=gmail&style=flat-square&logoColor=white&color=a10c0c"></a><br/>
     <a align="center" href="https://www.linkedin.com/in/cakraawijaya" target="_blank"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&style=flat-square&logoColor=white&color=3056c7"></a>
     <a align="center" href="https://www.medium.com/@cakraawijaya" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-light?logo=medium&style=flat-square&logoColor=white&color=2d343b"></a>
     <a align="center" href="https://www.youtube.com/@cakraawijaya" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-light?logo=youtube&style=flat-square&logoColor=white&color=c00000"></a>
@@ -25,7 +25,7 @@
 
 <h2></h2><h2 id="basicknowledge" align="center">💻 Basic Knowledge Skills</h2>
 <div align="center">
-<details><summary>Some of the Programming Languages, Development Tools, and other things I've used for work.</summary><br>
+<details><summary>Some of the Programming Languages, Development Tools, and other things I've used for work.</summary><br/><br/>
     
 <table align="center">
     <p><strong>Programming Language</strong></p>
@@ -72,14 +72,14 @@
             </a><br/>
             <p>PHP</p>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Programming Language/sql.webp" width="48" height="48" alt="sql">
             </a><br/>
             <p>SQL</p>
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Programming Language/python.webp" width="48" height="48" alt="python">
@@ -192,14 +192,14 @@
             </a><br/>
             <p>MariaDB</p>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Database and Backend/postgresql.webp" width="48" height="48" alt="postgresql">
             </a><br/>
             <p>PostgreSQL</p>
-        </td>
-    </tr>
-    <tr>      
+        </td>      
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Database and Backend/mongodb.webp" width="48" height="48" alt="mongodb">
@@ -271,14 +271,14 @@
             </a><br/>
             <p>ThingsBoard</p>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Embedded Systems and IoT/ubidots.webp" width="48" height="48" alt="ubidots">
             </a><br/>
             <p>Ubidots</p>
-        </td>
-    </tr>
-    <tr>     
+        </td>     
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Embedded Systems and IoT/thingspeak.webp" width="48" height="48" alt="thingspeak">
@@ -309,6 +309,8 @@
             </a><br/>
             <p>Node-RED</p>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Embedded Systems and IoT/emqx.webp" width="48" height="48" alt="emqx">
@@ -326,9 +328,7 @@
                 <img src="Assets/Embedded Systems and IoT/thingerio.webp" width="48" height="48" alt="thinger-io">
             </a><br/>
             <p>Thinger.io</p>
-        </td>  
-    </tr>
-    <tr>     
+        </td>     
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Embedded Systems and IoT/grafana.webp" width="48" height="48" alt="grafana">
@@ -347,6 +347,8 @@
             </a><br/>
             <p>MIT App Inventor</p>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Embedded Systems and IoT/mqttx.webp" width="48" height="48" alt="mqttx">
@@ -418,14 +420,14 @@
             </a><br/>
             <p>Git</p>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Others/github.webp" width="48" height="48" alt="github">
             </a><br/>
             <p>Github</p>
-        </td>
-    </tr>
-    <tr>      
+        </td>      
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Others/docker.webp" width="48" height="48" alt="docker">
@@ -456,6 +458,8 @@
             </a><br/>
             <p>Figma</p>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Others/eagle.webp" width="48" height="48" alt="autodesk-eagle">
@@ -473,9 +477,7 @@
                 <img src="Assets/Others/photoshop.webp" width="48" height="48" alt="adobe-photoshop">
             </a><br/>
             <p>Adobe Photoshop</p>
-        </td>
-    </tr>
-    <tr>      
+        </td>      
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Others/canva.webp" width="48" height="48" alt="canva">
