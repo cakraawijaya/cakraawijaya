@@ -10,420 +10,486 @@
     <a align="center" href="https://cakraawijaya.vercel.app/" target="_blank"><img alt="Homepage" src="https://img.shields.io/badge/Homepage-light?logo=homepage&style=flat-square&logoColor=white&color=1C3665"></a>
 </div>
 
-<br>
+<br/>
 
 <img width="1920" height="170" src="Assets/Banner/Welcome.gif" alt="Banner IoT Engineer by Devan C.M.W">
 
 <h2></h2><h2 id="about" align="center">👤 About me</h2>
 <div align="center">
     
-<img src="Assets/About/wave.gif" height="18px"> Hi everyone... &nbsp; You can call me <strong>``` Devan / Cakra ```</strong>, welcome to my Github.<br><br>I'm a <strong>``` Bachelor of Computer Science (S.Kom) ```</strong> from <strong>``` UPN Veteran Jatim ```</strong>.<br><br>I'm adaptable, like to learn new things, can work in a team or individually, & can solve problems.<br><br>My expertise: ``` Robotics & Embedded System ```, ``` Internet of Things ```, ``` Software Engineering ```.
+<img src="Assets/About/wave.gif" height="18px"> Hi everyone... &nbsp; You can call me <strong>``` Devan / Cakra ```</strong>, welcome to my Github.<br/><br/>I'm a <strong>``` Bachelor of Computer Science (S.Kom) ```</strong> from <strong>``` UPN Veteran Jatim ```</strong>.<br/><br/>I'm adaptable, like to learn new things, can work in a team or individually, & can solve problems.<br/><br/>My expertise: ``` Robotics & Embedded System ```, ``` Internet of Things ```, ``` Software Engineering ```.
 
 </div>
 
-<br><br>
+<br/><br/>
 
 <h2></h2><h2 id="basicknowledge" align="center">💻 Basic Knowledge Skills</h2>
 <div align="center">
 <details><summary>Some of the Programming Languages, Development Tools, and other things I've used for work.</summary><br>
     
 <table align="center">
+    <p><strong>Programming Language</strong></p>
     <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
-                <img src="Assets/Programming Language/c.png" width="48" height="48" alt="c">
-            </a><br>
+                <img src="Assets/Programming Language/c.webp" width="48" height="48" alt="c">
+            </a><br/>
             <p>C</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
-                <img src="Assets/Programming Language/cplusplus.png" width="48" height="48" alt="c++">
-            </a><br>
+                <img src="Assets/Programming Language/cpp.webp" width="48" height="48" alt="c++">
+            </a><br/>
             <p>C++</p>
-        </td><td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Programming Language/vb6.png" width="48" height="48" alt="vb6">
-            </a><br>
-            <p>VB 6</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
-                <img src="Assets/Programming Language/js.png" width="48" height="48" alt="js">
-            </a><br>
-            <p>Javascript</p>
+                <img src="Assets/Programming Language/csharp.webp" width="48" height="48" alt="c#">
+            </a><br/>
+            <p>C#</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
-                <img src="Assets/Programming Language/php.png" width="48" height="48" alt="php">
-            </a><br>
+                <img src="Assets/Programming Language/visualbasicnet.webp" width="48" height="48" alt="vb-net">
+            </a><br/>
+            <p>Visual Basic .Net</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Programming Language/visualbasic6.webp" width="48" height="48" alt="vb-6">
+            </a><br/>
+            <p>Visual Basic 6</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Programming Language/javascript.webp" width="48" height="48" alt="js">
+            </a><br/>
+            <p>JavaScript</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Programming Language/php.webp" width="48" height="48" alt="php">
+            </a><br/>
             <p>PHP</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
-                <img src="Assets/Programming Language/sql.png" width="48" height="48" alt="sql">
-            </a><br>
+                <img src="Assets/Programming Language/sql.webp" width="48" height="48" alt="sql">
+            </a><br/>
             <p>SQL</p>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
-                <img src="Assets/Programming Language/python.png" width="48" height="48" alt="python">
-            </a><br>
+                <img src="Assets/Programming Language/python.webp" width="48" height="48" alt="python">
+            </a><br/>
             <p>Python</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
-                <img src="Assets/Programming Language/micropython.png" width="48" height="48" alt="micropython">
-            </a><br>
+                <img src="Assets/Programming Language/micropython.webp" width="48" height="48" alt="micropython">
+            </a><br/>
             <p>MicroPython</p>
         </td>
-    </tr>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Programming Language/typescript.webp" width="48" height="48" alt="typescript">
+            </a><br/>
+            <p>TypeScript</p>
+        </td>
+    </tr><br/><br/>
+    <p><strong>Frontend</strong></p>
     <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/vscode.png" width="48" height="48" alt="vscode">
-            </a><br>
-            <p>VS Code</p>
+                <img src="Assets/Frontend/tailwind.webp" width="48" height="48" alt="tailwind">
+            </a><br/>
+            <p>Tailwind CSS</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/git.png" width="48" height="48" alt="git">
-            </a><br>
-            <p>Git</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/mysql.png" width="48" height="48" alt="mysql">
-            </a><br>
-            <p>MySQL</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/mariadb.png" width="48" height="48" alt="mariadb">
-            </a><br>
-            <p>MariaDB</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/mongodb.png" width="48" height="48" alt="mongodb">
-            </a><br>
-            <p>MongoDB</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/firebase.png" width="48" height="48" alt="firebase">
-            </a><br>
-            <p>Firebase</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/influxdb.png" width="48" height="48" alt="influxdb">
-            </a><br>
-            <p>InfluxDB</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/composer.png" width="48" height="48" alt="composer">
-            </a><br>
-            <p>Composer</p>
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/ngrok.png" width="48" height="48" alt="ngrok">
-            </a><br>
-            <p>Ngrok</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/xampp.png" width="48" height="48" alt="xampp">
-            </a><br>
-            <p>Xampp</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/laragon.png" width="48" height="48" alt="laragon">
-            </a><br>
-            <p>Laragon</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/apache.png" width="48" height="48" alt="apache">
-            </a><br>
-            <p>Apache</p>
-        </td> 
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/docker.png" width="48" height="48" alt="docker">
-            </a><br>
-            <p>Docker</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/mqttx.png" width="48" height="48" alt="mqttx">
-            </a><br>
-            <p>MQTTX</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/bootstrap.png" width="48" height="48" alt="bootstrap">
-            </a><br>
+                <img src="Assets/Frontend/bootstrap.webp" width="48" height="48" alt="bootstrap">
+            </a><br/>
             <p>Bootstrap</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/tailwind.png" width="48" height="48" alt="tailwind">
-            </a><br>
-            <p>Tailwind</p>
+                <img src="Assets/Frontend/vuejs.webp" width="48" height="48" alt="vue-js">
+            </a><br/>
+            <p>Vue.js</p>
         </td>
-    </tr>
-    <tr>      
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/fontawesome.png" width="48" height="48" alt="fontawesome">
-            </a><br>
+                <img src="Assets/Frontend/nextjs.webp" width="48" height="48" alt="next-js-15">
+            </a><br/>
+            <p>Next.js 15</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Frontend/reactjs.webp" width="48" height="48" alt="react-js">
+            </a><br/>
+            <p>React.js</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Frontend/fontawesome.webp" width="48" height="48" alt="font-awesome">
+            </a><br/>
             <p>Font Awesome</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/codeigniter.png" width="48" height="48" alt="codeigniter">
-            </a><br>
-            <p>CodeIgniter</p>
+                <img src="Assets/Frontend/framermotion.webp" width="48" height="48" alt="framer-motion">
+            </a><br/>
+            <p>Framer Motion</p>
+        </td>
+    </tr><br/><br/>
+    <p><strong>Database and Backend</strong></p>
+    <tr>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Database and Backend/codeigniter.webp" width="48" height="48" alt="codeigniter">
+            </a><br/>
+            <p>Codeigniter</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/laravel.png" width="48" height="48" alt="laravel">
-            </a><br>
+                <img src="Assets/Database and Backend/laravel.webp" width="48" height="48" alt="laravel">
+            </a><br/>
             <p>Laravel</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/nodejs.png" width="48" height="48" alt="nodejs">
-            </a><br>
-            <p>Node JS</p>
+                <img src="Assets/Database and Backend/nodejs.webp" width="48" height="48" alt="nodejs">
+            </a><br/>
+            <p>Node.js</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/expressjs.png" width="48" height="48" alt="expressjs">
-            </a><br>
-            <p>Express JS</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/reactjs.png" width="48" height="48" alt="reactjs">
-            </a><br>
-            <p>React JS</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/vuejs.png" width="48" height="48" alt="vuejs">
-            </a><br>
-            <p>Vue JS</p>
+                <img src="Assets/Database and Backend/express.webp" width="48" height="48" alt="express">
+            </a><br/>
+            <p>Express.js</p>
         </td> 
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/botman.png" width="48" height="48" alt="botman">
-            </a><br>
+                <img src="Assets/Database and Backend/botman.webp" width="48" height="48" alt="botman">
+            </a><br/>
             <p>Botman</p>
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/platformio.png" width="48" height="48" alt="platformio">
-            </a><br>
-            <p>PlatformIO</p>
+                <img src="Assets/Database and Backend/mysql.webp" width="48" height="48" alt="mysql">
+            </a><br/>
+            <p>MySQL</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/kodular.png" width="48" height="48" alt="kodular">
-            </a><br>
-            <p>Kodular</p>
+                <img src="Assets/Database and Backend/mariadb.webp" width="48" height="48" alt="mariadb">
+            </a><br/>
+            <p>MariaDB</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/mitappinventor.png" width="48" height="48" alt="mitappinventor">
-            </a><br>
-            <p>MIT App Inventor</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/twilio.png" width="48" height="48" alt="twilio">
-            </a><br>
-            <p>Twilio</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/fonnte.png" width="48" height="48" alt="fonnte">
-            </a><br>
-            <p>Fonnte</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/telegram.png" width="48" height="48" alt="telegram">
-            </a><br>
-            <p>Telegram</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/websocket.png" width="48" height="48" alt="websocket">
-            </a><br>
-            <p>WebSocket</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/blynk.png" width="48" height="48" alt="blynk">
-            </a><br>
-            <p>Blynk IoT</p>
-        </td>
-    </tr>
-    <tr>     
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/shiftrio.png" width="48" height="48" alt="shiftrio">
-            </a><br>
-            <p>Shiftr.io</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/thingsboard.png" width="48" height="48" alt="thingsboard">
-            </a><br>
-            <p>ThingsBoard</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/ubidots.png" width="48" height="48" alt="ubidots">
-            </a><br>
-            <p>Ubidots</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/thingspeak.png" width="48" height="48" alt="thingspeak">
-            </a><br>
-            <p>Thingspeak</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/mosquitto.png" width="48" height="48" alt="mosquitto">
-            </a><br>
-            <p>Mosquitto</p>
-        </td>   
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/iotnet.png" width="48" height="48" alt="io-t.net">
-            </a><br>
-            <p>io-t.net</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/antares.png" width="48" height="48" alt="antares">
-            </a><br>
-            <p>Antares</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/nodered.png" width="48" height="48" alt="nodered">
-            </a><br>
-            <p>Node Red</p>
-        </td>  
-    </tr>
-    <tr>     
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/emqx.png" width="48" height="48" alt="emqx">
-            </a><br>
-            <p>EMQX</p>
-        </td>  
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/hivemq.png" width="48" height="48" alt="hivemq">
-            </a><br>
-            <p>HiveMQ</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/thingerio.png" width="48" height="48" alt="thingerio">
-            </a><br>
-            <p>Thinger.io</p>
-        </td>  
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/grafana.png" width="48" height="48" alt="grafana">
-            </a><br>
-            <p>Grafana</p>
-        </td>  
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/arduino.png" width="48" height="48" alt="arduino">
-            </a><br>
-            <p>Arduino</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/atmel.png" width="48" height="48" alt="atmel">
-            </a><br>
-            <p>Atmel</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/espressif.png" width="48" height="48" alt="espressif">
-            </a><br>
-            <p>Espressif</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/stm.png" width="48" height="48" alt="stm">
-            </a><br>
-            <p>STM</p>
+                <img src="Assets/Database and Backend/postgresql.webp" width="48" height="48" alt="postgresql">
+            </a><br/>
+            <p>PostgreSQL</p>
         </td>
     </tr>
     <tr>      
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/raspberry.png" width="48" height="48" alt="raspberry">
-            </a><br>
-            <p>Raspberry</p>
+                <img src="Assets/Database and Backend/mongodb.webp" width="48" height="48" alt="mongodb">
+            </a><br/>
+            <p>MongoDB</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/eagle.png" width="48" height="48" alt="eagle">
-            </a><br>
+                <img src="Assets/Database and Backend/firebase.webp" width="48" height="48" alt="firebase">
+            </a><br/>
+            <p>Firebase</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Database and Backend/influxdb.webp" width="48" height="48" alt="influxdb">
+            </a><br/>
+            <p>InfluxDB</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Database and Backend/composer.webp" width="48" height="48" alt="composer">
+            </a><br/>
+            <p>Composer</p>
+        </td>
+    </tr><br/><br/>
+    <p><strong>Embedded Systems and IoT</strong></p>
+    <tr>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Embedded Systems and IoT/arduino.webp" width="48" height="48" alt="arduino">
+            </a><br/>
+            <p>Arduino</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Embedded Systems and IoT/espressif.webp" width="48" height="48" alt="espressif">
+            </a><br/>
+            <p>ESP32/ESP8266</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Embedded Systems and IoT/stm.webp" width="48" height="48" alt="stm">
+            </a><br/>
+            <p>STM8/STM32</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Embedded Systems and IoT/raspberry.webp" width="48" height="48" alt="raspberry">
+            </a><br/>
+            <p>Raspberry Pi Pico</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Embedded Systems and IoT/blynk.webp" width="48" height="48" alt="blynk-iot">
+            </a><br/>
+            <p>Blynk IoT</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Embedded Systems and IoT/shiftrio.webp" width="48" height="48" alt="shiftr-io">
+            </a><br/>
+            <p>Shiftr.io</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Embedded Systems and IoT/thingsboard.webp" width="48" height="48" alt="thingsboard">
+            </a><br/>
+            <p>ThingsBoard</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Embedded Systems and IoT/ubidots.webp" width="48" height="48" alt="ubidots">
+            </a><br/>
+            <p>Ubidots</p>
+        </td>
+    </tr>
+    <tr>     
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Embedded Systems and IoT/thingspeak.webp" width="48" height="48" alt="thingspeak">
+            </a><br/>
+            <p>ThingSpeak</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Embedded Systems and IoT/mosquitto.webp" width="48" height="48" alt="mosquitto">
+            </a><br/>
+            <p>Mosquitto</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Embedded Systems and IoT/iotnet.webp" width="48" height="48" alt="iot-net">
+            </a><br/>
+            <p>i-ot.net</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Embedded Systems and IoT/antares.webp" width="48" height="48" alt="antares">
+            </a><br/>
+            <p>Antares</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Embedded Systems and IoT/nodered.webp" width="48" height="48" alt="node-red">
+            </a><br/>
+            <p>Node-RED</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Embedded Systems and IoT/emqx.webp" width="48" height="48" alt="emqx">
+            </a><br/>
+            <p>EMQX</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Embedded Systems and IoT/hivemq.webp" width="48" height="48" alt="hivemq">
+            </a><br/>
+            <p>HiveMQ</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Embedded Systems and IoT/thingerio.webp" width="48" height="48" alt="thinger-io">
+            </a><br/>
+            <p>Thinger.io</p>
+        </td>  
+    </tr>
+    <tr>     
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Embedded Systems and IoT/grafana.webp" width="48" height="48" alt="grafana">
+            </a><br/>
+            <p>Grafana</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Embedded Systems and IoT/kodular.webp" width="48" height="48" alt="kodular">
+            </a><br/>
+            <p>Kodular</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Embedded Systems and IoT/mitappinventor.webp" width="48" height="48" alt="mit-app-inventor">
+            </a><br/>
+            <p>MIT App Inventor</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Embedded Systems and IoT/mqttx.webp" width="48" height="48" alt="mqttx">
+            </a><br/>
+            <p>MQTTX</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Embedded Systems and IoT/platformio.webp" width="48" height="48" alt="platform-io">
+            </a><br/>
+            <p>PlatformIO</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Embedded Systems and IoT/mqtt.webp" width="48" height="48" alt="mqtt">
+            </a><br/>
+            <p>MQTT</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Embedded Systems and IoT/websocket.webp" width="48" height="48" alt="websocket">
+            </a><br/>
+            <p>WebSocket</p>
+        </td>
+    </tr><br/><br/>
+    <p><strong>Others</strong></p>
+    <tr>      
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Others/vs.webp" width="48" height="48" alt="visual-studio">
+            </a><br/>
+            <p>Visual Studio</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Others/vscode.webp" width="48" height="48" alt="vs-code">
+            </a><br/>
+            <p>VS Code</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Others/xampp.webp" width="48" height="48" alt="xampp">
+            </a><br/>
+            <p>XAMPP</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Others/laragon.webp" width="48" height="48" alt="laragon">
+            </a><br/>
+            <p>Laragon</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Others/ngrok.webp" width="48" height="48" alt="ngrok">
+            </a><br/>
+            <p>Ngrok</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Others/apache.webp" width="48" height="48" alt="apache">
+            </a><br/>
+            <p>Apache</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Others/git.webp" width="48" height="48" alt="git">
+            </a><br/>
+            <p>Git</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Others/github.webp" width="48" height="48" alt="github">
+            </a><br/>
+            <p>Github</p>
+        </td>
+    </tr>
+    <tr>      
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Others/docker.webp" width="48" height="48" alt="docker">
+            </a><br/>
+            <p>Docker</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Others/twilio.webp" width="48" height="48" alt="twilio">
+            </a><br/>
+            <p>Twilio</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Others/fonnte.webp" width="48" height="48" alt="fonnte">
+            </a><br/>
+            <p>Fonnte</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Others/telegram.webp" width="48" height="48" alt="telegram-api">
+            </a><br/>
+            <p>Telegram API</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Others/figma.webp" width="48" height="48" alt="figma">
+            </a><br/>
+            <p>Figma</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Others/eagle.webp" width="48" height="48" alt="autodesk-eagle">
+            </a><br/>
             <p>Autodesk Eagle</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/easyeda.png" width="48" height="48" alt="easyeda">
-            </a><br>
+                <img src="Assets/Others/easyeda.webp" width="48" height="48" alt="easyeda">
+            </a><br/>
             <p>EasyEDA</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/matlab.png" width="48" height="48" alt="matlab">
-            </a><br>
-            <p>Matlab</p>
+                <img src="Assets/Others/photoshop.webp" width="48" height="48" alt="adobe-photoshop">
+            </a><br/>
+            <p>Adobe Photoshop</p>
+        </td>
+    </tr>
+    <tr>      
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Others/canva.webp" width="48" height="48" alt="canva">
+            </a><br/>
+            <p>Canva</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/gas.png" width="48" height="48" alt="gas">
-            </a><br>
-            <p>Google Apps Script</p>
-        </td>  
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Platform-Tools-Support/photoshop.png" width="48" height="48" alt="photoshop">
-            </a><br>
-            <p>Adobe Photoshop</p>
+                <img src="Assets/Others/msoffice.webp" width="48" height="48" alt="ms-office">
+            </a><br/>
+            <p>Microsoft Office</p>
         </td>
     </tr>
 </table>
 </div>
 </details>
 
-<br><br>
+<br/><br/>
 
 <h2></h2><h2 id="sosmedandacademicrecords" align="center">♻️ My Community</h2>
 
-<br>
+<br/>
 
 <div id="community" align="center">
   <a align="center" href="https://www.instagram.com/robotics.upnjatim/" target="_blank"><img width="100" height="50" alt="Robotics UPN Community" src="Assets/Community/logo_robotics_upn.png"></a>
@@ -431,16 +497,16 @@
   <a align="center" href="https://edspert.id/" target="_blank"><img width="100" height="50" alt="Edspert Community" src="Assets/Community/logo_edspert.id.png"></a>
   <a align="center" href="https://www.dicoding.com/" target="_blank"><img width="100" height="50" alt="Dicoding Community" src="Assets/Community/logo_dicoding.png"></a>
   <a align="center" href="https://nusabot.id/" target="_blank"><img width="100" height="50" alt="Nusabot Community" src="Assets/Community/logo_nusabot.png"></a>
-  <br>
+  <br/>
   <a align="center" href="https://t.me/ardumeka" target="_blank"><img width="100" height="50" alt="Ardumeka Community" src="Assets/Community/logo_ardumeka.png"></a>
   <a align="center" href="https://t.me/kelasrobotgrup" target="_blank"><img width="100" height="50" alt="Kelas Robot Community" src="Assets/Community/logo_kelas_robot.png"></a>
-  <br>
+  <br/>
   <a align="center" href="https://indobot.co.id/" target="_blank"><img width="100" height="50" alt="Indobot Community" src="Assets/Community/logo_indobot.png"></a>
   <a align="center" href="https://progate.com/" target="_blank"><img width="100" height="50" alt="Progate Community" src="Assets/Community/logo_progate.png"></a>
   <a align="center" href="https://kelasiot.id/" target="_blank"><img width="100" height="50" alt="ICS Community" src="Assets/Community/logo_kelas_iot.png"></a>
   <a align="center" href="https://edutic.id/" target="_blank"><img width="100" height="50" alt="Edutic Community" src="Assets/Community/logo_edutic.id.png"></a>
   <a align="center" href="https://www.ics-cademy.com/" target="_blank"><img width="100" height="50" alt="ICS Community" src="Assets/Community/logo_ics.png"></a>
-</div><br><br><br>
+</div><br/><br/><br/>
 
 <div class="container" id="githubstats" align="center">
   <img align="center" alt="Devan Github Streak Stats" src="https://streak-stats.demolab.com/?user=cakraawijaya&show_icons=true&hide_border=true&layout=compact&theme=algolia">&nbsp;&nbsp;&nbsp;&nbsp;
