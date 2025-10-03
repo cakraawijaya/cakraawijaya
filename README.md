@@ -28,46 +28,46 @@
 <details><summary>Some of the Programming Languages, Development Tools, and other things I've used for work.</summary><br/><br/>
     
 <table align="center">
-    <p><strong>Programming Language</strong></p>
+    <p id="programminglanguage"><strong>Programming Language</strong></p>
     <tr>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#programminglanguage">
                 <img src="Assets/Programming Language/c.webp" width="48" height="48" alt="c">
             </a><br/>
             <p>C</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#programminglanguage">
                 <img src="Assets/Programming Language/cpp.webp" width="48" height="48" alt="c++">
             </a><br/>
             <p>C++</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#programminglanguage">
                 <img src="Assets/Programming Language/csharp.webp" width="48" height="48" alt="c#">
             </a><br/>
             <p>C#</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#programminglanguage">
                 <img src="Assets/Programming Language/visualbasicnet.webp" width="48" height="48" alt="vb-net">
             </a><br/>
             <p>Visual Basic .Net</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#programminglanguage">
                 <img src="Assets/Programming Language/visualbasic6.webp" width="48" height="48" alt="vb-6">
             </a><br/>
             <p>Visual Basic 6</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#programminglanguage">
                 <img src="Assets/Programming Language/javascript.webp" width="48" height="48" alt="js">
             </a><br/>
             <p>JavaScript</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#programminglanguage">
                 <img src="Assets/Programming Language/php.webp" width="48" height="48" alt="php">
             </a><br/>
             <p>PHP</p>
@@ -75,25 +75,25 @@
     </tr>
     <tr>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#programminglanguage">
                 <img src="Assets/Programming Language/sql.webp" width="48" height="48" alt="sql">
             </a><br/>
             <p>SQL</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#programminglanguage">
                 <img src="Assets/Programming Language/python.webp" width="48" height="48" alt="python">
             </a><br/>
             <p>Python</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#programminglanguage">
                 <img src="Assets/Programming Language/micropython.webp" width="48" height="48" alt="micropython">
             </a><br/>
             <p>MicroPython</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#programminglanguage">
                 <img src="Assets/Programming Language/typescript.webp" width="48" height="48" alt="typescript">
             </a><br/>
             <p>TypeScript</p>
@@ -101,46 +101,46 @@
     </tr>
 </table><br/>
 <table align="center">
-    <p><strong>Frontend</strong></p>
+    <p id="frontend"><strong>Frontend</strong></p>
     <tr>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#frontend">
                 <img src="Assets/Frontend/tailwind.webp" width="48" height="48" alt="tailwind">
             </a><br/>
             <p>Tailwind CSS</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#frontend">
                 <img src="Assets/Frontend/bootstrap.webp" width="48" height="48" alt="bootstrap">
             </a><br/>
             <p>Bootstrap</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#frontend">
                 <img src="Assets/Frontend/vuejs.webp" width="48" height="48" alt="vue-js">
             </a><br/>
             <p>Vue.js</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#frontend">
                 <img src="Assets/Frontend/nextjs.webp" width="48" height="48" alt="next-js-15">
             </a><br/>
             <p>Next.js 15</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#frontend">
                 <img src="Assets/Frontend/reactjs.webp" width="48" height="48" alt="react-js">
             </a><br/>
             <p>React.js</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#frontend">
                 <img src="Assets/Frontend/fontawesome.webp" width="48" height="48" alt="font-awesome">
             </a><br/>
             <p>Font Awesome</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#frontend">
                 <img src="Assets/Frontend/framermotion.webp" width="48" height="48" alt="framer-motion">
             </a><br/>
             <p>Framer Motion</p>
@@ -148,46 +148,46 @@
     </tr>
 </table><br/>
 <table align="center">
-    <p><strong>Database and Backend</strong></p>
+    <p id="database_backend"><strong>Database and Backend</strong></p>
     <tr>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#database_backend">
                 <img src="Assets/Database and Backend/codeigniter.webp" width="48" height="48" alt="codeigniter">
             </a><br/>
             <p>Codeigniter</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#database_backend">
                 <img src="Assets/Database and Backend/laravel.webp" width="48" height="48" alt="laravel">
             </a><br/>
             <p>Laravel</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#database_backend">
                 <img src="Assets/Database and Backend/nodejs.webp" width="48" height="48" alt="nodejs">
             </a><br/>
             <p>Node.js</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#database_backend">
                 <img src="Assets/Database and Backend/express.webp" width="48" height="48" alt="express">
             </a><br/>
             <p>Express.js</p>
         </td> 
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#database_backend">
                 <img src="Assets/Database and Backend/botman.webp" width="48" height="48" alt="botman">
             </a><br/>
             <p>Botman</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#database_backend">
                 <img src="Assets/Database and Backend/mysql.webp" width="48" height="48" alt="mysql">
             </a><br/>
             <p>MySQL</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#database_backend">
                 <img src="Assets/Database and Backend/mariadb.webp" width="48" height="48" alt="mariadb">
             </a><br/>
             <p>MariaDB</p>
@@ -195,31 +195,31 @@
     </tr>
     <tr>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#database_backend">
                 <img src="Assets/Database and Backend/postgresql.webp" width="48" height="48" alt="postgresql">
             </a><br/>
             <p>PostgreSQL</p>
         </td>      
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#database_backend">
                 <img src="Assets/Database and Backend/mongodb.webp" width="48" height="48" alt="mongodb">
             </a><br/>
             <p>MongoDB</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#database_backend">
                 <img src="Assets/Database and Backend/firebase.webp" width="48" height="48" alt="firebase">
             </a><br/>
             <p>Firebase</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#database_backend">
                 <img src="Assets/Database and Backend/influxdb.webp" width="48" height="48" alt="influxdb">
             </a><br/>
             <p>InfluxDB</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#database_backend">
                 <img src="Assets/Database and Backend/composer.webp" width="48" height="48" alt="composer">
             </a><br/>
             <p>Composer</p>
@@ -227,46 +227,46 @@
     </tr>
 </table><br/>
 <table align="center">
-    <p><strong>Embedded Systems and IoT</strong></p>
+    <p id="embeddedsystems_iot"><strong>Embedded Systems and IoT</strong></p>
     <tr>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#embeddedsystems_iot">
                 <img src="Assets/Embedded Systems and IoT/arduino.webp" width="48" height="48" alt="arduino">
             </a><br/>
             <p>Arduino</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#embeddedsystems_iot">
                 <img src="Assets/Embedded Systems and IoT/espressif.webp" width="48" height="48" alt="espressif">
             </a><br/>
             <p>ESP32 / ESP8266</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#embeddedsystems_iot">
                 <img src="Assets/Embedded Systems and IoT/stm.webp" width="48" height="48" alt="stm">
             </a><br/>
             <p>STM8 / STM32</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#embeddedsystems_iot">
                 <img src="Assets/Embedded Systems and IoT/raspberry.webp" width="48" height="48" alt="raspberry">
             </a><br/>
             <p>Raspberry Pi Pico</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#embeddedsystems_iot">
                 <img src="Assets/Embedded Systems and IoT/blynk.webp" width="48" height="48" alt="blynk-iot">
             </a><br/>
             <p>Blynk IoT</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#embeddedsystems_iot">
                 <img src="Assets/Embedded Systems and IoT/shiftrio.webp" width="48" height="48" alt="shiftr-io">
             </a><br/>
             <p>Shiftr.io</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#embeddedsystems_iot">
                 <img src="Assets/Embedded Systems and IoT/ubidots.webp" width="48" height="48" alt="ubidots">
             </a><br/>
             <p>Ubidots</p>
@@ -274,43 +274,43 @@
     </tr>
     <tr>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#embeddedsystems_iot">
                 <img src="Assets/Embedded Systems and IoT/thingsboard.webp" width="48" height="48" alt="thingsboard">
             </a><br/>
             <p>ThingsBoard</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#embeddedsystems_iot">
                 <img src="Assets/Embedded Systems and IoT/thingspeak.webp" width="48" height="48" alt="thingspeak">
             </a><br/>
             <p>ThingSpeak</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#embeddedsystems_iot">
                 <img src="Assets/Embedded Systems and IoT/mosquitto.webp" width="48" height="48" alt="mosquitto">
             </a><br/>
             <p>Mosquitto</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#embeddedsystems_iot">
                 <img src="Assets/Embedded Systems and IoT/iotnet.webp" width="48" height="48" alt="iot-net">
             </a><br/>
             <p>i-ot.net</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#embeddedsystems_iot">
                 <img src="Assets/Embedded Systems and IoT/antares.webp" width="48" height="48" alt="antares">
             </a><br/>
             <p>Antares</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#embeddedsystems_iot">
                 <img src="Assets/Embedded Systems and IoT/nodered.webp" width="48" height="48" alt="node-red">
             </a><br/>
             <p>Node-RED</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#embeddedsystems_iot">
                 <img src="Assets/Embedded Systems and IoT/emqx.webp" width="48" height="48" alt="emqx">
             </a><br/>
             <p>EMQX</p>
@@ -318,43 +318,43 @@
     </tr>
     <tr>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#embeddedsystems_iot">
                 <img src="Assets/Embedded Systems and IoT/hivemq.webp" width="48" height="48" alt="hivemq">
             </a><br/>
             <p>HiveMQ</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#embeddedsystems_iot">
                 <img src="Assets/Embedded Systems and IoT/thingerio.webp" width="48" height="48" alt="thinger-io">
             </a><br/>
             <p>Thinger.io</p>
         </td>     
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#embeddedsystems_iot">
                 <img src="Assets/Embedded Systems and IoT/grafana.webp" width="48" height="48" alt="grafana">
             </a><br/>
             <p>Grafana</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#embeddedsystems_iot">
                 <img src="Assets/Embedded Systems and IoT/kodular.webp" width="48" height="48" alt="kodular">
             </a><br/>
             <p>Kodular</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#embeddedsystems_iot">
                 <img src="Assets/Embedded Systems and IoT/mitappinventor.webp" width="48" height="48" alt="mit-app-inventor">
             </a><br/>
             <p>MIT App Inventor</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#embeddedsystems_iot">
                 <img src="Assets/Embedded Systems and IoT/mqttx.webp" width="48" height="48" alt="mqttx">
             </a><br/>
             <p>MQTTX</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#embeddedsystems_iot">
                 <img src="Assets/Embedded Systems and IoT/platformio.webp" width="48" height="48" alt="platform-io">
             </a><br/>
             <p>PlatformIO</p>
@@ -362,13 +362,13 @@
     </tr>
     <tr>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#embeddedsystems_iot">
                 <img src="Assets/Embedded Systems and IoT/mqtt.webp" width="48" height="48" alt="mqtt">
             </a><br/>
             <p>MQTT</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#embeddedsystems_iot">
                 <img src="Assets/Embedded Systems and IoT/websocket.webp" width="48" height="48" alt="websocket">
             </a><br/>
             <p>WebSocket</p>
@@ -376,46 +376,46 @@
     </tr>
 </table><br/>
 <table align="center">
-    <p><strong>Others</strong></p>
+    <p id="others"><strong>Others</strong></p>
     <tr>      
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#others">
                 <img src="Assets/Others/vs.webp" width="48" height="48" alt="visual-studio">
             </a><br/>
             <p>Visual Studio</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#others">
                 <img src="Assets/Others/vscode.webp" width="48" height="48" alt="vs-code">
             </a><br/>
             <p>VS Code</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#others">
                 <img src="Assets/Others/xampp.webp" width="48" height="48" alt="xampp">
             </a><br/>
             <p>XAMPP</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#others">
                 <img src="Assets/Others/laragon.webp" width="48" height="48" alt="laragon">
             </a><br/>
             <p>Laragon</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#others">
                 <img src="Assets/Others/ngrok.webp" width="48" height="48" alt="ngrok">
             </a><br/>
             <p>Ngrok</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#others">
                 <img src="Assets/Others/apache.webp" width="48" height="48" alt="apache">
             </a><br/>
             <p>Apache</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#others">
                 <img src="Assets/Others/git.webp" width="48" height="48" alt="git">
             </a><br/>
             <p>Git</p>
@@ -423,43 +423,43 @@
     </tr>
     <tr>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#others">
                 <img src="Assets/Others/github.webp" width="48" height="48" alt="github">
             </a><br/>
             <p>Github</p>
         </td>      
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#others">
                 <img src="Assets/Others/docker.webp" width="48" height="48" alt="docker">
             </a><br/>
             <p>Docker</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#others">
                 <img src="Assets/Others/twilio.webp" width="48" height="48" alt="twilio">
             </a><br/>
             <p>Twilio</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#others">
                 <img src="Assets/Others/fonnte.webp" width="48" height="48" alt="fonnte">
             </a><br/>
             <p>Fonnte</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#others">
                 <img src="Assets/Others/telegram.webp" width="48" height="48" alt="telegram-api">
             </a><br/>
             <p>Telegram API</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#others">
                 <img src="Assets/Others/figma.webp" width="48" height="48" alt="figma">
             </a><br/>
             <p>Figma</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#others">
                 <img src="Assets/Others/eagle.webp" width="48" height="48" alt="autodesk-eagle">
             </a><br/>
             <p>Autodesk Eagle</p>
@@ -467,25 +467,25 @@
     </tr>
     <tr>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#others">
                 <img src="Assets/Others/easyeda.webp" width="48" height="48" alt="easyeda">
             </a><br/>
             <p>EasyEDA</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#others">
                 <img src="Assets/Others/photoshop.webp" width="48" height="48" alt="adobe-photoshop">
             </a><br/>
             <p>Adobe Photoshop</p>
         </td>      
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#others">
                 <img src="Assets/Others/canva.webp" width="48" height="48" alt="canva">
             </a><br/>
             <p>Canva</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
+            <a href="#others">
                 <img src="Assets/Others/msoffice.webp" width="48" height="48" alt="ms-office">
             </a><br/>
             <p>Microsoft Office</p>
