@@ -265,14 +265,14 @@
             </a><br/>
             <p>Shiftr.io</p>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Embedded Systems and IoT/thingsboard.webp" width="48" height="48" alt="thingsboard">
             </a><br/>
             <p>ThingsBoard</p>
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Embedded Systems and IoT/ubidots.webp" width="48" height="48" alt="ubidots">
@@ -303,14 +303,14 @@
             </a><br/>
             <p>Antares</p>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Embedded Systems and IoT/nodered.webp" width="48" height="48" alt="node-red">
             </a><br/>
             <p>Node-RED</p>
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Embedded Systems and IoT/emqx.webp" width="48" height="48" alt="emqx">
@@ -341,14 +341,14 @@
             </a><br/>
             <p>Kodular</p>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Embedded Systems and IoT/mitappinventor.webp" width="48" height="48" alt="mit-app-inventor">
             </a><br/>
             <p>MIT App Inventor</p>
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Embedded Systems and IoT/mqttx.webp" width="48" height="48" alt="mqttx">
@@ -458,14 +458,14 @@
             </a><br/>
             <p>Figma</p>
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Others/eagle.webp" width="48" height="48" alt="autodesk-eagle">
             </a><br/>
             <p>Autodesk Eagle</p>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Others/easyeda.webp" width="48" height="48" alt="easyeda">
