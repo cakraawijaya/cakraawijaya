@@ -353,14 +353,14 @@
             </a><br/>
             <p>MQTTX</p>
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Embedded Systems and IoT/platformio.webp" width="48" height="48" alt="platform-io">
             </a><br/>
             <p>PlatformIO</p>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Embedded Systems and IoT/mqtt.webp" width="48" height="48" alt="mqtt">
@@ -502,20 +502,44 @@
 <br/>
 
 <div align="center">
-  <a align="center" href="https://www.instagram.com/robotics.upnjatim/" target="_blank"><img width="100" height="50" alt="Robotics UPN Community" src="Assets/Community/logo_robotics_upn.png"></a>
-  <a align="center" href="https://digitalent.komdigi.go.id/" target="_blank"><img width="100" height="50" alt="DTS PROA Alumnus" src="Assets/Community/logo_digitalent.png"></a>
-  <a align="center" href="https://edspert.id/" target="_blank"><img width="100" height="50" alt="Edspert Community" src="Assets/Community/logo_edspert.id.png"></a>
-  <a align="center" href="https://www.dicoding.com/" target="_blank"><img width="100" height="50" alt="Dicoding Community" src="Assets/Community/logo_dicoding.png"></a>
-  <a align="center" href="https://nusabot.id/" target="_blank"><img width="100" height="50" alt="Nusabot Community" src="Assets/Community/logo_nusabot.png"></a>
+  <a align="center" href="https://www.instagram.com/robotics.upnjatim/" target="_blank">
+    <img width="100" height="50" alt="Robotics UPN Community" src="Assets/Community/logo_robotics_upn.webp">
+  </a>
+  <a align="center" href="https://digitalent.komdigi.go.id/" target="_blank">
+    <img width="100" height="50" alt="DTS PROA Alumnus" src="Assets/Community/logo_digitalent.webp">
+  </a>
+  <a align="center" href="https://edspert.id/" target="_blank">
+    <img width="100" height="50" alt="Edspert Community" src="Assets/Community/logo_edspert.webp">
+  </a>
+  <a align="center" href="https://www.dicoding.com/" target="_blank">
+    <img width="100" height="50" alt="Dicoding Community" src="Assets/Community/logo_dicoding.webp">
+  </a>
+  <a align="center" href="https://nusabot.id/" target="_blank">
+    <img width="100" height="50" alt="Nusabot Community" src="Assets/Community/logo_nusabot.webp">
+  </a>
   <br/>
-  <a align="center" href="https://t.me/ardumeka" target="_blank"><img width="100" height="50" alt="Ardumeka Community" src="Assets/Community/logo_ardumeka.png"></a>
-  <a align="center" href="https://t.me/kelasrobotgrup" target="_blank"><img width="100" height="50" alt="Kelas Robot Community" src="Assets/Community/logo_kelas_robot.png"></a>
+  <a align="center" href="https://t.me/ardumeka" target="_blank">
+    <img width="100" height="50" alt="Ardumeka Community" src="Assets/Community/logo_ardumeka.webp">
+  </a>
+  <a align="center" href="https://t.me/kelasrobotgrup" target="_blank">
+    <img width="100" height="50" alt="Kelas Robot Community" src="Assets/Community/logo_kelas_robot.webp">
+  </a>
   <br/>
-  <a align="center" href="https://indobot.co.id/" target="_blank"><img width="100" height="50" alt="Indobot Community" src="Assets/Community/logo_indobot.png"></a>
-  <a align="center" href="https://progate.com/" target="_blank"><img width="100" height="50" alt="Progate Community" src="Assets/Community/logo_progate.png"></a>
-  <a align="center" href="https://kelasiot.id/" target="_blank"><img width="100" height="50" alt="ICS Community" src="Assets/Community/logo_kelas_iot.png"></a>
-  <a align="center" href="https://edutic.id/" target="_blank"><img width="100" height="50" alt="Edutic Community" src="Assets/Community/logo_edutic.id.png"></a>
-  <a align="center" href="https://www.ics-cademy.com/" target="_blank"><img width="100" height="50" alt="ICS Community" src="Assets/Community/logo_ics.png"></a>
+  <a align="center" href="https://indobot.co.id/" target="_blank">
+    <img width="100" height="50" alt="Indobot Community" src="Assets/Community/logo_indobot.webp">
+  </a>
+  <a align="center" href="https://progate.com/" target="_blank">
+    <img width="100" height="50" alt="Progate Community" src="Assets/Community/logo_progate.webp">
+  </a>
+  <a align="center" href="https://kelasiot.id/" target="_blank">
+    <img width="100" height="50" alt="ICS Community" src="Assets/Community/logo_kelas_iot.webp">
+  </a>
+  <a align="center" href="https://edutic.id/" target="_blank">
+    <img width="100" height="50" alt="Edutic Community" src="Assets/Community/logo_edutic.webp">
+  </a>
+  <a align="center" href="https://www.ics-cademy.com/" target="_blank">
+    <img width="100" height="50" alt="ICS Community" src="Assets/Community/logo_ics.webp">
+  </a>
 </div><br/><br/><br/>
 
 <div class="container" id="githubstats" align="center">
