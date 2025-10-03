@@ -239,13 +239,13 @@
             <a href="#basicknowledge">
                 <img src="Assets/Embedded Systems and IoT/espressif.webp" width="48" height="48" alt="espressif">
             </a><br/>
-            <p>ESP32/ESP8266</p>
+            <p>ESP32 / ESP8266</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Embedded Systems and IoT/stm.webp" width="48" height="48" alt="stm">
             </a><br/>
-            <p>STM8/STM32</p>
+            <p>STM8 / STM32</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
@@ -265,6 +265,12 @@
             </a><br/>
             <p>Shiftr.io</p>
         </td>
+        <td align="center" width="96" height="96">
+            <a href="#basicknowledge">
+                <img src="Assets/Embedded Systems and IoT/ubidots.webp" width="48" height="48" alt="ubidots">
+            </a><br/>
+            <p>Ubidots</p>
+        </td>     
     </tr>
     <tr>
         <td align="center" width="96" height="96">
@@ -273,12 +279,6 @@
             </a><br/>
             <p>ThingsBoard</p>
         </td>
-        <td align="center" width="96" height="96">
-            <a href="#basicknowledge">
-                <img src="Assets/Embedded Systems and IoT/ubidots.webp" width="48" height="48" alt="ubidots">
-            </a><br/>
-            <p>Ubidots</p>
-        </td>     
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Embedded Systems and IoT/thingspeak.webp" width="48" height="48" alt="thingspeak">
@@ -303,14 +303,14 @@
             </a><br/>
             <p>Antares</p>
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Embedded Systems and IoT/nodered.webp" width="48" height="48" alt="node-red">
             </a><br/>
             <p>Node-RED</p>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Embedded Systems and IoT/emqx.webp" width="48" height="48" alt="emqx">
@@ -341,14 +341,14 @@
             </a><br/>
             <p>Kodular</p>
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Embedded Systems and IoT/mitappinventor.webp" width="48" height="48" alt="mit-app-inventor">
             </a><br/>
             <p>MIT App Inventor</p>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Embedded Systems and IoT/mqttx.webp" width="48" height="48" alt="mqttx">
