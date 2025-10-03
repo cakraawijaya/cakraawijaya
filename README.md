@@ -309,14 +309,14 @@
             </a><br/>
             <p>Node-RED</p>
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Embedded Systems and IoT/emqx.webp" width="48" height="48" alt="emqx">
             </a><br/>
             <p>EMQX</p>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Embedded Systems and IoT/hivemq.webp" width="48" height="48" alt="hivemq">
@@ -347,14 +347,14 @@
             </a><br/>
             <p>MIT App Inventor</p>
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Embedded Systems and IoT/mqttx.webp" width="48" height="48" alt="mqttx">
             </a><br/>
             <p>MQTTX</p>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96" height="96">
             <a href="#basicknowledge">
                 <img src="Assets/Embedded Systems and IoT/platformio.webp" width="48" height="48" alt="platform-io">
