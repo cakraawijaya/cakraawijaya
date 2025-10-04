@@ -25,7 +25,7 @@
 
 <h2></h2><h2 id="basicknowledge" align="center">💻 Basic Knowledge Skills</h2>
 <div align="center">
-<details><summary>Some of the Programming Languages, Development Tools, and other things I've used for work.</summary><br/><br/>
+<summary>Some of the Programming Languages, Development Tools, and other things I've used for work.</summary><br/><br/>
     
 <table align="center">
     <p id="programminglanguage"><strong>Programming Language</strong></p>
@@ -493,7 +493,6 @@
     </tr>
 </table>
 </div>
-</details>
 
 <br/><br/>
 
