@@ -70,7 +70,7 @@
             <a href="#programminglanguage">
                 <img src="Assets/Programming Language/go.webp" width="48" height="48" alt="golang">
             </a><br/>
-            <p>Go (Golang)</p>
+            <p>Go</p>
         </td>
     </tr>
     <tr>
@@ -285,18 +285,6 @@
             </a><br/>
             <p>Antares</p>
         </td>
-        <td align="center" width="96" height="96">
-            <a href="#embeddedsystems_iot">
-                <img src="Assets/Embedded Systems and IoT/nodered.webp" width="48" height="48" alt="node-red">
-            </a><br/>
-            <p>Node-RED</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#embeddedsystems_iot">
-                <img src="Assets/Embedded Systems and IoT/emqx.webp" width="48" height="48" alt="emqx">
-            </a><br/>
-            <p>EMQX</p>
-        </td>
     </tr>
     <tr>
         <td align="center" width="96" height="96">
@@ -354,6 +342,18 @@
                 <img src="Assets/Embedded Systems and IoT/websocket.webp" width="48" height="48" alt="websocket">
             </a><br/>
             <p>WebSocket</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#embeddedsystems_iot">
+                <img src="Assets/Embedded Systems and IoT/nodered.webp" width="48" height="48" alt="node-red">
+            </a><br/>
+            <p>Node-RED</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#embeddedsystems_iot">
+                <img src="Assets/Embedded Systems and IoT/emqx.webp" width="48" height="48" alt="emqx">
+            </a><br/>
+            <p>EMQX</p>
         </td>
     </tr>
 </table><br/>
@@ -416,6 +416,8 @@
             </a><br/>
             <p>Docker</p>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96" height="96">
             <a href="#others">
                 <img src="Assets/Others/figma.webp" width="48" height="48" alt="figma">
@@ -428,8 +430,6 @@
             </a><br/>
             <p>Autodesk Eagle</p>
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96" height="96">
             <a href="#others">
                 <img src="Assets/Others/easyeda.webp" width="48" height="48" alt="easyeda">
