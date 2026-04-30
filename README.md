@@ -50,12 +50,6 @@
         </td>
         <td align="center" width="96" height="96">
             <a href="#programminglanguage">
-                <img src="Assets/Programming Language/visualbasicnet.webp" width="48" height="48" alt="vb-net">
-            </a><br/>
-            <p>Visual Basic .Net</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#programminglanguage">
                 <img src="Assets/Programming Language/visualbasic6.webp" width="48" height="48" alt="vb-6">
             </a><br/>
             <p>Visual Basic 6</p>
@@ -71,6 +65,12 @@
                 <img src="Assets/Programming Language/php.webp" width="48" height="48" alt="php">
             </a><br/>
             <p>PHP</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#programminglanguage">
+                <img src="Assets/Programming Language/go.webp" width="48" height="48" alt="golang">
+            </a><br/>
+            <p>Go (Golang)</p>
         </td>
     </tr>
     <tr>
@@ -133,18 +133,6 @@
             </a><br/>
             <p>React.js</p>
         </td>
-        <td align="center" width="96" height="96">
-            <a href="#frontend">
-                <img src="Assets/Frontend/fontawesome.webp" width="48" height="48" alt="font-awesome">
-            </a><br/>
-            <p>Font Awesome</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#frontend">
-                <img src="Assets/Frontend/framermotion.webp" width="48" height="48" alt="framer-motion">
-            </a><br/>
-            <p>Framer Motion</p>
-        </td>
     </tr>
 </table><br/>
 <table align="center">
@@ -173,12 +161,12 @@
                 <img src="Assets/Database and Backend/express.webp" width="48" height="48" alt="express">
             </a><br/>
             <p>Express.js</p>
-        </td> 
+        </td>
         <td align="center" width="96" height="96">
             <a href="#database_backend">
-                <img src="Assets/Database and Backend/botman.webp" width="48" height="48" alt="botman">
+                <img src="Assets/Database and Backend/composer.webp" width="48" height="48" alt="composer">
             </a><br/>
-            <p>Botman</p>
+            <p>Composer</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#database_backend">
@@ -217,12 +205,6 @@
                 <img src="Assets/Database and Backend/influxdb.webp" width="48" height="48" alt="influxdb">
             </a><br/>
             <p>InfluxDB</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#database_backend">
-                <img src="Assets/Database and Backend/composer.webp" width="48" height="48" alt="composer">
-            </a><br/>
-            <p>Composer</p>
         </td>
     </tr>
 </table><br/>
@@ -414,14 +396,14 @@
             </a><br/>
             <p>Apache</p>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96" height="96">
             <a href="#others">
                 <img src="Assets/Others/git.webp" width="48" height="48" alt="git">
             </a><br/>
             <p>Git</p>
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96" height="96">
             <a href="#others">
                 <img src="Assets/Others/github.webp" width="48" height="48" alt="github">
@@ -433,24 +415,6 @@
                 <img src="Assets/Others/docker.webp" width="48" height="48" alt="docker">
             </a><br/>
             <p>Docker</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#others">
-                <img src="Assets/Others/twilio.webp" width="48" height="48" alt="twilio">
-            </a><br/>
-            <p>Twilio</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#others">
-                <img src="Assets/Others/fonnte.webp" width="48" height="48" alt="fonnte">
-            </a><br/>
-            <p>Fonnte</p>
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#others">
-                <img src="Assets/Others/telegram.webp" width="48" height="48" alt="telegram-api">
-            </a><br/>
-            <p>Telegram API</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#others">
