@@ -62,15 +62,15 @@
         </td>
         <td align="center" width="96" height="96">
             <a href="#programminglanguage">
-                <img src="Assets/Programming Language/php.webp" width="48" height="48" alt="php">
+                <img src="Assets/Programming Language/typescript.webp" width="48" height="48" alt="typescript">
             </a><br/>
-            <p>PHP</p>
+            <p>TypeScript</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#programminglanguage">
-                <img src="Assets/Programming Language/go.webp" width="48" height="48" alt="golang">
+                <img src="Assets/Programming Language/php.webp" width="48" height="48" alt="php">
             </a><br/>
-            <p>Go</p>
+            <p>PHP</p>
         </td>
     </tr>
     <tr>
@@ -94,9 +94,9 @@
         </td>
         <td align="center" width="96" height="96">
             <a href="#programminglanguage">
-                <img src="Assets/Programming Language/typescript.webp" width="48" height="48" alt="typescript">
+                <img src="Assets/Programming Language/go.webp" width="48" height="48" alt="golang">
             </a><br/>
-            <p>TypeScript</p>
+            <p>Go</p>
         </td>
     </tr>
 </table><br/>
@@ -125,7 +125,7 @@
             <a href="#frontend">
                 <img src="Assets/Frontend/nextjs.webp" width="48" height="48" alt="next-js-15">
             </a><br/>
-            <p>Next.js 15</p>
+            <p>Next.js</p>
         </td>
         <td align="center" width="96" height="96">
             <a href="#frontend">
@@ -136,73 +136,73 @@
     </tr>
 </table><br/>
 <table align="center">
-    <p id="database_backend"><strong>Database and Backend</strong></p>
+    <p id="backend_database"><strong>Backend and Database</strong></p>
     <tr>
         <td align="center" width="96" height="96">
-            <a href="#database_backend">
-                <img src="Assets/Database and Backend/codeigniter.webp" width="48" height="48" alt="codeigniter">
+            <a href="#backend_database">
+                <img src="Assets/Backend and Database/codeigniter.webp" width="48" height="48" alt="codeigniter">
             </a><br/>
             <p>Codeigniter</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#database_backend">
-                <img src="Assets/Database and Backend/laravel.webp" width="48" height="48" alt="laravel">
+            <a href="#backend_database">
+                <img src="Assets/Backend and Database/laravel.webp" width="48" height="48" alt="laravel">
             </a><br/>
             <p>Laravel</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#database_backend">
-                <img src="Assets/Database and Backend/nodejs.webp" width="48" height="48" alt="nodejs">
+            <a href="#backend_database">
+                <img src="Assets/Backend and Database/nodejs.webp" width="48" height="48" alt="nodejs">
             </a><br/>
             <p>Node.js</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#database_backend">
-                <img src="Assets/Database and Backend/express.webp" width="48" height="48" alt="express">
+            <a href="#backend_database">
+                <img src="Assets/Backend and Database/express.webp" width="48" height="48" alt="express">
             </a><br/>
             <p>Express.js</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#database_backend">
-                <img src="Assets/Database and Backend/composer.webp" width="48" height="48" alt="composer">
+            <a href="#backend_database">
+                <img src="Assets/Backend and Database/composer.webp" width="48" height="48" alt="composer">
             </a><br/>
             <p>Composer</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#database_backend">
-                <img src="Assets/Database and Backend/mysql.webp" width="48" height="48" alt="mysql">
+            <a href="#backend_database">
+                <img src="Assets/Backend and Database/mysql.webp" width="48" height="48" alt="mysql">
             </a><br/>
             <p>MySQL</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#database_backend">
-                <img src="Assets/Database and Backend/mariadb.webp" width="48" height="48" alt="mariadb">
+            <a href="#backend_database">
+                <img src="Assets/Backend and Database/mariadb.webp" width="48" height="48" alt="mariadb">
             </a><br/>
             <p>MariaDB</p>
         </td>
     </tr>
     <tr>
         <td align="center" width="96" height="96">
-            <a href="#database_backend">
-                <img src="Assets/Database and Backend/postgresql.webp" width="48" height="48" alt="postgresql">
+            <a href="#backend_database">
+                <img src="Assets/Backend and Database/postgresql.webp" width="48" height="48" alt="postgresql">
             </a><br/>
             <p>PostgreSQL</p>
         </td>      
         <td align="center" width="96" height="96">
-            <a href="#database_backend">
-                <img src="Assets/Database and Backend/mongodb.webp" width="48" height="48" alt="mongodb">
+            <a href="#backend_database">
+                <img src="Assets/Backend and Database/mongodb.webp" width="48" height="48" alt="mongodb">
             </a><br/>
             <p>MongoDB</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#database_backend">
-                <img src="Assets/Database and Backend/firebase.webp" width="48" height="48" alt="firebase">
+            <a href="#backend_database">
+                <img src="Assets/Backend and Database/firebase.webp" width="48" height="48" alt="firebase">
             </a><br/>
             <p>Firebase</p>
         </td>
         <td align="center" width="96" height="96">
-            <a href="#database_backend">
-                <img src="Assets/Database and Backend/influxdb.webp" width="48" height="48" alt="influxdb">
+            <a href="#backend_database">
+                <img src="Assets/Backend and Database/influxdb.webp" width="48" height="48" alt="influxdb">
             </a><br/>
             <p>InfluxDB</p>
         </td>
@@ -515,4 +515,4 @@
   <a align="center" href="https://www.ics-cademy.com/" target="_blank">
     <img width="100" height="50" alt="ICS Community" src="Assets/Community/logo_ics.webp">
   </a>
-</div>
+</div><br/>
