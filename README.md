@@ -345,6 +345,12 @@
         </td>
         <td align="center" width="96" height="96">
             <a href="#embeddedsystems_iot">
+                <img src="Assets/Embedded Systems and IoT/modbus.webp" width="48" height="48" alt="modbus">
+            </a><br/>
+            <p>MODBUS</p>
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#embeddedsystems_iot">
                 <img src="Assets/Embedded Systems and IoT/nodered.webp" width="48" height="48" alt="node-red">
             </a><br/>
             <p>Node-RED</p>
@@ -503,13 +509,4 @@
   <a align="center" href="https://www.ics-cademy.com/" target="_blank">
     <img width="100" height="50" alt="ICS Community" src="Assets/Community/logo_ics.webp">
   </a>
-</div><br/><br/><br/>
-
-<div class="container" id="githubstats" align="center">
-  <img align="center" alt="Devan's GitHub Profile Summary" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cakraawijaya&theme=tokyonight">
-<br/><br/>
-    
-  <img align="center" alt="Devan's Github Streak Stats" src="https://streak-stats.demolab.com/?user=cakraawijaya&show_icons=true&hide_border=true&layout=compact&theme=algolia">&nbsp;&nbsp;&nbsp;&nbsp;
-      
-  <img align="center" alt="Devan's Github Readme Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cakraawijaya&theme=algolia">
 </div>
