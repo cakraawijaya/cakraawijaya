@@ -421,6 +421,12 @@
                 <img src="Assets/Others/docker.webp" width="48" height="48" alt="docker">
             </a><br/>
             <p>Docker</p>
+        </td>      
+        <td align="center" width="96" height="96">
+            <a href="#others">
+                <img src="Assets/Others/postman.webp" width="48" height="48" alt="postman">
+            </a><br/>
+            <p>Postman</p>
         </td>
     </tr>
     <tr>
