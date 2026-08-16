@@ -107,7 +107,7 @@
 </table><br/>
 <table align="center">
     <tr>
-        <th colspan="11" align="center" bgcolor="#F5F0FF">Backend and Database</th>
+        <th colspan="11" align="center" bgcolor="#F5F0FF">Backend, Runtime, Server & Database</th>
     </tr>
     <tr>
         <td align="center">
@@ -119,16 +119,16 @@
             <sub>Laravel</sub>
         </td>
         <td align="center">
-            <img src="Assets/Backend and Database/nodejs.webp" width="36" height="36" alt="nodejs"><br/>
-            <sub>Node.js</sub>
-        </td>
-        <td align="center">
             <img src="Assets/Backend and Database/express.webp" width="36" height="36" alt="express"><br/>
             <sub>Express.js</sub>
         </td>
         <td align="center">
-            <img src="Assets/Backend and Database/composer.webp" width="36" height="36" alt="composer"><br/>
-            <sub>Composer</sub>
+            <img src="Assets/Backend and Database/nodejs.webp" width="36" height="36" alt="nodejs"><br/>
+            <sub>Node.js</sub>
+        </td>
+        <td align="center">
+            <img src="Assets/Others/apache.webp" width="36" height="36" alt="apache"><br/>
+            <sub>Apache</sub>
         </td>
         <td align="center">
             <img src="Assets/Backend and Database/mysql.webp" width="36" height="36" alt="mysql"><br/>
@@ -141,7 +141,7 @@
         <td align="center">
             <img src="Assets/Backend and Database/postgresql.webp" width="36" height="36" alt="postgresql"><br/>
             <sub>PostgreSQL</sub>
-        </td>      
+        </td>
         <td align="center">
             <img src="Assets/Backend and Database/mongodb.webp" width="36" height="36" alt="mongodb"><br/>
             <sub>MongoDB</sub>
@@ -153,6 +153,37 @@
         <td align="center">
             <img src="Assets/Backend and Database/influxdb.webp" width="36" height="36" alt="influxdb"><br/>
             <sub>InfluxDB</sub>
+        </td>
+    </tr>
+</table><br/>
+<table align="center">
+    <tr>
+        <th colspan="6" align="center" bgcolor="#F5F0FF">Web Development Tools</th>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="Assets/Backend and Database/composer.webp" width="36" height="36" alt="composer"><br/>
+            <sub>Composer</sub>
+        </td>
+        <td align="center">
+            <img src="Assets/Others/vscode.webp" width="36" height="36" alt="vs-code"><br/>
+            <sub>VS Code</sub>
+        </td>
+        <td align="center">
+            <img src="Assets/Others/xampp.webp" width="36" height="36" alt="xampp"><br/>
+            <sub>XAMPP</sub>
+        </td>
+        <td align="center">
+            <img src="Assets/Others/laragon.webp" width="36" height="36" alt="laragon"><br/>
+            <sub>Laragon</sub>
+        </td>
+        <td align="center">
+            <img src="Assets/Others/ngrok.webp" width="36" height="36" alt="ngrok"><br/>
+            <sub>Ngrok</sub>
+        </td>
+        <td align="center">
+            <img src="Assets/Others/postman.webp" width="36" height="36" alt="postman"><br/>
+            <sub>Postman</sub>
         </td>
     </tr>
 </table><br/>
@@ -293,7 +324,7 @@
         <td align="center">
             <img src="Assets/IoT Platform and MQTT Broker/nodered.webp" width="36" height="36" alt="node-red"><br/>
             <sub>Node-RED</sub>
-        </td>             
+        </td>
         <td align="center">
             <img src="Assets/IoT Platform and MQTT Broker/grafana.webp" width="36" height="36" alt="grafana"><br/>
             <sub>Grafana</sub>
@@ -309,7 +340,7 @@
         <td align="center">
             <img src="Assets/Embedded Systems and IoT/mitappinventor.webp" width="36" height="36" alt="mit-app-inventor"><br/>
             <sub>MIT App<br/>Inventor</sub>
-        </td> 
+        </td>
         <td align="center">
             <img src="Assets/Others/vs.webp" width="36" height="36" alt="visual-studio"><br/>
             <sub>Visual<br/>Studio</sub>
@@ -318,36 +349,9 @@
 </table><br/>
 <table align="center">
     <tr>
-        <th colspan="5" align="center" bgcolor="#F5F0FF">Web Development Tools</th>
-    </tr>
-    <tr>     
-        <td align="center">
-            <img src="Assets/Others/vscode.webp" width="36" height="36" alt="vs-code"><br/>
-            <sub>VS Code</sub>
-        </td>
-        <td align="center">
-            <img src="Assets/Others/xampp.webp" width="36" height="36" alt="xampp"><br/>
-            <sub>XAMPP</sub>
-        </td>
-        <td align="center">
-            <img src="Assets/Others/laragon.webp" width="36" height="36" alt="laragon"><br/>
-            <sub>Laragon</sub>
-        </td>
-        <td align="center">
-            <img src="Assets/Others/ngrok.webp" width="36" height="36" alt="ngrok"><br/>
-            <sub>Ngrok</sub>
-        </td>
-        <td align="center">
-            <img src="Assets/Others/postman.webp" width="36" height="36" alt="postman"><br/>
-            <sub>Postman</sub>
-        </td>
-    </tr>
-</table><br/>
-<table align="center">
-    <tr>
         <th colspan="3" align="center" bgcolor="#F5F0FF">DevOps & Version Control</th>
     </tr>
-    <tr>     
+    <tr>
         <td align="center">
             <img src="Assets/Others/git.webp" width="36" height="36" alt="git"><br/>
             <sub>Git</sub>
@@ -355,7 +359,7 @@
         <td align="center">
             <img src="Assets/Others/github.webp" width="36" height="36" alt="github"><br/>
             <sub>Github</sub>
-        </td>      
+        </td>
         <td align="center">
             <img src="Assets/Others/docker.webp" width="36" height="36" alt="docker"><br/>
             <sub>Docker</sub>
@@ -386,10 +390,6 @@
         <th colspan="2" align="center" bgcolor="#F5F0FF">Others</th>
     </tr>
     <tr>
-        <td align="center">
-            <img src="Assets/Others/apache.webp" width="36" height="36" alt="apache"><br/>
-            <sub>Apache</sub>
-        </td>
         <td align="center">
             <img src="Assets/Others/msoffice.webp" width="36" height="36" alt="ms-office"><br/>
             <sub>Microsoft<br/>Office</sub>
