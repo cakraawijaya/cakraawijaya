@@ -224,7 +224,7 @@
 </table><br/>
 <table align="center">
     <tr>
-        <th colspan="13" align="center" bgcolor="#F5F0FF">IoT Platform & MQTT Broker</th>
+        <th colspan="8" align="center" bgcolor="#F5F0FF">IoT Platform & MQTT Broker</th>
     </tr>
     <tr>
         <td align="center">
@@ -259,6 +259,8 @@
             <img src="Assets/IoT Platform and MQTT Broker/nodered.webp" width="36" height="36" alt="node-red"><br/>
             <sub>Node-RED</sub>
         </td>
+    </tr>
+    <tr>
         <td align="center">
             <img src="Assets/IoT Platform and MQTT Broker/hivemq.webp" width="36" height="36" alt="hivemq"><br/>
             <sub>HiveMQ</sub>
