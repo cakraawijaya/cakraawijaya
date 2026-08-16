@@ -94,7 +94,7 @@
         </td>
         <td align="center" width="96" height="96">
             <a href="#programminglanguage">
-                <img src="Assets/Programming Language/go.webp" width="48" height="48" alt="golang">
+                <img src="Assets/Programming Language/golang.webp" width="48" height="48" alt="golang">
             </a><br/>
             <p>Go</p>
         </td>
