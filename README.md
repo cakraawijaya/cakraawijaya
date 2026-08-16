@@ -158,71 +158,134 @@
 </table><br/>
 <table align="center">
     <tr>
-        <th colspan="11" align="center" bgcolor="#F5F0FF">Embedded Systems and IoT</th>
+        <th colspan="4" align="center" bgcolor="#F5F0FF">Development Board</th>
     </tr>
     <tr>
         <td align="center">
-            <img src="Assets/Embedded Systems and IoT/arduino.webp" width="36" height="36" alt="arduino"><br/>
+            <img src="Assets/Development Board/arduino.webp" width="36" height="36" alt="arduino"><br/>
             <sub>Arduino</sub>
         </td>
         <td align="center">
-            <img src="Assets/Embedded Systems and IoT/espressif.webp" width="36" height="36" alt="espressif"><br/>
-            <sub>ESP32 /<br/>ESP8266</sub>
+            <img src="Assets/Development Board/espressif.webp" width="36" height="36" alt="espressif"><br/>
+            <sub>ESP32 / ESP8266</sub>
         </td>
         <td align="center">
-            <img src="Assets/Embedded Systems and IoT/stm.webp" width="36" height="36" alt="stm"><br/>
-            <sub>STM8 /<br/>STM32</sub>
+            <img src="Assets/Development Board/stm.webp" width="36" height="36" alt="stm"><br/>
+            <sub>STM8 / STM32</sub>
         </td>
         <td align="center">
-            <img src="Assets/Embedded Systems and IoT/raspberry.webp" width="36" height="36" alt="raspberry"><br/>
+            <img src="Assets/Development Board/raspberry.webp" width="36" height="36" alt="raspberry"><br/>
             <sub>Raspberry Pi</sub>
         </td>
-        <td align="center">
-            <img src="Assets/Embedded Systems and IoT/blynk.webp" width="36" height="36" alt="blynk-iot"><br/>
-            <sub>Blynk IoT</sub>
-        </td>
-        <td align="center">
-            <img src="Assets/Embedded Systems and IoT/shiftrio.webp" width="36" height="36" alt="shiftr-io"><br/>
-            <sub>Shiftr.io</sub>
-        </td>
-        <td align="center">
-            <img src="Assets/Embedded Systems and IoT/ubidots.webp" width="36" height="36" alt="ubidots"><br/>
-            <sub>Ubidots</sub>
-        </td>
-        <td align="center">
-            <img src="Assets/Embedded Systems and IoT/thingsboard.webp" width="36" height="36" alt="thingsboard"><br/>
-            <sub>ThingsBoard</sub>
-        </td>
-        <td align="center">
-            <img src="Assets/Embedded Systems and IoT/thingspeak.webp" width="36" height="36" alt="thingspeak"><br/>
-            <sub>ThingSpeak</sub>
-        </td>
-        <td align="center">
-            <img src="Assets/Embedded Systems and IoT/mosquitto.webp" width="36" height="36" alt="mosquitto"><br/>
-            <sub>Mosquitto</sub>
-        </td>
-        <td align="center">
-            <img src="Assets/Embedded Systems and IoT/iotnet.webp" width="36" height="36" alt="iot-net"><br/>
-            <sub>i-ot.net</sub>
-        </td>
+    </tr>
+</table><br/>
+<table align="center">
+    <tr>
+        <th colspan="9" align="center" bgcolor="#F5F0FF">Communication Protocols & Hardware Interfaces</th>
     </tr>
     <tr>
         <td align="center">
-            <img src="Assets/Embedded Systems and IoT/antares.webp" width="36" height="36" alt="antares"><br/>
+            <img src="Assets/Communication Protocols and Hardware Interfaces/tcpip.webp" width="36" height="36" alt="tcpip"><br/>
+            <sub>TCP / IP</sub>
+        </td>
+        <td align="center">
+            <img src="Assets/Communication Protocols and Hardware Interfaces/http.webp" width="36" height="36" alt="http"><br/>
+            <sub>HTTP</sub>
+        </td>
+        <td align="center">
+            <img src="Assets/Communication Protocols and Hardware Interfaces/mqtt.webp" width="36" height="36" alt="mqtt"><br/>
+            <sub>MQTT</sub>
+        </td>
+        <td align="center">
+            <img src="Assets/Communication Protocols and Hardware Interfaces/websocket.webp" width="36" height="36" alt="websocket"><br/>
+            <sub>WebSocket</sub>
+        </td>
+        <td align="center">
+            <img src="Assets/Communication Protocols and Hardware Interfaces/modbus.webp" width="36" height="36" alt="modbus"><br/>
+            <sub>MODBUS</sub>
+        </td>
+        <td align="center">
+            <img src="Assets/Communication Protocols and Hardware Interfaces/uart.webp" width="36" height="36" alt="uart"><br/>
+            <sub>UART</sub>
+        </td>
+        <td align="center">
+            <img src="Assets/Communication Protocols and Hardware Interfaces/i2c.webp" width="36" height="36" alt="i2c"><br/>
+            <sub>I2C</sub>
+        </td>
+        <td align="center">
+            <img src="Assets/Communication Protocols and Hardware Interfaces/spi.webp" width="36" height="36" alt="spi"><br/>
+            <sub>SPI</sub>
+        </td>
+        <td align="center">
+            <img src="Assets/Communication Protocols and Hardware Interfaces/rs485.webp" width="36" height="36" alt="rs485"><br/>
+            <sub>RS485</sub>
+        </td>
+    </tr>
+</table><br/>
+<table align="center">
+    <tr>
+        <th colspan="13" align="center" bgcolor="#F5F0FF">IoT Platform & MQTT Broker</th>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="Assets/IoT Platform and MQTT Broker/blynk.webp" width="36" height="36" alt="blynk-iot"><br/>
+            <sub>Blynk IoT</sub>
+        </td>
+        <td align="center">
+            <img src="Assets/IoT Platform and MQTT Broker/ubidots.webp" width="36" height="36" alt="ubidots"><br/>
+            <sub>Ubidots</sub>
+        </td>
+        <td align="center">
+            <img src="Assets/IoT Platform and MQTT Broker/thingspeak.webp" width="36" height="36" alt="thingspeak"><br/>
+            <sub>ThingSpeak</sub>
+        </td>
+        <td align="center">
+            <img src="Assets/IoT Platform and MQTT Broker/thingerio.webp" width="36" height="36" alt="thinger-io"><br/>
+            <sub>Thinger.io</sub>
+        </td>
+        <td align="center">
+            <img src="Assets/IoT Platform and MQTT Broker/antares.webp" width="36" height="36" alt="antares"><br/>
             <sub>Antares</sub>
         </td>
         <td align="center">
-            <img src="Assets/Embedded Systems and IoT/hivemq.webp" width="36" height="36" alt="hivemq"><br/>
+            <img src="Assets/IoT Platform and MQTT Broker/thingsboard.webp" width="36" height="36" alt="thingsboard"><br/>
+            <sub>ThingsBoard</sub>
+        </td>     
+        <td align="center">
+            <img src="Assets/IoT Platform and MQTT Broker/grafana.webp" width="36" height="36" alt="grafana"><br/>
+            <sub>Grafana</sub>
+        </td>
+        <td align="center">
+            <img src="Assets/IoT Platform and MQTT Broker/nodered.webp" width="36" height="36" alt="node-red"><br/>
+            <sub>Node-RED</sub>
+        </td>
+        <td align="center">
+            <img src="Assets/IoT Platform and MQTT Broker/hivemq.webp" width="36" height="36" alt="hivemq"><br/>
             <sub>HiveMQ</sub>
         </td>
         <td align="center">
-            <img src="Assets/Embedded Systems and IoT/thingerio.webp" width="36" height="36" alt="thinger-io"><br/>
-            <sub>Thinger.io</sub>
-        </td>     
-        <td align="center">
-            <img src="Assets/Embedded Systems and IoT/grafana.webp" width="36" height="36" alt="grafana"><br/>
-            <sub>Grafana</sub>
+            <img src="Assets/IoT Platform and MQTT Broker/mosquitto.webp" width="36" height="36" alt="mosquitto"><br/>
+            <sub>Mosquitto</sub>
         </td>
+        <td align="center">
+            <img src="Assets/IoT Platform and MQTT Broker/emqx.webp" width="36" height="36" alt="emqx"><br/>
+            <sub>EMQX</sub>
+        </td>
+        <td align="center">
+            <img src="Assets/IoT Platform and MQTT Broker/shiftrio.webp" width="36" height="36" alt="shiftr-io"><br/>
+            <sub>Shiftr.io</sub>
+        </td>
+        <td align="center">
+            <img src="Assets/IoT Platform and MQTT Broker/iotnet.webp" width="36" height="36" alt="iot-net"><br/>
+            <sub>i-ot.net</sub>
+        </td>
+    </tr>
+</table><br/>
+<table align="center">
+    <tr>
+        <th colspan="11" align="center" bgcolor="#F5F0FF">Embedded Systems and IoT</th>
+    </tr>
+    <tr>
         <td align="center">
             <img src="Assets/Embedded Systems and IoT/kodular.webp" width="36" height="36" alt="kodular"><br/>
             <sub>Kodular</sub>
@@ -238,28 +301,6 @@
         <td align="center">
             <img src="Assets/Embedded Systems and IoT/platformio.webp" width="36" height="36" alt="platform-io"><br/>
             <sub>PlatformIO</sub>
-        </td>
-        <td align="center">
-            <img src="Assets/Embedded Systems and IoT/mqtt.webp" width="36" height="36" alt="mqtt"><br/>
-            <sub>MQTT</sub>
-        </td>
-        <td align="center">
-            <img src="Assets/Embedded Systems and IoT/websocket.webp" width="36" height="36" alt="websocket"><br/>
-            <sub>WebSocket</sub>
-        </td>
-        <td align="center">
-            <img src="Assets/Embedded Systems and IoT/modbus.webp" width="36" height="36" alt="modbus"><br/>
-            <sub>MODBUS</sub>
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <img src="Assets/Embedded Systems and IoT/nodered.webp" width="36" height="36" alt="node-red"><br/>
-            <sub>Node-RED</sub>
-        </td>
-        <td align="center">
-            <img src="Assets/Embedded Systems and IoT/emqx.webp" width="36" height="36" alt="emqx"><br/>
-            <sub>EMQX</sub>
         </td>
     </tr>
 </table><br/>
