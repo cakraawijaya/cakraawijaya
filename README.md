@@ -115,7 +115,7 @@
             <sub>Codeigniter</sub>
         </td>
         <td align="center">
-            <img src="Assets/Backend and Database/laravel.webp" width="48" height="48" alt="laravel"><br/>
+            <img src="Assets/Backend and Database/laravel.webp" width="36" height="36" alt="laravel"><br/>
             <sub>Laravel</sub>
         </td>
         <td align="center">
@@ -309,7 +309,7 @@
             <sub>Postman</sub>
         </td>
         <td align="center">
-            <img src="Assets/Others/figma.webp" width="36" height="36" alt="figma"><br/>
+            <img src="Assets/Others/figma.webp" width="30" height="36" alt="figma"><br/>
             <sub>Figma</sub>
         </td>
     </tr>
@@ -323,7 +323,7 @@
             <sub>EasyEDA</sub>
         </td>
         <td align="center">
-            <img src="Assets/Others/photoshop.webp" width="36" height="36" alt="adobe-photoshop"><br/>
+            <img src="Assets/Others/photoshop.webp" width="55" height="55" alt="adobe-photoshop"><br/>
             <sub>Adobe<br/>Photoshop</sub>
         </td>      
         <td align="center">
