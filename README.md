@@ -53,10 +53,6 @@
             <sub>PHP</sub>
         </td>
         <td align="center">
-            <img src="Assets/Programming Language/sql.webp" width="36" height="36" alt="sql"><br/>
-            <sub>SQL</sub>
-        </td>
-        <td align="center">
             <img src="Assets/Programming Language/python.webp" width="36" height="36" alt="python"><br/>
             <sub>Python</sub>
         </td>
@@ -75,6 +71,10 @@
         <td align="center">
             <img src="Assets/Programming Language/golang.webp" width="36" height="36" alt="golang"><br/>
             <sub>Go</sub>
+        </td>
+        <td align="center">
+            <img src="Assets/Programming Language/sql.webp" width="36" height="36" alt="sql"><br/>
+            <sub>SQL</sub>
         </td>
     </tr>
 </table><br/>
@@ -362,11 +362,11 @@
         </td>
         <td align="center">
             <img src="Assets/DevOps and Version Control/github.webp" width="36" height="36" alt="github"><br/>
-            <sub>Github</sub>
+            <sub>GitHub</sub>
         </td>
         <td align="center">
             <img src="Assets/DevOps and Version Control/gitlab.webp" width="36" height="36" alt="gitlab"><br/>
-            <sub>Gitlab</sub>
+            <sub>GitLab</sub>
         </td>
     </tr>
 </table><br/>
