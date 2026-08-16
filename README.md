@@ -224,7 +224,7 @@
 </table><br/>
 <table align="center">
     <tr>
-        <th colspan="8" align="center" bgcolor="#F5F0FF">IoT Platform & MQTT Broker</th>
+        <th colspan="11" align="center" bgcolor="#F5F0FF">IoT Platform & MQTT Broker</th>
     </tr>
     <tr>
         <td align="center">
@@ -250,17 +250,7 @@
         <td align="center">
             <img src="Assets/IoT Platform and MQTT Broker/thingsboard.webp" width="36" height="36" alt="thingsboard"><br/>
             <sub>ThingsBoard</sub>
-        </td>     
-        <td align="center">
-            <img src="Assets/IoT Platform and MQTT Broker/grafana.webp" width="36" height="36" alt="grafana"><br/>
-            <sub>Grafana</sub>
         </td>
-        <td align="center">
-            <img src="Assets/IoT Platform and MQTT Broker/nodered.webp" width="36" height="36" alt="node-red"><br/>
-            <sub>Node-RED</sub>
-        </td>
-    </tr>
-    <tr>
         <td align="center">
             <img src="Assets/IoT Platform and MQTT Broker/hivemq.webp" width="36" height="36" alt="hivemq"><br/>
             <sub>HiveMQ</sub>
@@ -285,9 +275,33 @@
 </table><br/>
 <table align="center">
     <tr>
-        <th colspan="11" align="center" bgcolor="#F5F0FF">Embedded Systems and IoT</th>
+        <th colspan="9" align="center" bgcolor="#F5F0FF">PCB Design, IoT Development & Integration Tools</th>
     </tr>
     <tr>
+        <td align="center">
+            <img src="Assets/Others/eagle.webp" width="36" height="36" alt="autodesk-eagle"><br/>
+            <sub>Autodesk<br/>Eagle</sub>
+        </td>
+        <td align="center">
+            <img src="Assets/Others/easyeda.webp" width="36" height="36" alt="easyeda"><br/>
+            <sub>EasyEDA</sub>
+        </td>
+        <td align="center">
+            <img src="Assets/Embedded Systems and IoT/platformio.webp" width="36" height="36" alt="platform-io"><br/>
+            <sub>PlatformIO</sub>
+        </td>
+        <td align="center">
+            <img src="Assets/IoT Platform and MQTT Broker/nodered.webp" width="36" height="36" alt="node-red"><br/>
+            <sub>Node-RED</sub>
+        </td>             
+        <td align="center">
+            <img src="Assets/IoT Platform and MQTT Broker/grafana.webp" width="36" height="36" alt="grafana"><br/>
+            <sub>Grafana</sub>
+        </td>
+        <td align="center">
+            <img src="Assets/Embedded Systems and IoT/mqttx.webp" width="36" height="36" alt="mqttx"><br/>
+            <sub>MQTTX</sub>
+        </td>
         <td align="center">
             <img src="Assets/Embedded Systems and IoT/kodular.webp" width="36" height="36" alt="kodular"><br/>
             <sub>Kodular</sub>
@@ -295,26 +309,18 @@
         <td align="center">
             <img src="Assets/Embedded Systems and IoT/mitappinventor.webp" width="36" height="36" alt="mit-app-inventor"><br/>
             <sub>MIT App<br/>Inventor</sub>
-        </td>
+        </td> 
         <td align="center">
-            <img src="Assets/Embedded Systems and IoT/mqttx.webp" width="36" height="36" alt="mqttx"><br/>
-            <sub>MQTTX</sub>
-        </td>
-        <td align="center">
-            <img src="Assets/Embedded Systems and IoT/platformio.webp" width="36" height="36" alt="platform-io"><br/>
-            <sub>PlatformIO</sub>
+            <img src="Assets/Others/vs.webp" width="36" height="36" alt="visual-studio"><br/>
+            <sub>Visual<br/>Studio</sub>
         </td>
     </tr>
 </table><br/>
 <table align="center">
     <tr>
-        <th colspan="11" align="center" bgcolor="#F5F0FF">Others</th>
+        <th colspan="5" align="center" bgcolor="#F5F0FF">Web Development Tools</th>
     </tr>
-    <tr>      
-        <td align="center">
-            <img src="Assets/Others/vs.webp" width="36" height="36" alt="visual-studio"><br/>
-            <sub>Visual<br/>Studio</sub>
-        </td>
+    <tr>     
         <td align="center">
             <img src="Assets/Others/vscode.webp" width="36" height="36" alt="vs-code"><br/>
             <sub>VS Code</sub>
@@ -332,9 +338,16 @@
             <sub>Ngrok</sub>
         </td>
         <td align="center">
-            <img src="Assets/Others/apache.webp" width="36" height="36" alt="apache"><br/>
-            <sub>Apache</sub>
+            <img src="Assets/Others/postman.webp" width="36" height="36" alt="postman"><br/>
+            <sub>Postman</sub>
         </td>
+    </tr>
+</table><br/>
+<table align="center">
+    <tr>
+        <th colspan="3" align="center" bgcolor="#F5F0FF">DevOps & Version Control</th>
+    </tr>
+    <tr>     
         <td align="center">
             <img src="Assets/Others/git.webp" width="36" height="36" alt="git"><br/>
             <sub>Git</sub>
@@ -346,32 +359,36 @@
         <td align="center">
             <img src="Assets/Others/docker.webp" width="36" height="36" alt="docker"><br/>
             <sub>Docker</sub>
-        </td>      
-        <td align="center">
-            <img src="Assets/Others/postman.webp" width="36" height="36" alt="postman"><br/>
-            <sub>Postman</sub>
         </td>
+    </tr>
+</table><br/>
+<table align="center">
+    <tr>
+        <th colspan="3" align="center" bgcolor="#F5F0FF">UI/UX & Graphic Design</th>
+    </tr>
+    <tr>
         <td align="center">
             <img src="Assets/Others/figma.webp" width="30" height="36" alt="figma"><br/>
             <sub>Figma</sub>
         </td>
-    </tr>
-    <tr>
         <td align="center">
-            <img src="Assets/Others/eagle.webp" width="36" height="36" alt="autodesk-eagle"><br/>
-            <sub>Autodesk<br/>Eagle</sub>
-        </td>
-        <td align="center">
-            <img src="Assets/Others/easyeda.webp" width="36" height="36" alt="easyeda"><br/>
-            <sub>EasyEDA</sub>
+            <img src="Assets/Others/canva.webp" width="36" height="36" alt="canva"><br/>
+            <sub>Canva</sub>
         </td>
         <td align="center">
             <img src="Assets/Others/photoshop.webp" width="55" height="55" alt="adobe-photoshop"><br/>
             <sub>Adobe<br/>Photoshop</sub>
-        </td>      
+        </td>
+    </tr>
+</table><br/>
+<table align="center">
+    <tr>
+        <th colspan="2" align="center" bgcolor="#F5F0FF">Others</th>
+    </tr>
+    <tr>
         <td align="center">
-            <img src="Assets/Others/canva.webp" width="36" height="36" alt="canva"><br/>
-            <sub>Canva</sub>
+            <img src="Assets/Others/apache.webp" width="36" height="36" alt="apache"><br/>
+            <sub>Apache</sub>
         </td>
         <td align="center">
             <img src="Assets/Others/msoffice.webp" width="36" height="36" alt="ms-office"><br/>
