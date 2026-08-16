@@ -16,7 +16,7 @@
 
 <h2></h2><h2 id="about" align="center">👤 About me</h2>
 <div align="center">
-    
+
 <img src="Assets/About/wave.gif" height="18px"> Hi everyone... &nbsp; You can call me <strong>``` Devan / Cakra ```</strong>, welcome to my Github.<br/><br/>I'm a <strong>``` Bachelor of Computer Science (S.Kom) ```</strong> from <strong>``` UPN Veteran Jatim ```</strong>.<br/><br/>I'm adaptable, like to learn new things, can work in a team or individually, & can solve problems.<br/><br/>My expertise: ``` Robotics & Embedded System ```, ``` Internet of Things ```, ``` Software Engineering ```.
 
 </div>
@@ -26,7 +26,7 @@
 <h2></h2><h2 id="basicknowledge" align="center">💻 Basic Knowledge Skills</h2>
 <div align="center">
 <p>Some of the Programming Languages, Development Tools, and other things I've used for work.</p><br/><br/>
-    
+
 <table align="center">
     <tr>
         <th colspan="11" align="center" bgcolor="#F5F0FF">Programming Language</th>
@@ -49,14 +49,6 @@
             <sub>VB 6</sub>
         </td>
         <td align="center">
-            <img src="Assets/Programming Language/javascript.webp" width="36" height="36" alt="js"><br/>
-            <sub>JavaScript</sub>
-        </td>
-        <td align="center">
-            <img src="Assets/Programming Language/typescript.webp" width="36" height="36" alt="typescript"><br/>
-            <sub>TypeScript</sub>
-        </td>
-        <td align="center">
             <img src="Assets/Programming Language/php.webp" width="36" height="36" alt="php"><br/>
             <sub>PHP</sub>
         </td>
@@ -73,6 +65,14 @@
             <sub>MicroPython</sub>
         </td>
         <td align="center">
+            <img src="Assets/Programming Language/javascript.webp" width="36" height="36" alt="js"><br/>
+            <sub>JavaScript</sub>
+        </td>
+        <td align="center">
+            <img src="Assets/Programming Language/typescript.webp" width="36" height="36" alt="typescript"><br/>
+            <sub>TypeScript</sub>
+        </td>
+        <td align="center">
             <img src="Assets/Programming Language/golang.webp" width="36" height="36" alt="golang"><br/>
             <sub>Go</sub>
         </td>
@@ -84,24 +84,24 @@
     </tr>
     <tr>
         <td align="center">
-            <img src="Assets/Frontend/tailwind.webp" width="36" height="36" alt="tailwind"><br/>
-            <sub>Tailwind CSS</sub>
-        </td>
-        <td align="center">
             <img src="Assets/Frontend/bootstrap.webp" width="36" height="36" alt="bootstrap"><br/>
             <sub>Bootstrap</sub>
+        </td>
+        <td align="center">
+            <img src="Assets/Frontend/tailwind.webp" width="36" height="36" alt="tailwind"><br/>
+            <sub>Tailwind</sub>
         </td>
         <td align="center">
             <img src="Assets/Frontend/vuejs.webp" width="36" height="36" alt="vue-js"><br/>
             <sub>Vue.js</sub>
         </td>
         <td align="center">
-            <img src="Assets/Frontend/nextjs.webp" width="36" height="36" alt="next-js"><br/>
-            <sub>Next.js</sub>
-        </td>
-        <td align="center">
             <img src="Assets/Frontend/reactjs.webp" width="36" height="36" alt="react-js"><br/>
             <sub>React.js</sub>
+        </td>
+        <td align="center">
+            <img src="Assets/Frontend/nextjs.webp" width="36" height="36" alt="next-js"><br/>
+            <sub>Next.js</sub>
         </td>
     </tr>
 </table><br/>
@@ -260,7 +260,7 @@
     <tr>
         <td align="center">
             <img src="Assets/IoT Platform and MQTT Broker/blynk.webp" width="36" height="36" alt="blynk-iot"><br/>
-            <sub>Blynk IoT</sub>
+            <sub>Blynk</sub>
         </td>
         <td align="center">
             <img src="Assets/IoT Platform and MQTT Broker/ubidots.webp" width="36" height="36" alt="ubidots"><br/>
@@ -310,12 +310,12 @@
     </tr>
     <tr>
         <td align="center">
-            <img src="Assets/Others/eagle.webp" width="36" height="36" alt="autodesk-eagle"><br/>
-            <sub>Autodesk<br/>Eagle</sub>
-        </td>
-        <td align="center">
             <img src="Assets/Others/easyeda.webp" width="36" height="36" alt="easyeda"><br/>
             <sub>EasyEDA</sub>
+        </td>
+        <td align="center">
+            <img src="Assets/Others/eagle.webp" width="36" height="36" alt="autodesk-eagle"><br/>
+            <sub>Eagle</sub>
         </td>
         <td align="center">
             <img src="Assets/Embedded Systems and IoT/platformio.webp" width="36" height="36" alt="platform-io"><br/>
@@ -349,9 +349,13 @@
 </table><br/>
 <table align="center">
     <tr>
-        <th colspan="3" align="center" bgcolor="#F5F0FF">DevOps & Version Control</th>
+        <th colspan="4" align="center" bgcolor="#F5F0FF">DevOps & Version Control</th>
     </tr>
     <tr>
+        <td align="center">
+            <img src="Assets/Others/docker.webp" width="36" height="36" alt="docker"><br/>
+            <sub>Docker</sub>
+        </td>
         <td align="center">
             <img src="Assets/Others/git.webp" width="36" height="36" alt="git"><br/>
             <sub>Git</sub>
@@ -361,14 +365,14 @@
             <sub>Github</sub>
         </td>
         <td align="center">
-            <img src="Assets/Others/docker.webp" width="36" height="36" alt="docker"><br/>
-            <sub>Docker</sub>
+            <img src="Assets/Others/gitlab.webp" width="36" height="36" alt="gitlab"><br/>
+            <sub>Gitlab</sub>
         </td>
     </tr>
 </table><br/>
 <table align="center">
     <tr>
-        <th colspan="3" align="center" bgcolor="#F5F0FF">UI/UX & Graphic Design</th>
+        <th colspan="4" align="center" bgcolor="#F5F0FF">Design & Productivity</th>
     </tr>
     <tr>
         <td align="center">
@@ -380,16 +384,9 @@
             <sub>Canva</sub>
         </td>
         <td align="center">
-            <img src="Assets/Others/photoshop.webp" width="55" height="55" alt="adobe-photoshop"><br/>
+            <img src="Assets/Others/photoshop.webp" width="36" height="36" alt="adobe-photoshop"><br/>
             <sub>Adobe<br/>Photoshop</sub>
         </td>
-    </tr>
-</table><br/>
-<table align="center">
-    <tr>
-        <th colspan="2" align="center" bgcolor="#F5F0FF">Others</th>
-    </tr>
-    <tr>
         <td align="center">
             <img src="Assets/Others/msoffice.webp" width="36" height="36" alt="ms-office"><br/>
             <sub>Microsoft<br/>Office</sub>
