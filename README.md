@@ -111,19 +111,19 @@
     </tr>
     <tr>
         <td align="center">
-            <img src="Assets/Backend and Database/codeigniter.webp" width="30" height="36" alt="codeigniter"><br/>
+            <img src="Assets/Backend, Runtime, Server and Database/codeigniter.webp" width="30" height="36" alt="codeigniter"><br/>
             <sub>Codeigniter</sub>
         </td>
         <td align="center">
-            <img src="Assets/Backend and Database/laravel.webp" width="36" height="36" alt="laravel"><br/>
+            <img src="Assets/Backend, Runtime, Server and Database/laravel.webp" width="36" height="36" alt="laravel"><br/>
             <sub>Laravel</sub>
         </td>
         <td align="center">
-            <img src="Assets/Backend and Database/express.webp" width="36" height="36" alt="express"><br/>
+            <img src="Assets/Backend, Runtime, Server and Database/express.webp" width="36" height="36" alt="express"><br/>
             <sub>Express.js</sub>
         </td>
         <td align="center">
-            <img src="Assets/Backend and Database/nodejs.webp" width="36" height="36" alt="nodejs"><br/>
+            <img src="Assets/Backend, Runtime, Server and Database/nodejs.webp" width="36" height="36" alt="nodejs"><br/>
             <sub>Node.js</sub>
         </td>
         <td align="center">
@@ -131,27 +131,27 @@
             <sub>Apache</sub>
         </td>
         <td align="center">
-            <img src="Assets/Backend and Database/mysql.webp" width="36" height="36" alt="mysql"><br/>
+            <img src="Assets/Backend, Runtime, Server and Database/mysql.webp" width="36" height="36" alt="mysql"><br/>
             <sub>MySQL</sub>
         </td>
         <td align="center">
-            <img src="Assets/Backend and Database/mariadb.webp" width="36" height="36" alt="mariadb"><br/>
+            <img src="Assets/Backend, Runtime, Server and Database/mariadb.webp" width="36" height="36" alt="mariadb"><br/>
             <sub>MariaDB</sub>
         </td>
         <td align="center">
-            <img src="Assets/Backend and Database/postgresql.webp" width="36" height="36" alt="postgresql"><br/>
+            <img src="Assets/Backend, Runtime, Server and Database/postgresql.webp" width="36" height="36" alt="postgresql"><br/>
             <sub>PostgreSQL</sub>
         </td>
         <td align="center">
-            <img src="Assets/Backend and Database/mongodb.webp" width="36" height="36" alt="mongodb"><br/>
+            <img src="Assets/Backend, Runtime, Server and Database/mongodb.webp" width="36" height="36" alt="mongodb"><br/>
             <sub>MongoDB</sub>
         </td>
         <td align="center">
-            <img src="Assets/Backend and Database/firebase.webp" width="36" height="36" alt="firebase"><br/>
+            <img src="Assets/Backend, Runtime, Server and Database/firebase.webp" width="36" height="36" alt="firebase"><br/>
             <sub>Firebase</sub>
         </td>
         <td align="center">
-            <img src="Assets/Backend and Database/influxdb.webp" width="36" height="36" alt="influxdb"><br/>
+            <img src="Assets/Backend, Runtime, Server and Database/influxdb.webp" width="36" height="36" alt="influxdb"><br/>
             <sub>InfluxDB</sub>
         </td>
     </tr>
@@ -162,27 +162,27 @@
     </tr>
     <tr>
         <td align="center">
-            <img src="Assets/Backend and Database/composer.webp" width="36" height="36" alt="composer"><br/>
+            <img src="Assets/Web Development Tools/composer.webp" width="36" height="36" alt="composer"><br/>
             <sub>Composer</sub>
         </td>
         <td align="center">
-            <img src="Assets/Others/vscode.webp" width="36" height="36" alt="vs-code"><br/>
+            <img src="Assets/Web Development Tools/vscode.webp" width="36" height="36" alt="vs-code"><br/>
             <sub>VS Code</sub>
         </td>
         <td align="center">
-            <img src="Assets/Others/xampp.webp" width="36" height="36" alt="xampp"><br/>
+            <img src="Assets/Web Development Tools/xampp.webp" width="36" height="36" alt="xampp"><br/>
             <sub>XAMPP</sub>
         </td>
         <td align="center">
-            <img src="Assets/Others/laragon.webp" width="36" height="36" alt="laragon"><br/>
+            <img src="Assets/Web Development Tools/laragon.webp" width="36" height="36" alt="laragon"><br/>
             <sub>Laragon</sub>
         </td>
         <td align="center">
-            <img src="Assets/Others/ngrok.webp" width="36" height="36" alt="ngrok"><br/>
+            <img src="Assets/Web Development Tools/ngrok.webp" width="36" height="36" alt="ngrok"><br/>
             <sub>Ngrok</sub>
         </td>
         <td align="center">
-            <img src="Assets/Others/postman.webp" width="36" height="36" alt="postman"><br/>
+            <img src="Assets/Web Development Tools/postman.webp" width="36" height="36" alt="postman"><br/>
             <sub>Postman</sub>
         </td>
     </tr>
@@ -310,39 +310,39 @@
     </tr>
     <tr>
         <td align="center">
-            <img src="Assets/Others/easyeda.webp" width="36" height="36" alt="easyeda"><br/>
+            <img src="Assets/PCB Design, IoT Development and Integration Tools/easyeda.webp" width="36" height="36" alt="easyeda"><br/>
             <sub>EasyEDA</sub>
         </td>
         <td align="center">
-            <img src="Assets/Others/eagle.webp" width="36" height="36" alt="autodesk-eagle"><br/>
+            <img src="Assets/PCB Design, IoT Development and Integration Tools/eagle.webp" width="36" height="36" alt="autodesk-eagle"><br/>
             <sub>Eagle</sub>
         </td>
         <td align="center">
-            <img src="Assets/Embedded Systems and IoT/platformio.webp" width="36" height="36" alt="platform-io"><br/>
+            <img src="Assets/PCB Design, IoT Development and Integration Tools/platformio.webp" width="36" height="36" alt="platform-io"><br/>
             <sub>PlatformIO</sub>
         </td>
         <td align="center">
-            <img src="Assets/IoT Platform and MQTT Broker/nodered.webp" width="36" height="36" alt="node-red"><br/>
+            <img src="Assets/PCB Design, IoT Development and Integration Tools/nodered.webp" width="36" height="36" alt="node-red"><br/>
             <sub>Node-RED</sub>
         </td>
         <td align="center">
-            <img src="Assets/IoT Platform and MQTT Broker/grafana.webp" width="36" height="36" alt="grafana"><br/>
+            <img src="Assets/PCB Design, IoT Development and Integration Tools/grafana.webp" width="36" height="36" alt="grafana"><br/>
             <sub>Grafana</sub>
         </td>
         <td align="center">
-            <img src="Assets/Embedded Systems and IoT/mqttx.webp" width="36" height="36" alt="mqttx"><br/>
+            <img src="Assets/PCB Design, IoT Development and Integration Tools/mqttx.webp" width="36" height="36" alt="mqttx"><br/>
             <sub>MQTTX</sub>
         </td>
         <td align="center">
-            <img src="Assets/Embedded Systems and IoT/kodular.webp" width="36" height="36" alt="kodular"><br/>
+            <img src="Assets/PCB Design, IoT Development and Integration Tools/kodular.webp" width="36" height="36" alt="kodular"><br/>
             <sub>Kodular</sub>
         </td>
         <td align="center">
-            <img src="Assets/Embedded Systems and IoT/mitappinventor.webp" width="36" height="36" alt="mit-app-inventor"><br/>
+            <img src="Assets/PCB Design, IoT Development and Integration Tools/mitappinventor.webp" width="36" height="36" alt="mit-app-inventor"><br/>
             <sub>MIT App<br/>Inventor</sub>
         </td>
         <td align="center">
-            <img src="Assets/Others/vs.webp" width="36" height="36" alt="visual-studio"><br/>
+            <img src="Assets/PCB Design, IoT Development and Integration Tools/vs.webp" width="36" height="36" alt="visual-studio"><br/>
             <sub>Visual<br/>Studio</sub>
         </td>
     </tr>
@@ -353,19 +353,19 @@
     </tr>
     <tr>
         <td align="center">
-            <img src="Assets/Others/docker.webp" width="36" height="36" alt="docker"><br/>
+            <img src="Assets/DevOps and Version Control/docker.webp" width="36" height="36" alt="docker"><br/>
             <sub>Docker</sub>
         </td>
         <td align="center">
-            <img src="Assets/Others/git.webp" width="36" height="36" alt="git"><br/>
+            <img src="Assets/DevOps and Version Control/git.webp" width="36" height="36" alt="git"><br/>
             <sub>Git</sub>
         </td>
         <td align="center">
-            <img src="Assets/Others/github.webp" width="36" height="36" alt="github"><br/>
+            <img src="Assets/DevOps and Version Control/github.webp" width="36" height="36" alt="github"><br/>
             <sub>Github</sub>
         </td>
         <td align="center">
-            <img src="Assets/Others/gitlab.webp" width="36" height="36" alt="gitlab"><br/>
+            <img src="Assets/DevOps and Version Control/gitlab.webp" width="36" height="36" alt="gitlab"><br/>
             <sub>Gitlab</sub>
         </td>
     </tr>
@@ -376,19 +376,19 @@
     </tr>
     <tr>
         <td align="center">
-            <img src="Assets/Others/figma.webp" width="30" height="36" alt="figma"><br/>
+            <img src="Assets/Design and Productivity/figma.webp" width="30" height="36" alt="figma"><br/>
             <sub>Figma</sub>
         </td>
         <td align="center">
-            <img src="Assets/Others/canva.webp" width="36" height="36" alt="canva"><br/>
+            <img src="Assets/Design and Productivity/canva.webp" width="36" height="36" alt="canva"><br/>
             <sub>Canva</sub>
         </td>
         <td align="center">
-            <img src="Assets/Others/photoshop.webp" width="36" height="36" alt="adobe-photoshop"><br/>
+            <img src="Assets/Design and Productivity/photoshop.webp" width="36" height="36" alt="adobe-photoshop"><br/>
             <sub>Adobe<br/>Photoshop</sub>
         </td>
         <td align="center">
-            <img src="Assets/Others/msoffice.webp" width="36" height="36" alt="ms-office"><br/>
+            <img src="Assets/Design and Productivity/msoffice.webp" width="36" height="36" alt="ms-office"><br/>
             <sub>Microsoft<br/>Office</sub>
         </td>
     </tr>
