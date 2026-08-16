@@ -127,7 +127,7 @@
             <sub>Node.js</sub>
         </td>
         <td align="center">
-            <img src="Assets/Others/apache.webp" width="36" height="36" alt="apache"><br/>
+            <img src="Assets/Backend, Runtime, Server and Database/apache.webp" width="36" height="36" alt="apache"><br/>
             <sub>Apache</sub>
         </td>
         <td align="center">
