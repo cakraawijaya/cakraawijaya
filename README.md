@@ -474,6 +474,26 @@ For more information, <a href="https://drive.google.com/drive/folders/1MW0OHl7oE
 
 <br/><br/>
 
+<h2></h2><h2 align="left">🏗️ Philosophy</h2>
+
+<div align="left"><br/>
+
+<span>
+    
+> **“Good IoT is more than connected devices.”**
+    
+</span>
+
+<br/><span>Hardware should be dependable.</span><br/>
+
+<span>Software should be maintainable.</span><br/>
+
+<span>IoT should solve problems — not just connect devices.</span>
+
+</div>
+
+<br/><br/>
+
 <h2></h2><h2 align="left">👀 Visitors</h2>
 
 <div align="left">
