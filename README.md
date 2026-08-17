@@ -1,12 +1,28 @@
 <img width="1920" height="200" src="Assets/Banner/Welcome.gif" alt="Banner IoT Engineer by Devan C.M.W">
 
-<h2></h2><h2 id="about" align="center">🧑‍💻 About me</h2>
+<br/>
+
+<h1 align="center">👋 Devan Cakra Mudra Wijaya</h1>
+
+<div align="center">
+    
+<p><em>Hey there! Thanks for stopping by. Have a look around and stay as long as you like.</em></p>
+
+<span>My expertise: ``` Robotics & Embedded System ```, ``` Internet of Things ```, ``` Software Engineering ```.</span>
+    
+</div>
+
+
+<br/><br/>
+
+<h2></h2><h2 align="left">🧑‍💻 About me</h2>
 
 <br/>
 
-<div align="center">
+<div align="justify">
 
-<img src="Assets/About/wave.gif" height="18px"> Hi everyone... &nbsp; You can call me <strong>``` Devan / Cakra ```</strong>, welcome to my Github.<br/><br/>I'm a <strong>``` Bachelor of Computer Science (S.Kom) ```</strong> from <strong>``` UPN Veteran Jatim ```</strong>.<br/><br/>I'm adaptable, like to learn new things, can work in a team or individually, & can solve problems.<br/><br/>My expertise: ``` Robotics & Embedded System ```, ``` Internet of Things ```, ``` Software Engineering ```.
+A Software Developer with a Bachelor’s degree in Informatics who focused on web development and IoT integration. Experienced in building systems such as clinic service, warehouse and workforce management, as well as real-time remote device monitoring and control platforms. Was accustomed to using both native web technologies and frameworks, and was able to collaborate via GitHub. Was oriented toward efficient solutions, and continuously developed in modern technology to deliver value for users and businesses.<br/><br/>
+Willing to relocate: Anywhere.
 
 </div>
 
@@ -509,7 +525,7 @@ For more information, <a href="https://drive.google.com/drive/folders/1MW0OHl7oE
 <h2></h2><h2 align="left">👀 Visitors</h2>
 
 <div align="left">
-    <a align="center" href="https://github.com/cakraawijaya" target="_blank"><img width="135" src="https://views.igorkowalczyk.dev/api/badge/cakraawijaya?label=Visitors&labelColor=6f00ff&color=8b008b&format=long"></a>
+    <a align="center" href="https://github.com/cakraawijaya" target="_blank"><img width="120" src="https://views.igorkowalczyk.dev/api/badge/cakraawijaya?label=Visitors&labelColor=6f00ff&color=8b008b&format=long"></a>
 </div>
 
 <br/><br/>
