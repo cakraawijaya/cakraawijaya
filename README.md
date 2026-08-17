@@ -1,20 +1,17 @@
 <div align="center">
-    <a align="center" href="https://github.com/cakraawijaya" target="_blank"><img src="https://views.igorkowalczyk.dev/api/badge/cakraawijaya?logo=gmail&label=Visitors&labelColor=6f00ff&color=8b008b&style=flat&format=short"></a>
-    <a align="center" href="https://scholar.google.co.id/citations?user=g3gskSsAAAAJ&hl=id/" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/G-%2DScholar-lightgrey?logo=google-scholar&style=flat-square&logoColor=white&color=004ad0"></a>
-    <a align="center" href="mailto:devancakra6@gmail.com" target="_blank"><img alt="Gmail" src="http://img.shields.io/badge/G-%2DMail-light?logo=gmail&style=flat-square&logoColor=white&color=a10c0c"></a><br/>
-    <a align="center" href="https://www.linkedin.com/in/cakraawijaya" target="_blank"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&style=flat-square&logoColor=white&color=3056c7"></a>
-    <a align="center" href="https://www.medium.com/@cakraawijaya" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-light?logo=medium&style=flat-square&logoColor=white&color=2d343b"></a>
-    <a align="center" href="https://www.youtube.com/@cakraawijaya" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-light?logo=youtube&style=flat-square&logoColor=white&color=c00000"></a>
-    <a align="center" href="https://www.instagram.com/cakraa.wijaya" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-light?logo=instagram&style=flat-square&logoColor=white&color=bf0069"></a>
-    <a align="center" href="https://www.tiktok.com/@cakraawijaya" target="_blank"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-light?logo=tiktok&style=flat-square&logoColor=white&color=2d343b"></a>
-    <a align="center" href="https://cakraawijaya.vercel.app/" target="_blank"><img alt="Homepage" src="https://img.shields.io/badge/Homepage-light?logo=homepage&style=flat-square&logoColor=white&color=1C3665"></a>
+    <a align="center" href="https://github.com/cakraawijaya" target="_blank"><img src="https://views.igorkowalczyk.dev/api/badge/cakraawijaya?label=%F0%9F%91%81%20Visitors&labelColor=6f00ff&color=8b008b&style=flat&format=short"></a>
 </div>
 
 <br/>
 
-<img width="1920" height="170" src="Assets/Banner/Welcome.gif" alt="Banner IoT Engineer by Devan C.M.W">
+<img width="1920" height="190" src="Assets/Banner/Welcome.gif" alt="Banner IoT Engineer by Devan C.M.W">
+
+<br/><br/>
 
 <h2></h2><h2 id="about" align="center">👤 About me</h2>
+
+<br/>
+
 <div align="center">
 
 <img src="Assets/About/wave.gif" height="18px"> Hi everyone... &nbsp; You can call me <strong>``` Devan / Cakra ```</strong>, welcome to my Github.<br/><br/>I'm a <strong>``` Bachelor of Computer Science (S.Kom) ```</strong> from <strong>``` UPN Veteran Jatim ```</strong>.<br/><br/>I'm adaptable, like to learn new things, can work in a team or individually, & can solve problems.<br/><br/>My expertise: ``` Robotics & Embedded System ```, ``` Internet of Things ```, ``` Software Engineering ```.
@@ -202,11 +199,11 @@
         </td>
         <td align="center" width="96">
             <img src="Assets/Development Board/espressif.webp" width="36" height="36" alt="espressif"><br/>
-            <sub>ESP32 / ESP8266</sub>
+            <sub>ESP32 /<br/>ESP8266</sub>
         </td>
         <td align="center" width="96">
             <img src="Assets/Development Board/stm.webp" width="36" height="36" alt="stm"><br/>
-            <sub>STM8 / STM32</sub>
+            <sub>STM8 /<br/>STM32</sub>
         </td>
         <td align="center" width="96">
             <img src="Assets/Development Board/raspberry.webp" width="36" height="36" alt="raspberry"><br/>
@@ -406,9 +403,10 @@
 
 <br/><br/>
 
-<h2></h2><h2 align="left" style="text-decoration: none;">♻️ My Community</h2>
+<h2></h2><h2 align="left">♻️ My Community</h2>
 
-<br/>
+<span>These communities have been an important part of my learning journey. Through them, I've gained knowledge, shared experiences, discovered new perspectives, and learned from people with different backgrounds. What started as curiosity and a willingness to learn has gradually helped me grow from knowing very little to being able to build, create, and contribute.</span>
+<br/><br/>
 
 <div align="left">
   <a align="center" href="https://www.instagram.com/robotics.upnjatim/" target="_blank">
@@ -448,4 +446,24 @@
   <a align="center" href="https://www.ics-cademy.com/" target="_blank">
     <img width="100" height="50" alt="ICS Community" src="Assets/Community/logo_ics.webp">
   </a>
-</div><br/>
+</div>
+
+<br/><br/>
+
+<h2></h2><h2 align="left">📫 Let's Connect</h2>
+
+<span>I'm always happy to connect, exchange ideas, and have meaningful conversations. Whether it's a discussion, a collaboration, or a new opportunity, feel free to reach out. I'd love to hear from you and see what we can create together.</span>
+<br/><br/>
+
+<div align="left">
+    <a align="center" href="https://scholar.google.co.id/citations?user=g3gskSsAAAAJ&hl=id/" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/G-%2DScholar-lightgrey?logo=google-scholar&style=flat-square&logoColor=white&color=004ad0"></a>
+    <a align="center" href="mailto:devancakra6@gmail.com" target="_blank"><img alt="Gmail" src="http://img.shields.io/badge/G-%2DMail-light?logo=gmail&style=flat-square&logoColor=white&color=a10c0c"></a>
+    <a align="center" href="https://www.linkedin.com/in/cakraawijaya" target="_blank"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&style=flat-square&logoColor=white&color=3056c7"></a>
+    <a align="center" href="https://www.medium.com/@cakraawijaya" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-light?logo=medium&style=flat-square&logoColor=white&color=2d343b"></a>
+    <a align="center" href="https://www.youtube.com/@cakraawijaya" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-light?logo=youtube&style=flat-square&logoColor=white&color=c00000"></a>
+    <a align="center" href="https://www.instagram.com/cakraa.wijaya" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-light?logo=instagram&style=flat-square&logoColor=white&color=bf0069"></a>
+    <a align="center" href="https://www.tiktok.com/@cakraawijaya" target="_blank"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-light?logo=tiktok&style=flat-square&logoColor=white&color=2d343b"></a>
+    <a align="center" href="https://cakraawijaya.vercel.app/" target="_blank"><img alt="Homepage" src="https://img.shields.io/badge/Homepage-light?logo=homepage&style=flat-square&logoColor=white&color=1C3665"></a>
+</div>
+
+<br/>
