@@ -12,8 +12,20 @@
 
 <br/><br/>
 
-<h2></h2><h2 id="basicknowledge" align="left">🛠️ Tech Stack</h2>
-<span>Some of the Programming Languages, Development Tools, and other things I've used for work.</span>
+<h2></h2><h2 align="left">📖 Education</h2>
+<p><strong>Bachelor of Computer Science, Informatics</strong></p>
+<span align="justify">Universitas Pembangunan Nasional "Veteran" Jawa Timur &nbsp;&nbsp;|&nbsp;&nbsp; Surabaya, Indonesia &nbsp;&nbsp;|&nbsp;&nbsp; 2018 - 2022</span><br/><br/>
+<ul>
+    <li><span><strong>GPA:</strong> &nbsp;3.79 (CUM LAUDE) 🏆</span></li><br/>
+    <li><span><strong>Specialization:</strong> &nbsp;Web Development & Internet of Things (IoT).</span></li><br/>
+    <li><span><strong>Undergraduate Thesis:</strong> &nbsp;Kendali dan Monitoring pH Air Akuaponik Berbasis IoT Dengan Metode Fuzzy Type-2.</span></li><br/>
+    <li><span><strong>Undergraduate Program:</strong> &nbsp;Research Assistant for ±2 years in the PPS-TI and SCR Laboratories.</span></li>
+</ul>
+
+<br/><br/>
+
+<h2></h2><h2 align="left">🛠️ Tech Stack</h2>
+<span align="justify">Some of the Programming Languages, Development Tools, and other things I've used for work.</span>
 <br/><br/>
 
 <table>
@@ -425,7 +437,7 @@ For more information, <a href="https://drive.google.com/drive/folders/1MW0OHl7oE
 
 <h2></h2><h2 align="left">🌐 My Community</h2>
 
-<span>These communities have been an important part of my learning journey. Through them, I've gained knowledge, shared experiences, discovered new perspectives, and learned from people with different backgrounds.</span>
+<span align="justify">These communities have been an important part of my learning journey. Through them, I've gained knowledge, shared experiences, discovered new perspectives, and learned from people with different backgrounds.</span>
 <br/><br/>
 
 <div align="left">
@@ -504,7 +516,7 @@ For more information, <a href="https://drive.google.com/drive/folders/1MW0OHl7oE
 
 <h2></h2><h2 align="left">📫 Let's Connect</h2>
 
-<span>I'm always happy to connect, exchange ideas, and have meaningful conversations. Whether it's a discussion, a collaboration, or a new opportunity, feel free to reach out. I'd love to hear from you and see what we can create together.</span>
+<span align="justify">I'm always happy to connect, exchange ideas, and have meaningful conversations. Whether it's a discussion, a collaboration, or a new opportunity, feel free to reach out. I'd love to hear from you and see what we can create together.</span>
 <br/><br/>
 
 <div align="left">
