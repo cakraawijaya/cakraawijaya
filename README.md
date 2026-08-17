@@ -403,6 +403,25 @@
 
 <br/><br/>
 
+<h2></h2><h2 align="left">🏅 Certifications & Awards</h2>
+
+<ul>
+    <li><span><strong>EW Project Challenge (2026)</strong>&nbsp; — &nbsp;ElectronicWings x MOUSER</li></span>
+    <li><span><strong>Perancangan dan Perekayasaan Industrial Internet of Things (2026)</strong>&nbsp; — &nbsp;Edutic.id x BNSP</li></span>
+    <li><span><strong>Spec-Driven Development dengan Kiro (2026)</strong>&nbsp; — &nbsp;Dicoding Indonesia</li></span>
+    <li><span><strong>AI Productivity and AI API Integration for Developers (2026)</strong>&nbsp; — &nbsp;Hacktiv8 Indonesia</li></span>
+    <li><span><strong>Node-RED Fundamentals & Node-RED Advanced (2026)</strong>&nbsp; — &nbsp;Node-RED Academy</li></span>
+    <li><span><strong>Data Science for Internet of Things (2026)</strong>&nbsp; — &nbsp;BPVP Sidoarjo</li></span>
+    <li><span><strong>Programming for the Internet of Things Project (2023)</strong>&nbsp; — &nbsp;Coursera x University of California, Irvine</li></span>
+    <li><span><strong>Intensive Bootcamp "Menjadi IoT Engineer" Batch 10 (2023)</strong>&nbsp; — &nbsp;Edspert.id</li></span>
+    <li><span><strong>Internet of Things Batch 4 (2022)</strong>&nbsp; — &nbsp;DTS PROA KOMINFO</li></span>
+    <li><span><strong>Certificate of Competence: Web Junior Programmer (2022)</strong>&nbsp; — &nbsp;BNSP</li></span>
+</ul>
+&nbsp;&nbsp;
+For more information, <a href="https://drive.google.com/drive/folders/1MW0OHl7oECj3zrzVDT_SivkK3WGgUE9n"><strong>Click Here</strong></a>
+
+<br/><br/>
+
 <h2></h2><h2 align="left">🌐 My Community</h2>
 
 <span>These communities have been an important part of my learning journey. Through them, I've gained knowledge, shared experiences, discovered new perspectives, and learned from people with different backgrounds.</span>
