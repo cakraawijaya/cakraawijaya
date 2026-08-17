@@ -23,8 +23,9 @@
 
 <br/><br/>
 
-<h2></h2><h2 id="basicknowledge" align="left">💻 Basic Knowledge Skills</h2>
-<p>Some of the Programming Languages, Development Tools, and other things I've used for work.</p><br/>
+<h2></h2><h2 id="basicknowledge" align="left">💻 Tech Stack</h2>
+<span>Some of the Programming Languages, Development Tools, and other things I've used for work.</span>
+<br/><br/>
 
 <table>
     <tr>
@@ -409,7 +410,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
   <a align="center" href="https://www.instagram.com/robotics.upnjatim/" target="_blank">
     <img width="100" height="50" alt="Robotics UPN Community" src="Assets/Community/logo_robotics_upn.webp">
   </a>
@@ -425,14 +426,13 @@
   <a align="center" href="https://nusabot.id/" target="_blank">
     <img width="100" height="50" alt="Nusabot Community" src="Assets/Community/logo_nusabot.webp">
   </a>
-  <br/>
   <a align="center" href="https://t.me/ardumeka" target="_blank">
     <img width="100" height="50" alt="Ardumeka Community" src="Assets/Community/logo_ardumeka.webp">
   </a>
+  <br/>
   <a align="center" href="https://t.me/kelasrobotgrup" target="_blank">
     <img width="100" height="50" alt="Kelas Robot Community" src="Assets/Community/logo_kelas_robot.webp">
   </a>
-  <br/>
   <a align="center" href="https://indobot.co.id/" target="_blank">
     <img width="100" height="50" alt="Indobot Community" src="Assets/Community/logo_indobot.webp">
   </a>
