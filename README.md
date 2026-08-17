@@ -13,11 +13,9 @@
 </div>
 
 
-<br/><br/>
+<br/>
 
 <h2></h2><h2 align="left">🧑‍💻 About me</h2>
-
-<br/>
 
 <div align="justify">
 
@@ -26,7 +24,7 @@ Willing to relocate: Anywhere.
 
 </div>
 
-<br/><br/>
+<br/>
 
 <h2></h2><h2 align="left">📖 Education</h2>
 <p><strong>Bachelor of Computer Science, Informatics</strong></p>
@@ -38,7 +36,7 @@ Willing to relocate: Anywhere.
     <li><span><strong>Undergraduate Program:</strong> &nbsp;Research Assistant for ±2 years in the PPS-TI and SCR Laboratories.</span></li>
 </ul>
 
-<br/><br/>
+<br/>
 
 <h2></h2><h2 align="left">🛠️ Tech Stack</h2>
 <span align="justify">Some of the Programming Languages, Development Tools, and other things I've used for work.</span>
@@ -429,7 +427,7 @@ Willing to relocate: Anywhere.
     </tr>
 </table>
 
-<br/><br/>
+<br/>
 
 <h2></h2><h2 align="left">🏅 Certifications & Awards</h2>
 
@@ -448,7 +446,6 @@ Willing to relocate: Anywhere.
 </ul>
 &nbsp;&nbsp;
 For more information, <a href="https://drive.google.com/drive/folders/1MW0OHl7oECj3zrzVDT_SivkK3WGgUE9n"><strong>Click Here</strong></a>
-
 <br/><br/>
 
 <h2></h2><h2 align="left">🌐 My Community</h2>
@@ -500,7 +497,7 @@ For more information, <a href="https://drive.google.com/drive/folders/1MW0OHl7oE
   </a>
 </div>
 
-<br/><br/>
+<br/>
 
 <h2></h2><h2 align="left">🏗️ Philosophy</h2>
 
@@ -520,7 +517,7 @@ For more information, <a href="https://drive.google.com/drive/folders/1MW0OHl7oE
 
 </div>
 
-<br/><br/>
+<br/>
 
 <h2></h2><h2 align="left">👀 Visitors</h2>
 
@@ -528,7 +525,7 @@ For more information, <a href="https://drive.google.com/drive/folders/1MW0OHl7oE
     <a align="center" href="https://github.com/cakraawijaya" target="_blank"><img width="120" src="https://views.igorkowalczyk.dev/api/badge/cakraawijaya?label=Visitors&labelColor=6f00ff&color=8b008b&format=long"></a>
 </div>
 
-<br/><br/>
+<br/>
 
 <h2></h2><h2 align="left">📫 Let's Connect</h2>
 
@@ -545,5 +542,4 @@ For more information, <a href="https://drive.google.com/drive/folders/1MW0OHl7oE
     <a align="center" href="https://www.instagram.com/cakraa.wijaya" target="_blank"><img width="112.5" alt="Instagram" src="https://img.shields.io/badge/Instagram-light?logo=instagram&style=flat-square&logoColor=white&color=bf0069"></a>
 </div>
 
-
-<br/><br/>
+<br/>
