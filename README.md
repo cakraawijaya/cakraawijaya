@@ -505,7 +505,7 @@ For more information, <a href="https://drive.google.com/drive/folders/1MW0OHl7oE
 
 <span>
     
-> **“Good IoT is more than connected devices.”**
+> **“Build technology that works and solves real problems.”**
     
 </span>
 
@@ -513,7 +513,9 @@ For more information, <a href="https://drive.google.com/drive/folders/1MW0OHl7oE
 
 <span>Software should be maintainable.</span><br/>
 
-<span>IoT should solve problems — not just connect devices.</span>
+<span>Interfaces should be intuitive.</span><br/>
+
+<span>Technology should serve people — not just connect devices.</span>
 
 </div>
 
