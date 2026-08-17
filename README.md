@@ -344,6 +344,14 @@
             <img src="Assets/PCB Design, IoT Development and Integration Tools/vs.webp" width="36" height="36" alt="visual-studio"><br/>
             <sub>Visual<br/>Studio</sub>
         </td>
+        <td align="center" width="96">
+            <img src="Assets/PCB Design, IoT Development and Integration Tools/fonnte.webp" width="36" height="36" alt="fonnte"><br/>
+            <sub>Fonnte</sub>
+        </td>
+        <td align="center" width="96">
+            <img src="Assets/PCB Design, IoT Development and Integration Tools/telegrambot.webp" width="36" height="36" alt="telegram-bot"><br/>
+            <sub>Telegram Bot</sub>
+        </td>
     </tr>
 </table>
 <table>
@@ -416,10 +424,10 @@
   <a align="center" href="https://nusabot.id/" target="_blank">
     <img width="100" height="50" alt="Nusabot Community" src="Assets/Community/logo_nusabot.webp">
   </a>
+  <br/>
   <a align="center" href="https://t.me/ardumeka" target="_blank">
     <img width="100" height="50" alt="Ardumeka Community" src="Assets/Community/logo_ardumeka.webp">
   </a>
-  <br/>
   <a align="center" href="https://t.me/kelasrobotgrup" target="_blank">
     <img width="100" height="50" alt="Kelas Robot Community" src="Assets/Community/logo_kelas_robot.webp">
   </a>
@@ -432,11 +440,15 @@
   <a align="center" href="https://kelasiot.id/" target="_blank">
     <img width="100" height="50" alt="ICS Community" src="Assets/Community/logo_kelas_iot.webp">
   </a>
+  <br/>
   <a align="center" href="https://edutic.id/" target="_blank">
     <img width="100" height="50" alt="Edutic Community" src="Assets/Community/logo_edutic.webp">
   </a>
   <a align="center" href="https://www.ics-cademy.com/" target="_blank">
     <img width="100" height="50" alt="ICS Community" src="Assets/Community/logo_ics.webp">
+  </a>
+  <a align="center" href="https://learn.wpucourse.id/" target="_blank">
+    <img width="100" height="50" alt="WPU Community" src="Assets/Community/logo_wpu_course.webp">
   </a>
 </div>
 
