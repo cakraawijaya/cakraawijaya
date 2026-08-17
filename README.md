@@ -462,8 +462,7 @@
     <a align="center" href="https://www.youtube.com/@cakraawijaya" target="_blank"><img width="94.14" alt="Youtube" src="https://img.shields.io/badge/Youtube-light?logo=youtube&style=flat-square&logoColor=white&color=c00000"></a>&nbsp;&nbsp;
     <a align="center" href="https://cakraawijaya.vercel.app/" target="_blank"><img width="115" alt="Homepage" src="https://img.shields.io/badge/Homepage-light?logo=homepage&style=flat-square&logoColor=white&color=1C3665"></a>&nbsp;&nbsp;
     <a align="center" href="https://www.tiktok.com/@cakraawijaya" target="_blank"><img width="86" alt="TikTok" src="https://img.shields.io/badge/TikTok-light?logo=tiktok&style=flat-square&logoColor=white&color=2d343b"></a>&nbsp;&nbsp;
-    <a align="center" href="https://www.instagram.com/cakraa.wijaya" target="_blank"><img width="112.5" alt="Instagram" src="https://img.shields.io/badge/Instagram-light?logo=instagram&style=flat-square&logoColor=white&color=bf0069"></a>&nbsp;&nbsp;
-    <a align="center" href="https://www.medium.com/@cakraawijaya" target="_blank"><img width="94.5" alt="Medium" src="https://img.shields.io/badge/Medium-light?logo=medium&style=flat-square&logoColor=white&color=2d343b"></a>
+    <a align="center" href="https://www.instagram.com/cakraa.wijaya" target="_blank"><img width="112.5" alt="Instagram" src="https://img.shields.io/badge/Instagram-light?logo=instagram&style=flat-square&logoColor=white&color=bf0069"></a>
 </div>
 
 
