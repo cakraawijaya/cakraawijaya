@@ -416,6 +416,7 @@
     <li><span><strong>Intensive Bootcamp "Menjadi IoT Engineer" Batch 10 (2023)</strong>&nbsp; — &nbsp;Edspert.id</li></span>
     <li><span><strong>Internet of Things Batch 4 (2022)</strong>&nbsp; — &nbsp;DTS PROA KOMINFO RI</li></span>
     <li><span><strong>Certificate of Competence: Web Junior Programmer (2022)</strong>&nbsp; — &nbsp;BNSP</li></span>
+    <li><span><strong>Certificate of Appreciation: CUM LAUDE (2022)</strong>&nbsp; — &nbsp;UPN "Veteran" Jatim</li></span>
 </ul>
 &nbsp;&nbsp;
 For more information, <a href="https://drive.google.com/drive/folders/1MW0OHl7oECj3zrzVDT_SivkK3WGgUE9n"><strong>Click Here</strong></a>
