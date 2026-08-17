@@ -23,381 +23,389 @@
 
 <br/><br/>
 
-<h2></h2><h2 id="basicknowledge" align="center">💻 Basic Knowledge Skills</h2>
-<p>Some of the Programming Languages, Development Tools, and other things I've used for work.</p><br/><br/>
+<h2></h2><h2 id="basicknowledge" align="left">💻 Basic Knowledge Skills</h2>
+<p>Some of the Programming Languages, Development Tools, and other things I've used for work.</p><br/>
 
 <table>
     <tr>
-        <td align="center">
-            <h5>Programming<br/>Language</h5>
+        <td align="center" width="140" rowspan="2">
+            <h5>Programming Language</h5>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Programming Language/c.webp" width="36" height="36" alt="c"><br/>
             <sub>C</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Programming Language/cpp.webp" width="36" height="36" alt="c++"><br/>
             <sub>C++</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Programming Language/csharp.webp" width="36" height="36" alt="c#"><br/>
             <sub>C#</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Programming Language/visualbasic6.webp" width="36" height="36" alt="vb-6"><br/>
             <sub>VB 6</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Programming Language/php.webp" width="36" height="36" alt="php"><br/>
             <sub>PHP</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Programming Language/python.webp" width="36" height="36" alt="python"><br/>
             <sub>Python</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Programming Language/micropython.webp" width="36" height="36" alt="micropython"><br/>
             <sub>MicroPython</sub>
         </td>
-        <td align="center">
+    </tr>
+    <tr>
+        <td align="center" width="96">
             <img src="Assets/Programming Language/javascript.webp" width="36" height="36" alt="js"><br/>
             <sub>JavaScript</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Programming Language/typescript.webp" width="36" height="36" alt="typescript"><br/>
             <sub>TypeScript</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Programming Language/golang.webp" width="36" height="36" alt="golang"><br/>
             <sub>Go</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Programming Language/sql.webp" width="36" height="36" alt="sql"><br/>
             <sub>SQL</sub>
         </td>
     </tr>
-</table><br/>
+</table>
 <table>
     <tr>
-        <td align="center">
+        <td align="center" width="140">
             <h5>Frontend</h5>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Frontend/bootstrap.webp" width="36" height="36" alt="bootstrap"><br/>
             <sub>Bootstrap</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Frontend/tailwind.webp" width="36" height="36" alt="tailwind"><br/>
             <sub>Tailwind</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Frontend/vuejs.webp" width="36" height="36" alt="vue-js"><br/>
             <sub>Vue.js</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Frontend/reactjs.webp" width="36" height="36" alt="react-js"><br/>
             <sub>React.js</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Frontend/nextjs.webp" width="36" height="36" alt="next-js"><br/>
             <sub>Next.js</sub>
         </td>
     </tr>
-</table><br/>
+</table>
 <table>
     <tr>
-        <td align="center">
-            <h5>Backend,<br/>Runtime,<br/>Server &<br/>Database</h5>
+        <td align="center" width="140" rowspan="2">
+            <h5>Backend, Runtime, Server & Database</h5>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Backend, Runtime, Server and Database/codeigniter.webp" width="30" height="36" alt="codeigniter"><br/>
             <sub>Codeigniter</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Backend, Runtime, Server and Database/laravel.webp" width="36" height="36" alt="laravel"><br/>
             <sub>Laravel</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Backend, Runtime, Server and Database/express.webp" width="36" height="36" alt="express"><br/>
             <sub>Express.js</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Backend, Runtime, Server and Database/nodejs.webp" width="36" height="36" alt="nodejs"><br/>
             <sub>Node.js</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Backend, Runtime, Server and Database/apache.webp" width="36" height="36" alt="apache"><br/>
             <sub>Apache</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Backend, Runtime, Server and Database/mysql.webp" width="36" height="36" alt="mysql"><br/>
             <sub>MySQL</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Backend, Runtime, Server and Database/mariadb.webp" width="36" height="36" alt="mariadb"><br/>
             <sub>MariaDB</sub>
         </td>
-        <td align="center">
+    </tr>
+    <tr>
+        <td align="center" width="96">
             <img src="Assets/Backend, Runtime, Server and Database/postgresql.webp" width="36" height="36" alt="postgresql"><br/>
             <sub>PostgreSQL</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Backend, Runtime, Server and Database/mongodb.webp" width="36" height="36" alt="mongodb"><br/>
             <sub>MongoDB</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Backend, Runtime, Server and Database/firebase.webp" width="36" height="36" alt="firebase"><br/>
             <sub>Firebase</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Backend, Runtime, Server and Database/influxdb.webp" width="36" height="36" alt="influxdb"><br/>
             <sub>InfluxDB</sub>
         </td>
     </tr>
-</table><br/>
+</table>
 <table>
     <tr>
-        <td align="center">
-            <h5>Web Development<br/>Tools</h5>
+        <td align="center" width="140">
+            <h5>Web Development Tools</h5>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Web Development Tools/composer.webp" width="36" height="36" alt="composer"><br/>
             <sub>Composer</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Web Development Tools/vscode.webp" width="36" height="36" alt="vs-code"><br/>
             <sub>VS Code</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Web Development Tools/xampp.webp" width="36" height="36" alt="xampp"><br/>
             <sub>XAMPP</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Web Development Tools/laragon.webp" width="36" height="36" alt="laragon"><br/>
             <sub>Laragon</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Web Development Tools/ngrok.webp" width="36" height="36" alt="ngrok"><br/>
             <sub>Ngrok</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Web Development Tools/postman.webp" width="36" height="36" alt="postman"><br/>
             <sub>Postman</sub>
         </td>
     </tr>
-</table><br/>
+</table>
 <table>
     <tr>
-        <td align="center">
-            <h5>Development<br/>Board</h5>
+        <td align="center" width="140">
+            <h5>Development Board</h5>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Development Board/arduino.webp" width="36" height="36" alt="arduino"><br/>
             <sub>Arduino</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Development Board/espressif.webp" width="36" height="36" alt="espressif"><br/>
             <sub>ESP32 / ESP8266</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Development Board/stm.webp" width="36" height="36" alt="stm"><br/>
             <sub>STM8 / STM32</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Development Board/raspberry.webp" width="36" height="36" alt="raspberry"><br/>
             <sub>Raspberry Pi</sub>
         </td>
     </tr>
-</table><br/>
+</table>
 <table>
     <tr>
-        <td align="center">
-            <h5>Communication<br/>Protocols &<br/>Hardware Interfaces</h5>
+        <td align="center" width="140" rowspan="2">
+            <h5>Communication Protocols & Hardware Interfaces</h5>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Communication Protocols and Hardware Interfaces/tcpip.webp" width="36" height="36" alt="tcpip"><br/>
             <sub>TCP / IP</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Communication Protocols and Hardware Interfaces/http.webp" width="36" height="36" alt="http"><br/>
             <sub>HTTP</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Communication Protocols and Hardware Interfaces/mqtt.webp" width="36" height="36" alt="mqtt"><br/>
             <sub>MQTT</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Communication Protocols and Hardware Interfaces/websocket.webp" width="36" height="36" alt="websocket"><br/>
             <sub>WebSocket</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Communication Protocols and Hardware Interfaces/modbus.webp" width="36" height="36" alt="modbus"><br/>
             <sub>MODBUS</sub>
         </td>
-        <td align="center">
-            <img src="Assets/Communication Protocols and Hardware Interfaces/uart.webp" width="36" height="36" alt="uart"><br/>
-            <sub>UART</sub>
-        </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Communication Protocols and Hardware Interfaces/i2c.webp" width="36" height="36" alt="i2c"><br/>
             <sub>I2C</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
+            <img src="Assets/Communication Protocols and Hardware Interfaces/uart.webp" width="36" height="36" alt="uart"><br/>
+            <sub>UART</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
             <img src="Assets/Communication Protocols and Hardware Interfaces/spi.webp" width="36" height="36" alt="spi"><br/>
             <sub>SPI</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Communication Protocols and Hardware Interfaces/rs485.webp" width="36" height="36" alt="rs485"><br/>
             <sub>RS485</sub>
         </td>
     </tr>
-</table><br/>
+</table>
 <table>
     <tr>
-        <td align="center">
-            <h5>IoT Platform<br/>& MQTT Broker</h5>
+        <td align="center" width="140" rowspan="2">
+            <h5>IoT Platform & MQTT Broker</h5>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/IoT Platform and MQTT Broker/blynk.webp" width="36" height="36" alt="blynk-iot"><br/>
             <sub>Blynk</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/IoT Platform and MQTT Broker/ubidots.webp" width="36" height="36" alt="ubidots"><br/>
             <sub>Ubidots</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/IoT Platform and MQTT Broker/thingspeak.webp" width="36" height="36" alt="thingspeak"><br/>
             <sub>ThingSpeak</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/IoT Platform and MQTT Broker/thingerio.webp" width="36" height="36" alt="thinger-io"><br/>
             <sub>Thinger.io</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/IoT Platform and MQTT Broker/antares.webp" width="36" height="36" alt="antares"><br/>
             <sub>Antares</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/IoT Platform and MQTT Broker/thingsboard.webp" width="36" height="36" alt="thingsboard"><br/>
             <sub>ThingsBoard</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/IoT Platform and MQTT Broker/hivemq.webp" width="36" height="36" alt="hivemq"><br/>
             <sub>HiveMQ</sub>
         </td>
-        <td align="center">
+    </tr>
+    <tr>
+        <td align="center" width="96">
             <img src="Assets/IoT Platform and MQTT Broker/mosquitto.webp" width="36" height="36" alt="mosquitto"><br/>
             <sub>Mosquitto</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/IoT Platform and MQTT Broker/emqx.webp" width="36" height="36" alt="emqx"><br/>
             <sub>EMQX</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/IoT Platform and MQTT Broker/shiftrio.webp" width="36" height="36" alt="shiftr-io"><br/>
             <sub>Shiftr.io</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/IoT Platform and MQTT Broker/iotnet.webp" width="36" height="36" alt="iot-net"><br/>
             <sub>i-ot.net</sub>
         </td>
     </tr>
-</table><br/>
+</table>
 <table>
     <tr>
-        <td align="center">
-            <h5>PCB Design,<br/>IoT Development<br/>& Integration Tools</h5>
+        <td align="center" width="140" rowspan="2">
+            <h5>PCB Design, IoT Development & Integration Tools</h5>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/PCB Design, IoT Development and Integration Tools/easyeda.webp" width="36" height="36" alt="easyeda"><br/>
             <sub>EasyEDA</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/PCB Design, IoT Development and Integration Tools/eagle.webp" width="36" height="36" alt="autodesk-eagle"><br/>
             <sub>Eagle</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/PCB Design, IoT Development and Integration Tools/platformio.webp" width="36" height="36" alt="platform-io"><br/>
             <sub>PlatformIO</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/PCB Design, IoT Development and Integration Tools/nodered.webp" width="36" height="36" alt="node-red"><br/>
             <sub>Node-RED</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/PCB Design, IoT Development and Integration Tools/grafana.webp" width="36" height="36" alt="grafana"><br/>
             <sub>Grafana</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/PCB Design, IoT Development and Integration Tools/mqttx.webp" width="36" height="36" alt="mqttx"><br/>
             <sub>MQTTX</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/PCB Design, IoT Development and Integration Tools/kodular.webp" width="36" height="36" alt="kodular"><br/>
             <sub>Kodular</sub>
         </td>
-        <td align="center">
+    </tr>
+    <tr>
+        <td align="center" width="96">
             <img src="Assets/PCB Design, IoT Development and Integration Tools/mitappinventor.webp" width="36" height="36" alt="mit-app-inventor"><br/>
             <sub>MIT App<br/>Inventor</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/PCB Design, IoT Development and Integration Tools/vs.webp" width="36" height="36" alt="visual-studio"><br/>
             <sub>Visual<br/>Studio</sub>
         </td>
     </tr>
-</table><br/>
+</table>
 <table>
     <tr>
-        <td align="center">
-            <h5>DevOps &<br/>Version Control</h5>
+        <td align="center" width="140">
+            <h5>DevOps & Version Control</h5>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/DevOps and Version Control/docker.webp" width="36" height="36" alt="docker"><br/>
             <sub>Docker</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/DevOps and Version Control/git.webp" width="36" height="36" alt="git"><br/>
             <sub>Git</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/DevOps and Version Control/github.webp" width="36" height="36" alt="github"><br/>
             <sub>GitHub</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/DevOps and Version Control/gitlab.webp" width="36" height="36" alt="gitlab"><br/>
             <sub>GitLab</sub>
         </td>
     </tr>
-</table><br/>
+</table>
 <table>
     <tr>
-        <td align="center">
-            <h5>Design &<br/>Productivity</h5>
+        <td align="center" width="140">
+            <h5>Design & Productivity</h5>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Design and Productivity/figma.webp" width="30" height="36" alt="figma"><br/>
             <sub>Figma</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Design and Productivity/canva.webp" width="36" height="36" alt="canva"><br/>
             <sub>Canva</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Design and Productivity/photoshop.webp" width="36" height="36" alt="adobe-photoshop"><br/>
             <sub>Adobe<br/>Photoshop</sub>
         </td>
-        <td align="center">
+        <td align="center" width="96">
             <img src="Assets/Design and Productivity/msoffice.webp" width="36" height="36" alt="ms-office"><br/>
             <sub>Microsoft<br/>Office</sub>
         </td>
     </tr>
 </table>
 
-<br/>
+<br/><br/>
 
----
-
-## ♻️ My Community
+<h2></h2><h2 align="left" style="text-decoration: none;">♻️ My Community</h2>
 
 <br/>
 
