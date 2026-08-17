@@ -24,14 +24,13 @@
 <br/><br/>
 
 <h2></h2><h2 id="basicknowledge" align="center">💻 Basic Knowledge Skills</h2>
-<div align="center">
 <p>Some of the Programming Languages, Development Tools, and other things I've used for work.</p><br/><br/>
 
-<table align="center">
+<table>
     <tr>
-        <th colspan="11" align="center" bgcolor="#F5F0FF">Programming Language</th>
-    </tr>
-    <tr>
+        <td align="center">
+            <h5>Programming<br/>Language</h5>
+        </td>
         <td align="center">
             <img src="Assets/Programming Language/c.webp" width="36" height="36" alt="c"><br/>
             <sub>C</sub>
@@ -78,11 +77,11 @@
         </td>
     </tr>
 </table><br/>
-<table align="center">
+<table>
     <tr>
-        <th colspan="5" align="center" bgcolor="#F5F0FF">Frontend</th>
-    </tr>
-    <tr>
+        <td align="center">
+            <h5>Frontend</h5>
+        </td>
         <td align="center">
             <img src="Assets/Frontend/bootstrap.webp" width="36" height="36" alt="bootstrap"><br/>
             <sub>Bootstrap</sub>
@@ -105,11 +104,11 @@
         </td>
     </tr>
 </table><br/>
-<table align="center">
+<table>
     <tr>
-        <th colspan="11" align="center" bgcolor="#F5F0FF">Backend, Runtime, Server & Database</th>
-    </tr>
-    <tr>
+        <td align="center">
+            <h5>Backend,<br/>Runtime,<br/>Server &<br/>Database</h5>
+        </td>
         <td align="center">
             <img src="Assets/Backend, Runtime, Server and Database/codeigniter.webp" width="30" height="36" alt="codeigniter"><br/>
             <sub>Codeigniter</sub>
@@ -156,11 +155,11 @@
         </td>
     </tr>
 </table><br/>
-<table align="center">
+<table>
     <tr>
-        <th colspan="6" align="center" bgcolor="#F5F0FF">Web Development Tools</th>
-    </tr>
-    <tr>
+        <td align="center">
+            <h5>Web Development<br/>Tools</h5>
+        </td>
         <td align="center">
             <img src="Assets/Web Development Tools/composer.webp" width="36" height="36" alt="composer"><br/>
             <sub>Composer</sub>
@@ -187,11 +186,11 @@
         </td>
     </tr>
 </table><br/>
-<table align="center">
+<table>
     <tr>
-        <th colspan="4" align="center" bgcolor="#F5F0FF">Development Board</th>
-    </tr>
-    <tr>
+        <td align="center">
+            <h5>Development<br/>Board</h5>
+        </td>
         <td align="center">
             <img src="Assets/Development Board/arduino.webp" width="36" height="36" alt="arduino"><br/>
             <sub>Arduino</sub>
@@ -210,11 +209,11 @@
         </td>
     </tr>
 </table><br/>
-<table align="center">
+<table>
     <tr>
-        <th colspan="9" align="center" bgcolor="#F5F0FF">Communication Protocols & Hardware Interfaces</th>
-    </tr>
-    <tr>
+        <td align="center">
+            <h5>Communication<br/>Protocols &<br/>Hardware Interfaces</h5>
+        </td>
         <td align="center">
             <img src="Assets/Communication Protocols and Hardware Interfaces/tcpip.webp" width="36" height="36" alt="tcpip"><br/>
             <sub>TCP / IP</sub>
@@ -253,11 +252,11 @@
         </td>
     </tr>
 </table><br/>
-<table align="center">
+<table>
     <tr>
-        <th colspan="11" align="center" bgcolor="#F5F0FF">IoT Platform & MQTT Broker</th>
-    </tr>
-    <tr>
+        <td align="center">
+            <h5>IoT Platform<br/>& MQTT Broker</h5>
+        </td>
         <td align="center">
             <img src="Assets/IoT Platform and MQTT Broker/blynk.webp" width="36" height="36" alt="blynk-iot"><br/>
             <sub>Blynk</sub>
@@ -304,11 +303,11 @@
         </td>
     </tr>
 </table><br/>
-<table align="center">
+<table>
     <tr>
-        <th colspan="9" align="center" bgcolor="#F5F0FF">PCB Design, IoT Development & Integration Tools</th>
-    </tr>
-    <tr>
+        <td align="center">
+            <h5>PCB Design,<br/>IoT Development<br/>& Integration Tools</h5>
+        </td>
         <td align="center">
             <img src="Assets/PCB Design, IoT Development and Integration Tools/easyeda.webp" width="36" height="36" alt="easyeda"><br/>
             <sub>EasyEDA</sub>
@@ -347,11 +346,11 @@
         </td>
     </tr>
 </table><br/>
-<table align="center">
+<table>
     <tr>
-        <th colspan="4" align="center" bgcolor="#F5F0FF">DevOps & Version Control</th>
-    </tr>
-    <tr>
+        <td align="center">
+            <h5>DevOps &<br/>Version Control</h5>
+        </td>
         <td align="center">
             <img src="Assets/DevOps and Version Control/docker.webp" width="36" height="36" alt="docker"><br/>
             <sub>Docker</sub>
@@ -370,11 +369,11 @@
         </td>
     </tr>
 </table><br/>
-<table align="center">
+<table>
     <tr>
-        <th colspan="4" align="center" bgcolor="#F5F0FF">Design & Productivity</th>
-    </tr>
-    <tr>
+        <td align="center">
+            <h5>Design &<br/>Productivity</h5>
+        </td>
         <td align="center">
             <img src="Assets/Design and Productivity/figma.webp" width="30" height="36" alt="figma"><br/>
             <sub>Figma</sub>
@@ -393,11 +392,12 @@
         </td>
     </tr>
 </table>
-</div>
 
-<br/><br/>
+<br/>
 
-<h2></h2><h2 id="community" align="center">♻️ My Community</h2>
+---
+
+## ♻️ My Community
 
 <br/>
 
