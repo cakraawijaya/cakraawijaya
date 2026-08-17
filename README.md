@@ -418,8 +418,8 @@
 <h2></h2><h2 align="left">🏅 Certifications & Awards</h2>
 
 <ul>
-    <li><span><strong>Certificate of Innovation & Achievement: EW Project Challenge (2026)</strong>&nbsp; — &nbsp;ElectronicWings x MOUSER, India</li></span>
-    <li><span><strong>Perancangan dan Perekayasaan Industrial Internet of Things (2026)</strong>&nbsp; — &nbsp;Edutic.id x BNSP</li></span>
+    <li><span><strong>Certificate of Innovation & Achievement: &nbsp;EW Project Challenge (2026)</strong>&nbsp; — &nbsp;ElectronicWings x MOUSER, India</li></span>
+    <li><span><strong>Bootcamp Perancangan dan Perekayasaan Industrial Internet of Things (2026)</strong>&nbsp; — &nbsp;Edutic.id x BNSP</li></span>
     <li><span><strong>Spec-Driven Development dengan Kiro (2026)</strong>&nbsp; — &nbsp;Dicoding Indonesia</li></span>
     <li><span><strong>AI Productivity and AI API Integration for Developers (2026)</strong>&nbsp; — &nbsp;Hacktiv8 Indonesia</li></span>
     <li><span><strong>Node-RED Fundamentals & Node-RED Advanced (2026)</strong>&nbsp; — &nbsp;Node-RED Academy</li></span>
@@ -427,8 +427,8 @@
     <li><span><strong>Programming for the Internet of Things Project (2023)</strong>&nbsp; — &nbsp;Coursera x University of California, Irvine</li></span>
     <li><span><strong>Intensive Bootcamp "Menjadi IoT Engineer" Batch 10 (2023)</strong>&nbsp; — &nbsp;Edspert.id</li></span>
     <li><span><strong>Internet of Things Batch 4 (2022)</strong>&nbsp; — &nbsp;DTS PROA KOMINFO RI</li></span>
-    <li><span><strong>Certificate of Competence: Web Junior Programmer (2022)</strong>&nbsp; — &nbsp;BNSP</li></span>
-    <li><span><strong>Certificate of Appreciation: CUM LAUDE (2022)</strong>&nbsp; — &nbsp;UPN "Veteran" Jatim</li></span>
+    <li><span><strong>Certificate of Competence: &nbsp;Web Junior Programmer (2022)</strong>&nbsp; — &nbsp;BNSP</li></span>
+    <li><span><strong>Certificate of Appreciation: &nbsp;CUM LAUDE (2022)</strong>&nbsp; — &nbsp;UPN "Veteran" Jatim</li></span>
 </ul>
 &nbsp;&nbsp;
 For more information, <a href="https://drive.google.com/drive/folders/1MW0OHl7oECj3zrzVDT_SivkK3WGgUE9n"><strong>Click Here</strong></a>
@@ -509,7 +509,7 @@ For more information, <a href="https://drive.google.com/drive/folders/1MW0OHl7oE
 <h2></h2><h2 align="left">👀 Visitors</h2>
 
 <div align="left">
-    <a align="center" href="https://github.com/cakraawijaya" target="_blank"><img width="135" src="https://views.igorkowalczyk.dev/api/badge/cakraawijaya?label=%F0%9F%91%81%20Visitors&labelColor=6f00ff&color=8b008b&format=long"></a>
+    <a align="center" href="https://github.com/cakraawijaya" target="_blank"><img width="135" src="https://views.igorkowalczyk.dev/api/badge/cakraawijaya?label=Visitors&labelColor=6f00ff&color=8b008b&format=long"></a>
 </div>
 
 <br/><br/>
