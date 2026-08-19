@@ -40,6 +40,30 @@ Willing to relocate: Anywhere.
 
 <br/>
 
+<h2></h2><h2 align="left">🌟 Projects</h2>
+<span align="justify">Over the years, I've built and explored projects ranging from web development and embedded systems to IoT, automation, and more. These projects reflect my hands-on experience, continuous learning, and commitment to delivering solutions that are relevant, effective, and aligned with real-world needs.</span>
+<br/><br/>
+
+<table>
+    <tr>
+        <th>Project</th>
+        <th>Stack</th>
+        <th>What it does</th>
+    </tr>
+    <tr>
+        <td><h5><a href="https://github.com/cakraawijaya/Automatic-Weather-System">Automatic Weather System</a></h5></td>
+        <td><sub><strong>ESP32</strong> · <strong>DHT11</strong> · <strong>MQTT</strong> · <strong>Node-RED</strong> · <strong>MySQL</strong> · <strong>Telegram</strong></sub></td>
+        <td><sub>Real-time weather monitoring system — monitors river water level, temperature, and humidity through Node-RED, logs sensor data to MySQL, and integrates Telegram Bot for remote monitoring, real-time threshold alerts, and synchronized threshold control.</sub></td>
+    </tr>
+    <tr>
+        <td><h5><a href="https://github.com/cakraawijaya/TH-Monitoring">TH-Monitoring</a></h5></td>
+        <td><sub><strong>ESP32</strong> · <strong>DHT11</strong> · <strong>MODBUS TCP/IP</strong> · <strong>Node-RED</strong> · <strong>MySQL</strong></sub></td>
+        <td><sub>Real-time environmental monitoring dashboard — tracks temperature and humidity with historical data logging, time-range filtering, CSV export, and data management.</sub></td>
+    </tr>
+</table>
+
+<br/>
+
 <h2></h2><h2 align="left">🛠️ Tech Stack</h2>
 <span align="justify">Some of the Programming Languages, Development Tools, and other things I've used for work.</span>
 <br/><br/>
