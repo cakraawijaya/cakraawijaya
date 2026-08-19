@@ -332,53 +332,61 @@ Willing to relocate: Anywhere.
 <table>
     <tr>
         <td align="center" width="140" rowspan="2">
-            <h5>PCB Design, IoT Development & Integration Tools</h5>
+            <h5>Hardware, IoT Development & Integration Tools</h5>
         </td>
         <td align="center" width="96">
-            <img src="Assets/PCB Design, IoT Development and Integration Tools/easyeda.webp" width="36" height="36" alt="easyeda"><br/>
+            <img src="Assets/Hardware, IoT Development and Integration Tools/easyeda.webp" width="36" height="36" alt="easyeda"><br/>
             <sub>EasyEDA</sub>
         </td>
         <td align="center" width="96">
-            <img src="Assets/PCB Design, IoT Development and Integration Tools/eagle.webp" width="36" height="36" alt="autodesk-eagle"><br/>
+            <img src="Assets/Hardware, IoT Development and Integration Tools/eagle.webp" width="36" height="36" alt="autodesk-eagle"><br/>
             <sub>Eagle</sub>
         </td>
         <td align="center" width="96">
-            <img src="Assets/PCB Design, IoT Development and Integration Tools/platformio.webp" width="36" height="36" alt="platform-io"><br/>
+            <img src="Assets/Hardware, IoT Development and Integration Tools/platformio.webp" width="36" height="36" alt="platform-io"><br/>
             <sub>PlatformIO</sub>
         </td>
         <td align="center" width="96">
-            <img src="Assets/PCB Design, IoT Development and Integration Tools/nodered.webp" width="36" height="36" alt="node-red"><br/>
+            <img src="Assets/Hardware, IoT Development and Integration Tools/nodered.webp" width="36" height="36" alt="node-red"><br/>
             <sub>Node-RED</sub>
         </td>
         <td align="center" width="96">
-            <img src="Assets/PCB Design, IoT Development and Integration Tools/grafana.webp" width="36" height="36" alt="grafana"><br/>
+            <img src="Assets/Hardware, IoT Development and Integration Tools/grafana.webp" width="36" height="36" alt="grafana"><br/>
             <sub>Grafana</sub>
         </td>
         <td align="center" width="96">
-            <img src="Assets/PCB Design, IoT Development and Integration Tools/mqttx.webp" width="36" height="36" alt="mqttx"><br/>
+            <img src="Assets/Hardware, IoT Development and Integration Tools/mqttx.webp" width="36" height="36" alt="mqttx"><br/>
             <sub>MQTTX</sub>
         </td>
         <td align="center" width="96">
-            <img src="Assets/PCB Design, IoT Development and Integration Tools/kodular.webp" width="36" height="36" alt="kodular"><br/>
+            <img src="Assets/Hardware, IoT Development and Integration Tools/kodular.webp" width="36" height="36" alt="kodular"><br/>
             <sub>Kodular</sub>
         </td>
     </tr>
     <tr>
         <td align="center" width="96">
-            <img src="Assets/PCB Design, IoT Development and Integration Tools/mitappinventor.webp" width="36" height="36" alt="mit-app-inventor"><br/>
+            <img src="Assets/Hardware, IoT Development and Integration Tools/mitappinventor.webp" width="36" height="36" alt="mit-app-inventor"><br/>
             <sub>MIT App<br/>Inventor</sub>
         </td>
         <td align="center" width="96">
-            <img src="Assets/PCB Design, IoT Development and Integration Tools/vs.webp" width="36" height="36" alt="visual-studio"><br/>
+            <img src="Assets/Hardware, IoT Development and Integration Tools/vs.webp" width="36" height="36" alt="visual-studio"><br/>
             <sub>Visual<br/>Studio</sub>
         </td>
         <td align="center" width="96">
-            <img src="Assets/PCB Design, IoT Development and Integration Tools/fonnte.webp" width="36" height="36" alt="fonnte"><br/>
+            <img src="Assets/Hardware, IoT Development and Integration Tools/fonnte.webp" width="36" height="36" alt="fonnte"><br/>
             <sub>Fonnte</sub>
         </td>
         <td align="center" width="96">
-            <img src="Assets/PCB Design, IoT Development and Integration Tools/telegrambot.webp" width="36" height="36" alt="telegram-bot"><br/>
+            <img src="Assets/Hardware, IoT Development and Integration Tools/telegrambot.webp" width="36" height="36" alt="telegram-bot"><br/>
             <sub>Telegram Bot</sub>
+        </td>
+        <td align="center" width="96">
+            <img src="Assets/Hardware, IoT Development and Integration Tools/modscan.webp" width="36" height="36" alt="modscan"><br/>
+            <sub>MODSCAN</sub>
+        </td>
+        <td align="center" width="96">
+            <img src="Assets/Hardware, IoT Development and Integration Tools/modbuspoll.webp" width="36" height="36" alt="modbus-poll"><br/>
+            <sub>MODBUS POLL</sub>
         </td>
     </tr>
 </table>
