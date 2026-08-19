@@ -9,6 +9,8 @@
 <p><em>Hey there! Thanks for stopping by. Have a look around and stay as long as you like.</em></p>
 
 <span>My expertise: ``` Robotics & Embedded System ```, ``` Internet of Things ```, ``` Software Engineering ```.</span>
+
+<img src="https://github.com/user-attachments/assets/0bd71cf4-44f5-4f41-ba57-ad188921f871" width="700" />
     
 </div>
 
