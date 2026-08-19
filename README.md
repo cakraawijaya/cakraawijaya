@@ -40,7 +40,7 @@ Willing to relocate: Anywhere.
 
 <br/>
 
-<h2></h2><h2 align="left">🌟 Projects</h2>
+<h2></h2><h2 align="left">🌟 Featured Projects</h2>
 <span align="justify">Over the years, I've built and explored projects ranging from web development and embedded systems to IoT, automation, and more. These projects reflect my hands-on experience, continuous learning, and commitment to delivering solutions that are relevant, effective, and aligned with real-world needs.</span>
 <br/><br/>
 
