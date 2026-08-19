@@ -220,6 +220,10 @@ Willing to relocate: Anywhere.
             <sub>VS Code</sub>
         </td>
         <td align="center" width="96">
+            <img src="Assets/Web Development Tools/kiro.webp" width="36" height="36" alt="kiro"><br/>
+            <sub>Kiro</sub>
+        </td>
+        <td align="center" width="96">
             <img src="Assets/Web Development Tools/xampp.webp" width="36" height="36" alt="xampp"><br/>
             <sub>XAMPP</sub>
         </td>
