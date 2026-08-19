@@ -1,4 +1,4 @@
-<img width="1920" height="280" src="Assets/Banner/Welcome.gif" alt="Banner IoT Engineer by Devan C.M.W">
+<img width="1920" height="280" src="Assets/Animations/Welcome.gif" alt="Banner IoT Engineer by Devan C.M.W">
 
 <br/>
 
@@ -10,7 +10,7 @@
 
 <span>My expertise: ``` Robotics & Embedded System ```, ``` Internet of Things ```, ``` Software Engineering ```.</span>
 
-<img src="https://github.com/user-attachments/assets/0bd71cf4-44f5-4f41-ba57-ad188921f871" width="700" />
+<img width="700" src="Assets/Animations/ProgressBar.gif" alt="Progress-Bar">
     
 </div>
 
@@ -425,6 +425,10 @@ Willing to relocate: Anywhere.
         <td align="center" width="96">
             <img src="Assets/Design and Productivity/msoffice.webp" width="36" height="36" alt="ms-office"><br/>
             <sub>Microsoft<br/>Office</sub>
+        </td>
+        <td align="center" width="96">
+            <img src="Assets/Design and Productivity/msvisio.webp" width="36" height="36" alt="ms-visio"><br/>
+            <sub>Microsoft<br/>Visio</sub>
         </td>
     </tr>
 </table>
