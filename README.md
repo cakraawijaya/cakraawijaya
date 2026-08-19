@@ -1,4 +1,4 @@
-<img width="1920" height="280" src="Assets/Animations/Welcome.gif" alt="Banner IoT Engineer by Devan C.M.W">
+<img width="1920" height="270" src="Assets/Animations/Welcome.gif" alt="Banner IoT Engineer by Devan C.M.W">
 
 <br/>
 
@@ -52,13 +52,18 @@ Willing to relocate: Anywhere.
     </tr>
     <tr>
         <td><h5><a href="https://github.com/cakraawijaya/Automatic-Weather-System">Automatic Weather System</a></h5></td>
-        <td><sub><strong>ESP32</strong> · <strong>DHT11</strong> · <strong>MQTT</strong> · <strong>Node-RED</strong> · <strong>MySQL</strong> · <strong>Telegram</strong></sub></td>
-        <td><sub>Real-time weather monitoring system — monitors river water level, temperature, and humidity through Node-RED, logs sensor data to MySQL, and integrates Telegram Bot for remote monitoring, real-time threshold alerts, and synchronized threshold control.</sub></td>
+        <td><sub><strong>ESP32</strong> · <strong>DHT11</strong> · <strong>HC-SR04</strong> · <strong>MQTT</strong> · <strong>Node-RED</strong> · <strong>MySQL</strong> · <strong>Telegram</strong></sub></td>
+        <td><span>Real-time weather monitoring system — monitors river water level, temperature, and humidity with live dashboard visualization, historical data logging, early warning alerts, and synchronized threshold control via Telegram.</span></td>
     </tr>
     <tr>
         <td><h5><a href="https://github.com/cakraawijaya/TH-Monitoring">TH-Monitoring</a></h5></td>
         <td><sub><strong>ESP32</strong> · <strong>DHT11</strong> · <strong>MODBUS TCP/IP</strong> · <strong>Node-RED</strong> · <strong>MySQL</strong></sub></td>
-        <td><sub>Real-time environmental monitoring dashboard — tracks temperature and humidity with historical data logging, time-range filtering, CSV export, and data management.</sub></td>
+        <td><span>Real-time environmental monitoring dashboard — tracks temperature and humidity with historical data logging, time-range filtering, CSV export, and data management.</span></td>
+    </tr>
+    <tr>
+        <td><h5><a href="https://github.com/cakraawijaya/Local-WebBase-FOTA">Local Web-Based FOTA</a></h5></td>
+        <td><sub><strong>ESP32</strong> · <strong>DHT11</strong> · <strong>Relay</strong> · <strong>Lamp</strong> · <strong>HTTP</strong> · <strong>OTA / FOTA</strong></sub></td>
+        <td><span>Web-based IoT monitoring, control, and firmware management system — monitors temperature and humidity, enables remote lamp control, provides authenticated web access, CSV data export, and enables wireless firmware updates over a local network.</span></td>
     </tr>
 </table>
 
