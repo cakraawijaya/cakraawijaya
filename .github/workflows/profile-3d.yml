@@ -21,7 +21,7 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@v0.9.3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: ${{ cakraawijaya/cakraawijaya }}
           SETTING_JSON: Assets/GitHub-Stats/conf/github-profile-3d-contrib.json
 
       - name: Commit generated files
