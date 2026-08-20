@@ -571,7 +571,7 @@ For more information, <a href="https://drive.google.com/drive/folders/1MW0OHl7oE
 <h2></h2><h2 align="left">📊 GitHub Contribution</h2>
 
 <div align="center">
-  <img src="./Assets/GitHub-Stats/profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D contribution graph" width="100%" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D contribution graph" width="100%" />
 </div>
 
 <br/>
