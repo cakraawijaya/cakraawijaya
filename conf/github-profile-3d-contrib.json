@@ -1,11 +1,11 @@
 {
   "type": "bitmap",
   "fileName": "profile-night-rainbow.svg",
-  "backgroundColor": "#ffffff",
-  "foregroundColor": "#00000f",
-  "strongColor": "#111133",
-  "weakColor": "gray",
-  "radarColor": "#47a042",
+  "backgroundColor": "#00000f",
+  "foregroundColor": "#f5f5ff",
+  "strongColor": "#f0c14a",
+  "weakColor": "#8b949e",
+  "radarColor": "#f0c14a",
   "growingAnimation": true,
   "contribPatterns": [
     {
@@ -354,11 +354,11 @@
   },
   "darkMode": {
     "type": "bitmap",
-    "backgroundColor": "#0d1117",
-    "foregroundColor": "#eeeeff",
+    "backgroundColor": "#00000f",
+    "foregroundColor": "#f5f5ff",
     "strongColor": "#f0c14a",
     "weakColor": "#8b949e",
-    "radarColor": "#3fb950",
+    "radarColor": "#f0c14a",
     "growingAnimation": true,
     "contribPatterns": [
       {
