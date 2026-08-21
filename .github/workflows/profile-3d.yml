@@ -1,3 +1,7 @@
+# 3D contribution calendar for GitHub profile README
+# Docs: https://github.com/yoshi389111/github-profile-3d-contrib
+# Supports light/dark mode in conf/github-profile-3d-contrib.json
+
 name: GitHub-Profile-3D-Contrib
 
 on:
