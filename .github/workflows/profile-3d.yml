@@ -6,7 +6,7 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    # 03:00 WIB (UTC+7) == 20:00 UTC
+    # 03:00 WIB (Asia/Jakarta) == 20:00 UTC
     - cron: "0 20 * * *"
   workflow_dispatch:
 
