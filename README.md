@@ -56,7 +56,7 @@ Willing to relocate: Anywhere.
         <td><span>Real-time weather monitoring system — monitors river water level, temperature, and humidity with live dashboard visualization, historical data logging, early warning alerts, and synchronized threshold control via Telegram.</span></td>
     </tr>
     <tr>
-        <td><h5><a href="https://github.com/cakraawijaya/TH-Monitoring">TH-Monitoring</a></h5></td>
+        <td><h5><a href="https://github.com/cakraawijaya/TH-Monitoring-NodeRED">TH-Monitoring-NodeRED</a></h5></td>
         <td><sub><strong>ESP32</strong> · <strong>MODBUS TCP/IP</strong> · <strong>Node-RED</strong> · <strong>MySQL</strong></sub></td>
         <td><span>Real-time environmental monitoring dashboard — tracks temperature and humidity with historical data logging, time-range filtering, CSV export, and data management.</span></td>
     </tr>
