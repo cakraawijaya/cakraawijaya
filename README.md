@@ -66,14 +66,14 @@ Willing to relocate: Anywhere.
         <td><span>Web-based IoT monitoring, control, and firmware management system — monitors temperature and humidity, enables remote lamp control, provides authenticated web access, CSV data export, and enables wireless firmware updates over a local network.</span></td>
     </tr>
     <tr>
-        <td><h5><a href="https://github.com/cakraawijaya/TEMS">URMS (Ubidots Room Monitoring System)</a></h5></td>
+        <td><h5><a href="https://github.com/cakraawijaya/URMS">URMS (Ubidots Room Monitoring System)</a></h5></td>
         <td><sub><strong>ESP32</strong> · <strong>HTTP</strong> · <strong>Ubidots</strong></sub></td>
-        <td><span>Coming Soon.</span></td>
+        <td><span>Smart room monitoring and control system — monitors temperature, humidity, light intensity, and occupancy, with real-time dashboard visualization and remote relay control through Ubidots.</span></td>
     </tr>
     <tr>
         <td><h5><a href="https://github.com/cakraawijaya/TEMS">TEMS (ThingSpeak Environmental Monitoring System)</a></h5></td>
         <td><sub><strong>ESP32</strong> · <strong>HTTP</strong> · <strong>ThingSpeak</strong></sub></td>
-        <td><span>Coming Soon.</span></td>
+        <td><span>Environmental monitoring system — monitors temperature, humidity, and light intensity with cloud-based data logging and real-time dashboard visualization through ThingSpeak.</span></td>
     </tr>
 </table>
 
