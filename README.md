@@ -44,6 +44,7 @@ Willing to relocate: Anywhere.
 <span align="justify">Over the years, I've built and explored projects ranging from web development and embedded systems to IoT, automation, and more. These projects reflect my hands-on experience, continuous learning, and commitment to delivering solutions that are relevant, effective, and aligned with real-world needs.</span>
 <br/><br/>
 
+<h3 align="left">1. Internet of Things (IoT)</h3>
 <table>
     <tr>
         <th>Project</th>
