@@ -56,7 +56,7 @@ Willing to relocate: Anywhere.
         <td><span>Real-time weather monitoring system — monitors river water level, temperature, and humidity with live dashboard visualization, historical data logging, early warning alerts, and synchronized threshold control via Telegram.</span></td>
     </tr>
     <tr>
-        <td><h5><a href="https://github.com/cakraawijaya/TH-Monitoring-NodeRED">TH-Monitoring-NodeRED</a></h5></td>
+        <td><h5><a href="https://github.com/cakraawijaya/TH-Monitoring">TH-Monitoring</a></h5></td>
         <td><sub><strong>ESP32</strong> · <strong>MODBUS TCP/IP</strong> · <strong>Node-RED</strong> · <strong>MySQL</strong></sub></td>
         <td><span>Real-time environmental monitoring dashboard — tracks temperature and humidity with historical data logging, time-range filtering, CSV export, and data management.</span></td>
     </tr>
@@ -64,6 +64,16 @@ Willing to relocate: Anywhere.
         <td><h5><a href="https://github.com/cakraawijaya/Local-WebBase-FOTA">Local Web-Based FOTA</a></h5></td>
         <td><sub><strong>ESP32</strong> · <strong>HTTP</strong> · <strong>OTA / FOTA</strong></sub></td>
         <td><span>Web-based IoT monitoring, control, and firmware management system — monitors temperature and humidity, enables remote lamp control, provides authenticated web access, CSV data export, and enables wireless firmware updates over a local network.</span></td>
+    </tr>
+    <tr>
+        <td><h5><a href="https://github.com/cakraawijaya/TEMS">URMS (Ubidots Room Monitoring System)</a></h5></td>
+        <td><sub><strong>ESP32</strong> · <strong>HTTP</strong> · <strong>Ubidots</strong></sub></td>
+        <td><span>Coming Soon.</span></td>
+    </tr>
+    <tr>
+        <td><h5><a href="https://github.com/cakraawijaya/TEMS">TEMS (ThingSpeak Environmental Monitoring System)</a></h5></td>
+        <td><sub><strong>ESP32</strong> · <strong>HTTP</strong> · <strong>ThingSpeak</strong></sub></td>
+        <td><span>Coming Soon.</span></td>
     </tr>
 </table>
 
