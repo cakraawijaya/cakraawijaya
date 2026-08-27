@@ -30,7 +30,8 @@ Willing to relocate: Anywhere.
 
 <h2></h2><h2 align="left">📖 Education</h2>
 <p><strong>Bachelor of Computer Science, Informatics</strong></p>
-<span align="justify">Universitas Pembangunan Nasional "Veteran" Jawa Timur &nbsp;&nbsp;|&nbsp;&nbsp; Surabaya, Indonesia &nbsp;&nbsp;|&nbsp;&nbsp; 2018 - 2022</span><br/><br/>
+<div align="justify"><span>Universitas Pembangunan Nasional "Veteran" Jawa Timur &nbsp;&nbsp;|&nbsp;&nbsp; Surabaya, Indonesia &nbsp;&nbsp;|&nbsp;&nbsp; 2018 - 2022</span></div>
+<br/><br/>
 <ul>
     <li><span><strong>GPA:</strong> &nbsp;3.79 (CUM LAUDE) 🏆</span></li><br/>
     <li><span><strong>Specialization:</strong> &nbsp;Web Development & Internet of Things (IoT).</span></li><br/>
@@ -41,7 +42,7 @@ Willing to relocate: Anywhere.
 <br/>
 
 <h2></h2><h2 align="left">🌟 Featured Projects</h2>
-<span align="justify">Over the years, I've built and explored projects ranging from web development and embedded systems to IoT, automation, and more. These projects reflect my hands-on experience, continuous learning, and commitment to delivering solutions that are relevant, effective, and aligned with real-world needs.</span>
+<div align="justify"><span>Over the years, I've built and explored projects ranging from web development and embedded systems to IoT, automation, and more. These projects reflect my hands-on experience, continuous learning, and commitment to delivering solutions that are relevant, effective, and aligned with real-world needs.</span></div>
 <br/><br/>
 
 <h3 align="left">1. Internet of Things (IoT)</h3>
@@ -52,36 +53,36 @@ Willing to relocate: Anywhere.
         <th>What it does</th>
     </tr>
     <tr>
-        <td><h5><a href="https://github.com/cakraawijaya/Automatic-Weather-System">Automatic Weather System</a></h5></td>
-        <td><sub><strong>ESP32</strong> · <strong>MQTT</strong> · <strong>Node-RED</strong> · <strong>MySQL</strong> · <strong>Telegram</strong></sub></td>
-        <td><span>Real-time weather monitoring system — monitors river water level, temperature, and humidity with live dashboard visualization, historical data logging, early warning alerts, and synchronized threshold control via Telegram.</span></td>
+        <td align="left"><h5><a href="https://github.com/cakraawijaya/Automatic-Weather-System">Automatic Weather System</a></h5></td>
+        <td align="left"><sub><strong>ESP32</strong> · <strong>MQTT</strong> · <strong>Node-RED</strong> · <strong>MySQL</strong> · <strong>Telegram</strong></sub></td>
+        <td align="justify"><span>Real-time weather monitoring system — monitors river water level, temperature, and humidity with live dashboard visualization, historical data logging, early warning alerts, and synchronized threshold control via Telegram.</span></td>
     </tr>
     <tr>
-        <td><h5><a href="https://github.com/cakraawijaya/TH-Monitoring">TH-Monitoring</a></h5></td>
-        <td><sub><strong>ESP32</strong> · <strong>MODBUS TCP/IP</strong> · <strong>Node-RED</strong> · <strong>MySQL</strong></sub></td>
-        <td><span>Real-time environmental monitoring dashboard — tracks temperature and humidity with historical data logging, time-range filtering, CSV export, and data management.</span></td>
+        <td align="left"><h5><a href="https://github.com/cakraawijaya/TH-Monitoring">TH-Monitoring</a></h5></td>
+        <td align="left"><sub><strong>ESP32</strong> · <strong>MODBUS TCP/IP</strong> · <strong>Node-RED</strong> · <strong>MySQL</strong></sub></td>
+        <td align="justify"><span>Real-time environmental monitoring dashboard — tracks temperature and humidity with historical data logging, time-range filtering, CSV export, and data management.</span></td>
     </tr>
     <tr>
-        <td><h5><a href="https://github.com/cakraawijaya/Local-WebBase-FOTA">Local Web-Based FOTA</a></h5></td>
-        <td><sub><strong>ESP32</strong> · <strong>HTTP</strong> · <strong>OTA / FOTA</strong></sub></td>
-        <td><span>Web-based IoT monitoring, control, and firmware management system — monitors temperature and humidity, enables remote lamp control, provides authenticated web access, CSV data export, and enables wireless firmware updates over a local network.</span></td>
+        <td align="left"><h5><a href="https://github.com/cakraawijaya/Local-WebBase-FOTA">Local Web-Based FOTA</a></h5></td>
+        <td align="left"><sub><strong>ESP32</strong> · <strong>HTTP</strong> · <strong>OTA / FOTA</strong></sub></td>
+        <td align="justify"><span>Web-based IoT monitoring, control, and firmware management system — monitors temperature and humidity, enables remote lamp control, provides authenticated web access, CSV data export, and enables wireless firmware updates over a local network.</span></td>
     </tr>
     <tr>
-        <td><h5><a href="https://github.com/cakraawijaya/Ubidots-Room-Monitoring-System">Ubidots Room Monitoring System</a></h5></td>
-        <td><sub><strong>ESP32</strong> · <strong>HTTP</strong> · <strong>Ubidots</strong></sub></td>
-        <td><span>Smart room monitoring and control system — monitors temperature, humidity, light intensity, and occupancy, with real-time dashboard visualization and remote relay control through Ubidots.</span></td>
+        <td align="left"><h5><a href="https://github.com/cakraawijaya/Ubidots-Room-Monitoring-System">Ubidots Room Monitoring System</a></h5></td>
+        <td align="left"><sub><strong>ESP32</strong> · <strong>HTTP</strong> · <strong>Ubidots</strong></sub></td>
+        <td align="justify"><span>Smart room monitoring and control system — monitors temperature, humidity, light intensity, and occupancy, with real-time dashboard visualization and remote relay control through Ubidots.</span></td>
     </tr>
     <tr>
-        <td><h5><a href="https://github.com/cakraawijaya/ThingSpeak-Environmental-Monitoring-System">ThingSpeak Environmental Monitoring System</a></h5></td>
-        <td><sub><strong>ESP32</strong> · <strong>HTTP</strong> · <strong>ThingSpeak</strong></sub></td>
-        <td><span>Environmental monitoring system — monitors temperature, humidity, and light intensity with cloud-based data logging and real-time dashboard visualization through ThingSpeak.</span></td>
+        <td align="left"><h5><a href="https://github.com/cakraawijaya/ThingSpeak-Environmental-Monitoring-System">ThingSpeak Environmental Monitoring System</a></h5></td>
+        <td align="left"><sub><strong>ESP32</strong> · <strong>HTTP</strong> · <strong>ThingSpeak</strong></sub></td>
+        <td align="justify"><span>Environmental monitoring system — monitors temperature, humidity, and light intensity with cloud-based data logging and real-time dashboard visualization through ThingSpeak.</span></td>
     </tr>
 </table>
 
 <br/>
 
 <h2></h2><h2 align="left">🛠️ Tech Stack</h2>
-<span align="justify">Some of the Programming Languages, Development Tools, and other things I've used for work.</span>
+<div align="justify"><span>Some of the Programming Languages, Development Tools, and other things I've used for work.</span></div>
 <br/><br/>
 
 <table>
@@ -508,7 +509,7 @@ For more information, <a href="https://drive.google.com/drive/folders/1MW0OHl7oE
 
 <h2></h2><h2 align="left">🌐 My Community</h2>
 
-<span align="justify">These communities have been an important part of my learning journey. Through them, I've gained knowledge, shared experiences, discovered new perspectives, and learned from people with different backgrounds.</span>
+<div align="justify"><span>These communities have been an important part of my learning journey. Through them, I've gained knowledge, shared experiences, discovered new perspectives, and learned from people with different backgrounds.</span></div>
 <br/><br/>
 
 <div align="left">
@@ -597,7 +598,7 @@ For more information, <a href="https://drive.google.com/drive/folders/1MW0OHl7oE
 
 <h2></h2><h2 align="left">📫 Let's Connect</h2>
 
-<span align="justify">I'm always happy to connect, exchange ideas, and have meaningful conversations. Whether it's a discussion, a collaboration, or a new opportunity, feel free to reach out. I'd love to hear from you and see what we can create together.</span>
+<div align="justify"><span>I'm always happy to connect, exchange ideas, and have meaningful conversations. Whether it's a discussion, a collaboration, or a new opportunity, feel free to reach out. I'd love to hear from you and see what we can create together.</span></div>
 <br/><br/>
 
 <div align="left">
