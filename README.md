@@ -21,7 +21,7 @@
 
 <div align="justify">
 
-A Software Developer with a Bachelor’s degree in Informatics who focused on web development and IoT integration. Experienced in building systems such as clinic service, warehouse and workforce management, as well as real-time remote device monitoring and control platforms. Was accustomed to using both native web technologies and frameworks, and was able to collaborate via GitHub. Was oriented toward efficient solutions, and continuously developed in modern technology to deliver value for users and businesses.<br/><br/>
+A Software Developer with a Bachelor of Computer Science (S.Kom.) in Informatics who focused on web development and IoT integration. Experienced in building systems such as clinic service, warehouse and workforce management, as well as real-time remote device monitoring and control platforms. Was accustomed to using both native web technologies and frameworks, and was able to collaborate via GitHub. Was oriented toward efficient solutions, and continuously developed in modern technology to deliver value for users and businesses.<br/><br/>
 Willing to relocate: Anywhere.
 
 </div>
