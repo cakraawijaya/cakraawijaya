@@ -491,6 +491,7 @@ Willing to relocate: Anywhere.
 <h2></h2><h2 align="left">🏅 Certifications & Awards</h2>
 
 <ul>
+    <li><span><strong>Certificate of Competence: &nbsp;Engineer Perangkat IoT (2026)</strong>&nbsp; — &nbsp;BNSP</li></span>
     <li><span><strong>Certificate of Innovation & Achievement: &nbsp;EW Project Challenge (2026)</strong>&nbsp; — &nbsp;ElectronicWings x MOUSER, India</li></span>
     <li><span><strong>Bootcamp Perancangan dan Perekayasaan Industrial Internet of Things (2026)</strong>&nbsp; — &nbsp;Edutic.id x BNSP</li></span>
     <li><span><strong>Spec-Driven Development dengan Kiro (2026)</strong>&nbsp; — &nbsp;Dicoding Indonesia</li></span>
