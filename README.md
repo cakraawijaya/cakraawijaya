@@ -407,12 +407,12 @@ Willing to relocate: Anywhere.
             <img src="Assets/Hardware, IoT Development and Integration Tools/grafana.webp" width="36" height="36" alt="grafana"><br/>
             <sub>Grafana</sub>
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96">
             <img src="Assets/Hardware, IoT Development and Integration Tools/mqttx.webp" width="36" height="36" alt="mqttx"><br/>
             <sub>MQTTX</sub>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96">
             <img src="Assets/Hardware, IoT Development and Integration Tools/kodular.webp" width="36" height="36" alt="kodular"><br/>
             <sub>Kodular</sub>
@@ -437,8 +437,6 @@ Willing to relocate: Anywhere.
             <img src="Assets/Hardware, IoT Development and Integration Tools/modscan.webp" width="36" height="36" alt="modscan"><br/>
             <sub>MODSCAN</sub>
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96">
             <img src="Assets/Hardware, IoT Development and Integration Tools/modbuspoll.webp" width="36" height="36" alt="modbus-poll"><br/>
             <sub>MODBUS POLL</sub>
