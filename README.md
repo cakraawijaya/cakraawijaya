@@ -388,6 +388,14 @@ Willing to relocate: Anywhere.
             <sub>Eagle</sub>
         </td>
         <td align="center" width="96">
+            <img src="Assets/Hardware, IoT Development and Integration Tools/arduino.webp" width="36" height="36" alt="arduino-ide"><br/>
+            <sub>Arduino IDE</sub>
+        </td>
+        <td align="center" width="96">
+            <img src="Assets/Hardware, IoT Development and Integration Tools/thonny.webp" width="36" height="36" alt="thonny-ide"><br/>
+            <sub>Thonny IDE</sub>
+        </td>
+        <td align="center" width="96">
             <img src="Assets/Hardware, IoT Development and Integration Tools/platformio.webp" width="36" height="36" alt="platform-io"><br/>
             <sub>PlatformIO</sub>
         </td>
@@ -399,6 +407,8 @@ Willing to relocate: Anywhere.
             <img src="Assets/Hardware, IoT Development and Integration Tools/grafana.webp" width="36" height="36" alt="grafana"><br/>
             <sub>Grafana</sub>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96">
             <img src="Assets/Hardware, IoT Development and Integration Tools/mqttx.webp" width="36" height="36" alt="mqttx"><br/>
             <sub>MQTTX</sub>
@@ -407,8 +417,6 @@ Willing to relocate: Anywhere.
             <img src="Assets/Hardware, IoT Development and Integration Tools/kodular.webp" width="36" height="36" alt="kodular"><br/>
             <sub>Kodular</sub>
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96">
             <img src="Assets/Hardware, IoT Development and Integration Tools/mitappinventor.webp" width="36" height="36" alt="mit-app-inventor"><br/>
             <sub>MIT App<br/>Inventor</sub>
@@ -429,6 +437,8 @@ Willing to relocate: Anywhere.
             <img src="Assets/Hardware, IoT Development and Integration Tools/modscan.webp" width="36" height="36" alt="modscan"><br/>
             <sub>MODSCAN</sub>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96">
             <img src="Assets/Hardware, IoT Development and Integration Tools/modbuspoll.webp" width="36" height="36" alt="modbus-poll"><br/>
             <sub>MODBUS POLL</sub>
