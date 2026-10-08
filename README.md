@@ -87,7 +87,7 @@ Willing to relocate: Anywhere.
 
 <table>
     <tr>
-        <td align="center" width="140" rowspan="2">
+        <td align="center" width="136" rowspan="2">
             <h5>Programming Language</h5>
         </td>
         <td align="center" width="96">
@@ -140,7 +140,7 @@ Willing to relocate: Anywhere.
 </table>
 <table>
     <tr>
-        <td align="center" width="140">
+        <td align="center" width="136">
             <h5>Frontend</h5>
         </td>
         <td align="center" width="96">
@@ -167,7 +167,7 @@ Willing to relocate: Anywhere.
 </table>
 <table>
     <tr>
-        <td align="center" width="140" rowspan="2">
+        <td align="center" width="136" rowspan="2">
             <h5>Backend, Runtime, Server & Database</h5>
         </td>
         <td align="center" width="96">
@@ -220,7 +220,7 @@ Willing to relocate: Anywhere.
 </table>
 <table>
     <tr>
-        <td align="center" width="140">
+        <td align="center" width="136">
             <h5>Web Development Tools</h5>
         </td>
         <td align="center" width="96">
@@ -255,7 +255,7 @@ Willing to relocate: Anywhere.
 </table>
 <table>
     <tr>
-        <td align="center" width="140">
+        <td align="center" width="136">
             <h5>Development Board</h5>
         </td>
         <td align="center" width="96">
@@ -278,7 +278,7 @@ Willing to relocate: Anywhere.
 </table>
 <table>
     <tr>
-        <td align="center" width="140" rowspan="2">
+        <td align="center" width="136" rowspan="2">
             <h5>Communication Protocols & Hardware Interfaces</h5>
         </td>
         <td align="center" width="96">
@@ -323,7 +323,7 @@ Willing to relocate: Anywhere.
 </table>
 <table>
     <tr>
-        <td align="center" width="140" rowspan="2">
+        <td align="center" width="136" rowspan="2">
             <h5>IoT Platform & MQTT Broker</h5>
         </td>
         <td align="center" width="96">
@@ -376,7 +376,7 @@ Willing to relocate: Anywhere.
 </table>
 <table>
     <tr>
-        <td align="center" width="140" rowspan="2">
+        <td align="center" width="136" rowspan="2">
             <h5>Hardware, IoT Development & Integration Tools</h5>
         </td>
         <td align="center" width="96">
@@ -445,7 +445,7 @@ Willing to relocate: Anywhere.
 </table>
 <table>
     <tr>
-        <td align="center" width="140">
+        <td align="center" width="136">
             <h5>DevOps & Version Control</h5>
         </td>
         <td align="center" width="96">
@@ -468,7 +468,7 @@ Willing to relocate: Anywhere.
 </table>
 <table>
     <tr>
-        <td align="center" width="140">
+        <td align="center" width="136">
             <h5>Design & Productivity</h5>
         </td>
         <td align="center" width="96">
