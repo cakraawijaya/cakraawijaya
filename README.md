@@ -408,7 +408,7 @@ Willing to relocate: Anywhere.
 </table>
 <table>
     <tr>
-        <td align="center" width="130">
+        <td align="center" width="130" rowspan="2">
             <h5>IoT & Industrial Systems Integration</h5>
         </td>
         <td align="center" width="96">
@@ -435,6 +435,8 @@ Willing to relocate: Anywhere.
             <img src="Assets/Hardware, IoT Development and Integration Tools/telegrambot.webp" width="36" height="36" alt="telegram-bot"><br/>
             <sub>Telegram Bot</sub>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96">
             <img src="Assets/Hardware, IoT Development and Integration Tools/modscan.webp" width="36" height="36" alt="modscan"><br/>
             <sub>MODSCAN</sub>
