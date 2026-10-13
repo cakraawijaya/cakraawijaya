@@ -629,7 +629,7 @@ For more information, <a href="https://drive.google.com/drive/folders/1MW0OHl7oE
 Enjoying my work? Support me through Saweria. Every contribution means a lot! ❤️
 
 <div align="center">
-  <img src="./assets/saweria-qr.png" alt="Saweria QR Code" width="250">
+  <img src="Assets/Support Me/saweria-qr.webp" alt="Saweria QR Code" width="250">
 </div>
 
 <p align="center">
