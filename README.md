@@ -624,6 +624,20 @@ For more information, <a href="https://drive.google.com/drive/folders/1MW0OHl7oE
 
 <br/>
 
+<h2></h2><h2 align="left">🍵 Support Me</h2>
+
+Enjoying my work? Support me through Saweria. Every contribution means a lot! ❤️
+
+<div align="center">
+  <img src="./assets/saweria-qr.png" alt="Saweria QR Code" width="250">
+</div>
+
+<p align="center">
+  <sub>Thank you for your support! ☕</sub>
+</p>
+
+<br/>
+
 <h2></h2><h2 align="left">📫 Let's Connect</h2>
 
 <div align="justify"><span>I'm always happy to connect, exchange ideas, and have meaningful conversations. Whether it's a discussion, a collaboration, or a new opportunity, feel free to reach out. I'd love to hear from you and see what we can create together.</span></div>
